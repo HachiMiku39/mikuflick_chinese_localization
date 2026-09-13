@@ -1,0 +1,2 @@
+# mikuflick_chinese_localization
+MikuFlick中文汉化计划
