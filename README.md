@@ -3,6 +3,8 @@
 为 iOS 游戏 **Miku Flick（一代）** 与 **Miku Flick/02** 提供简体中文本地化文本，包括游戏帮助与说明。汉化通过替换 `Localizable.strings` 实现，不修改游戏逻辑、谱面或 UI 布局，也不保证图片中的文字会变成中文。
 
 **本教程必须在已越狱、且越狱环境正常工作的设备上操作。安装证书或连接爱思助手本身不等于完成越狱。**
+**MikuFlick只支持iOS5-iOS10的32位设备**
+**如果你已经越狱，请跳到第四章**
 
 [下载汉化文件](https://github.com/HachiMiku39/mikuflick_chinese_localization/releases/tag/MikuFlick-CN)
 
