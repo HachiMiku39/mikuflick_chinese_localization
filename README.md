@@ -15,9 +15,11 @@
 3. 确认设备已经越狱，能够打开 Cydia，并能通过文件工具访问游戏的 `.app` 程序包。若尚未越狱，先按对应设备和系统版本完成越狱。
 4. **中国大陆用户请提前准备能稳定访问国际互联网的网络，并在越狱、证书下载、添加软件源、刷新源和安装补丁的全过程保持连通。** 需要确认手机自身能访问相关站点；电脑能打开，不代表手机也能打开。
 
-以下以 **iPhone 4S / iOS 9 / Carbon** 的准备流程为例。Carbon 当前标明支持 **32 位设备、iOS 8.0–9.3.6**；不要把这套方法直接套用到 iPhone 5s 等 64 位设备或其他系统版本。[Carbon 使用指南](https://ios.cfw.guide/using-carbon/)
+以下以 **iPhone 4S / iOS 6/9（降级操作） / Carbon** 的准备流程为例。Carbon 当前标明支持 **32 位设备、iOS 8.0–9.3.6**；不要把这套方法直接套用到 iPhone 5s 等 64 位设备或其他系统版本。[Carbon 使用指南](https://ios.cfw.guide/using-carbon/)
 
-## 二、iOS 9：准备日期、证书与 Carbon
+iOS 9的iPhone 4S建议降级到iOS6。降级请使用Legacy-iOS-Kit操作，需要macOS设备。
+
+## 二、For iOS 6/9：准备日期、证书与 Carbon
 
 本项目维护者此前操作时，需要先调整日期，再处理 Carbon 页面提供的证书。按这次使用的流程：
 
@@ -61,6 +63,776 @@ https://cydia.akemi.ai/
 在 Cydia 搜索并安装适用于当前系统的 **Apple File Conduit “2” / AFC2**。原作者的软件包标识为 `com.saurik.afc2d`，安装前核对来源与系统兼容性。[原作者软件包页面](https://cydia.saurik.com/package/com.saurik.afc2d/)
 
 安装完成后，按提示重启服务或设备，再重新连接电脑。如果设备重启后越狱环境没有自动恢复，先按所用越狱方案重新激活，再检查 AFC2；不要只凭爱思助手里显示“已越狱”就跳过文件访问检查。
+
+##iOS10章节：本章节使用iPhone 6S操作，步骤和iOS6有区别。
+可以，下面这版我按“实际跑通案例 + GitHub 可直接粘贴”的风格整理，尽量把这次踩过的坑都写进去。
+
+
+# iPhone 6s / iOS 10.3.1 越狱并安装 MikuFlick 02 实测教程
+
+> 实测环境：iPhone 6s / A9 / iOS 10.3.1  
+> 时间：2026  
+> 目标：在 iOS 10 上完成越狱、安装 AppSync、恢复 USB 文件系统访问，并安装运行 MikuFlick / MikuFlick 02。
+>
+> 本文主要记录一次实际跑通的流程。iOS 10 越狱生态年代久远，不同设备、不同 bootstrap 和不同软件源可能存在差异，请不要机械套用其他 iOS 版本的教程。
+
+---
+
+## 0. 最终跑通的环境
+
+本次最终使用：
+
+- iPhone 6s
+- iOS 10.3.1
+- A9
+- TotallyNotSpyware / TNS 网页越狱
+- Zebra
+- AppSync Unified 68.0
+- Substrate Safe Mode
+- Cydia Substrate 0.9.7020
+- Saurik Apple File Conduit "2" 1.2
+- MikuFlick 02 IPA
+
+最终可以实现：
+
+- 安装未重新签名的旧 IPA
+- 运行 MikuFlick 02
+- USB 访问越狱文件系统
+- 后续替换 `Localizable.strings`
+- 导入存档和修改游戏资源
+
+---
+
+# 1. 清理设备
+
+本次首先将设备抹掉重新设置。
+
+路径：
+
+```text
+设置
+→ 通用
+→ 还原
+→ 抹掉所有内容和设置
+```
+
+注意：
+
+**不要使用 Finder / iTunes 对 iPhone 6s 执行普通完整 Restore。**
+
+iOS 10.3.1 早已停止签名，普通官方 Restore 很可能直接把设备升级到仍受支持的较新系统。
+
+本案例只是清除用户数据，没有重新刷 IPSW。
+
+如果设备存在 Activation Lock，请使用设备原本绑定的 Apple ID 正常完成激活。
+
+---
+
+# 2. 完成初始设置
+
+完成 iOS 10 初始设置并连接 Wi-Fi。
+
+本案例使用爱思助手辅助跳过部分初始设置步骤。
+
+建议此时检查：
+
+```text
+设置 → 通用 → 关于本机
+```
+
+确认系统仍然是：
+
+```text
+iOS 10.3.1
+```
+
+---
+
+# 3. 修复 TLS / 根证书
+
+2026 年的互联网环境已经远远超过 iOS 10 自带根证书库的年代。
+
+如果不补证书，可能出现：
+
+- Safari 无法打开 HTTPS 网站
+- Zebra 无法刷新软件源
+- repo 报 TLS / SSL 错误
+- TNS 网页无法正常加载
+
+可以使用：
+
+```text
+http://tlsroot.litten.ca
+```
+
+安装：
+
+```text
+Signed iOS Bundle (iOS 5+)
+```
+
+---
+
+## 描述文件时间问题
+
+老 iOS 安装签名描述文件时，有时会因为证书时间问题无法安装。
+
+可以尝试：
+
+1. 暂时关闭自动日期
+2. 将日期调整到较早年份
+3. 安装证书描述文件
+4. 安装完成后立即恢复正确日期
+5. 重新开启自动日期
+
+注意：
+
+**访问现代 HTTPS 网站时必须使用正确的当前时间。**
+
+否则现代网站证书会因为 `Not Before / Not After` 校验失败。
+
+---
+
+# 4. 使用 TNS 网页越狱
+
+iPhone 6s / iOS 10.3.1 可以使用当前维护的 TotallyNotSpyware / TNS。
+
+地址：
+
+```text
+https://lukezgd.github.io/tns
+```
+
+Safari 打开后：
+
+```text
+Slide for Spyware
+→ noot noot
+```
+
+成功后会安装 Zebra。
+
+TNS 属于 semi-untethered 类型。
+
+也就是说：
+
+```text
+每次完整重启
+→ 越狱状态失效
+→ 再访问 TNS 页面
+→ 重新激活越狱
+```
+
+已安装的软件包不会因为普通重启消失。
+
+---
+
+# 5. Zebra 国行 iOS 10 网络问题
+
+这是本次遇到的一个非常典型的问题。
+
+现象：
+
+```text
+Zebra 能打开
+但所有源均显示：
+
+“似乎已断开与互联网的连接”
+```
+
+即使：
+
+- Wi-Fi 正常
+- Safari 正常上网
+- 使用国际互联网
+- HTTPS 网站正常
+
+仍可能发生。
+
+这是国行旧版 iOS 的 App 网络权限机制遗留问题之一。
+
+可能出现：
+
+```text
+设置
+→ 无线局域网
+→ 使用无线局域网与蜂窝移动的应用
+```
+
+里面根本没有 Zebra。
+
+---
+
+## 本次实际解决方式
+
+本次重新清理设备并重新运行 TNS 后，Zebra 第一次初始化时终于成功联网。
+
+成功时可以看到类似：
+
+```text
+https://getzbra.com/repo/       已完成
+https://repo.chariz.com/        已完成
+https://havoc.app/              已完成
+http://apt.thebigboss.org/...   已完成
+```
+
+如果只有个别老源失败，例如：
+
+```text
+apt.saurik.com
+```
+
+但其他 HTTPS / HTTP 源均正常，则说明 Zebra 网络已经恢复。
+
+---
+
+# 6. 不要直接依赖现代 AppSync
+
+当前 AppSync Unified 最新版本的依赖关系已经和这套老 iOS 10 环境产生了一些历史兼容问题。
+
+本次最终使用：
+
+```text
+AppSync Unified 68.0
+```
+
+旧包 ID：
+
+```text
+net.angelxwind.appsyncunified
+```
+
+AppSync 68.0 是 2019 年时代的版本，对 iOS 10 越狱环境兼容性较好。
+
+---
+
+## AppSync 68.0 SHA256
+
+建议下载旧 `.deb` 后验证 SHA256：
+
+```text
+f8ccdd339173dff03fd923e32b9b67e195c8c1490c5dd914e503e90488c569da
+```
+
+Mac：
+
+```bash
+shasum -a 256 net.angelxwind.appsyncunified_68.0.deb
+```
+
+只有 Hash 一致时再安装。
+
+---
+
+# 7. iOS 10 没有真正的 Files App
+
+iOS 10 最大的问题之一是：
+
+```text
+没有现代 iOS 的“文件”App
+```
+
+Safari 下载 `.deb` 后很难像现代系统一样管理。
+
+本次使用 Mac 临时开启 HTTP 文件服务器。
+
+进入 `.deb` 所在目录：
+
+```bash
+python3 -m http.server 8080
+```
+
+查询 Mac 局域网 IP，例如：
+
+```text
+192.168.1.100
+```
+
+然后 iPhone Safari 打开：
+
+```text
+http://192.168.1.100:8080/
+```
+
+点击：
+
+```text
+net.angelxwind.appsyncunified_68.0.deb
+```
+
+然后选择：
+
+```text
+在 Zebra 中打开
+```
+
+由 Zebra 本地安装。
+
+---
+
+# 8. 安装 Cydia Substrate
+
+这台：
+
+```text
+iPhone 6s
+A9
+iOS 10.3.1
+TNS
+```
+
+最终使用传统 Cydia Substrate 环境。
+
+本次版本：
+
+```text
+Cydia Substrate 0.9.7020
+```
+
+文件名：
+
+```text
+mobilesubstrate_0.9.7020_iphoneos-arm.deb
+```
+
+如果 Zebra 安装时提示缺：
+
+```text
+com.saurik.substrate.safemode
+```
+
+则需要先安装：
+
+```text
+Substrate Safe Mode
+```
+
+本次使用：
+
+```text
+Substrate Safe Mode 0.9.6001
+```
+
+然后再安装：
+
+```text
+Cydia Substrate 0.9.7020
+```
+
+---
+
+# 9. 安装 AFC2
+
+目标是让电脑可以通过 USB 访问完整越狱文件系统。
+
+这里有一个大坑。
+
+## 不要安装旧 `afc2add`
+
+错误包：
+
+```text
+afc2add
+us.scw.afctwoadd
+```
+
+安装后可能出现：
+
+```text
+/System/Library/Lockdown/Services.plist
+File not found
+```
+
+这是非常老的 AFC2 实现，不适合本次 iOS 10 环境。
+
+---
+
+## 正确使用 Saurik Apple File Conduit "2"
+
+本次最终使用：
+
+```text
+Apple File Conduit "2"
+Version 1.2
+```
+
+包 ID：
+
+```text
+com.saurik.afc2d
+```
+
+它需要：
+
+```text
+Cydia Substrate
+```
+
+所以正确顺序是：
+
+```text
+Substrate Safe Mode
+↓
+Cydia Substrate 0.9.7020
+↓
+Apple File Conduit "2" 1.2
+```
+
+安装完成后：
+
+```text
+重启 iPhone
+→ 再运行 TNS
+→ 恢复越狱状态
+→ 重新插拔 USB
+```
+
+之后爱思助手 / iFunBox 等工具应该能够访问越狱文件系统。
+
+---
+
+# 10. 安装 MikuFlick 02
+
+AppSync 成功以后，可以开始安装 IPA。
+
+本案例最终：
+
+```text
+MikuFlick 02 安装成功
+```
+
+因此可以确认：
+
+```text
+AppSync
++
+Substrate
++
+installd
+```
+
+这一套已经正常工作。
+
+---
+
+# 11. 不建议用 Safari 下载大型 IPA
+
+这是本次踩到的另一个大坑。
+
+iOS 10 的文件管理能力非常差。
+
+如果 Safari 下载一个大型 IPA，安装时可能同时存在：
+
+```text
+IPA 压缩文件
++
+安装 staging
++
+解压后的 .app
++
+Safari 下载缓存
+```
+
+非常容易把 16 GB / 32 GB 老设备空间直接吃满。
+
+出现：
+
+```text
+可用空间突然归零
+```
+
+甚至重启也不一定完全释放。
+
+---
+
+## 推荐方式
+
+大型 IPA 应该保存在 Mac 上，通过 USB 安装。
+
+推荐：
+
+```text
+Legacy iOS Kit
+→ App Management
+→ Install IPA (ideviceinstaller)
+```
+
+或者：
+
+```bash
+ideviceinstaller install MikuFlick02.ipa
+```
+
+这样 IPA 本体不用先完整复制到 Safari 下载目录。
+
+---
+
+# 12. 重启之后记得重新越狱
+
+TNS 是 semi-untethered。
+
+所以每次：
+
+```text
+关机
+重启
+电池耗尽
+```
+
+以后都要：
+
+```text
+Safari
+→ TNS
+→ Slide for Spyware
+→ noot noot
+```
+
+重新恢复越狱状态。
+
+否则：
+
+- Zebra 可能能打开但功能异常
+- Substrate 不工作
+- AppSync hook 可能失效
+- AFC2 可能无法使用
+
+---
+
+# 13. MikuFlick 02 汉化
+
+安装成功以后，可以通过 AFC2 直接修改 App Bundle。
+
+找到：
+
+```text
+MikuFlick02.app
+```
+
+然后：
+
+```text
+en.lproj/Localizable.strings
+```
+
+如果使用本项目的 MikuFlick 02 汉化文件：
+
+```text
+Localizable2.strings
+```
+
+复制进游戏前改名为：
+
+```text
+Localizable.strings
+```
+
+覆盖：
+
+```text
+MikuFlick02.app/en.lproj/Localizable.strings
+```
+
+建议覆盖前先备份原文件。
+
+然后彻底退出游戏重新启动。
+
+---
+
+# 14. 本次最终流程
+
+完整流程可以压缩成：
+
+```text
+iPhone 6s / iOS 10.3.1
+        ↓
+抹掉用户数据
+        ↓
+完成激活 / 初始设置
+        ↓
+安装现代 TLS 根证书
+        ↓
+TNS 网页越狱
+        ↓
+Zebra
+        ↓
+Python HTTP Server 发送本地 deb
+        ↓
+AppSync Unified 68.0
+        ↓
+Substrate Safe Mode
+        ↓
+Cydia Substrate 0.9.7020
+        ↓
+Apple File Conduit "2" 1.2
+        ↓
+重启
+        ↓
+重新运行 TNS
+        ↓
+USB / AFC2
+        ↓
+安装 MikuFlick 02 IPA
+        ↓
+替换 Localizable.strings
+```
+
+---
+
+# 15. 本次确认无效 / 不推荐的方法
+
+## Meridian
+
+本次曾尝试安装 Meridian。
+
+由于设备已经存在 TNS bootstrap，Meridian 提示：
+
+```text
+please erase
+```
+
+不建议在已经存在 TNS 环境时强行混装另一套 jailbreak bootstrap。
+
+---
+
+## 现代 AppSync 116.x
+
+现代 AppSync 会带来：
+
+```text
+mobilesubstrate
+```
+
+等依赖关系问题。
+
+本次最终选择：
+
+```text
+AppSync Unified 68.0
+```
+
+---
+
+## afc2add 1.01
+
+会尝试修改老路径：
+
+```text
+/System/Library/Lockdown/Services.plist
+```
+
+在本案例中失败。
+
+不要使用。
+
+---
+
+## iOS 11+ AFC2
+
+不要安装明确要求：
+
+```text
+firmware >= 11.0
+```
+
+的新版 AFC2。
+
+本设备是：
+
+```text
+iOS 10.3.1
+```
+
+---
+
+## Safari 下载大型 IPA
+
+非常不推荐。
+
+iOS 10 缺少现代 Files / Downloads 管理机制，大型 IPA 很容易把存储空间吃满。
+
+大 IPA 优先：
+
+```text
+Mac
+→ USB
+→ ideviceinstaller
+```
+
+---
+
+# 16. 建议保存的安装包
+
+考虑到这些软件源未来可能继续失效，建议自行保存本次确认可用的 `.deb`：
+
+```text
+AppSync Unified 68.0
+
+Substrate Safe Mode 0.9.6001
+
+Cydia Substrate 0.9.7020
+
+Apple File Conduit "2" 1.2
+```
+
+同时保存：
+
+```text
+SHA256
+来源
+版本号
+包 ID
+```
+
+这样未来即使 repo 下线，也可以通过：
+
+```bash
+python3 -m http.server 8080
+```
+
+重新安装。
+
+---
+
+# 17. 推荐备份
+
+对于仍然停留在 iOS 10 的设备，建议额外保存：
+
+- 当前 IPA
+- 汉化文件
+- 存档
+- 所需 `.deb`
+- TLS 根证书
+- 当前系统 SHSH / onboard blobs
+- 设备对应的 iOS 10 IPSW
+
+因为：
+
+```text
+旧 iOS 版本本身
+```
+
+已经是整个实验环境中最难重新获得的部分。
+
+---
+
+# 18. 当前状态
+
+本次最终结果：
+
+```text
+iPhone 6s
+iOS 10.3.1
+TNS Jailbreak
+Zebra
+AppSync Unified 68.0
+Cydia Substrate
+AFC2
+MikuFlick 02
+```
+
+MikuFlick 02 已成功安装。
+
 
 ## 四、下载对应游戏的汉化文件
 
