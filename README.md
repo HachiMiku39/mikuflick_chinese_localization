@@ -17,6 +17,8 @@
 
 以下以 **iPhone 4S / iOS 9 / Carbon** 的准备流程为例。Carbon 当前标明支持 **32 位设备、iOS 8.0–9.3.6**；不要把这套方法直接套用到 iPhone 5s 等 64 位设备或其他系统版本。[Carbon 使用指南](https://ios.cfw.guide/using-carbon/)
 
+关于iOS10设备，请参见另一个branch。 iOS10对于比较新的设备只有不完美越狱
+
 ## 二、iOS 9：准备日期、证书与 Carbon
 
 本项目维护者此前操作时，需要先调整日期，再处理 Carbon 页面提供的证书。按这次使用的流程：
