@@ -1,4 +1,4 @@
-# Miku Flick 简体中文汉化
+# Miku Flick 简体中文汉化/iOS10设备在2026年后的越狱教学
 
 为 iOS 游戏 **Miku Flick（一代）** 与 **Miku Flick/02** 提供简体中文本地化文本，包括游戏帮助与说明。汉化通过替换 `Localizable.strings` 实现，不修改游戏逻辑、谱面或 UI 布局，也不保证图片中的文字会变成中文。
 
