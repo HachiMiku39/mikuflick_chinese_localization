@@ -1,0 +1,4841 @@
+{
+  "UI_tex_01": {
+    "file": "UI_tex_01.plist",
+    "texture": "UI_tex_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_01.png",
+      "textureFileName": "UI_tex_01.png",
+      "size": "{1024,1024}",
+      "smartupdate": "$TexturePacker:SmartUpdate:0359423fe9d78935165a3f0bd5ea37f3$"
+    },
+    "frames": {
+      "shop.png": {
+        "height": 39,
+        "x": 723,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 749,
+        "width": 62,
+        "originalHeight": 39,
+        "originalWidth": 62
+      },
+      "baseline.png": {
+        "height": 46,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 955,
+        "width": 640,
+        "originalHeight": 46,
+        "originalWidth": 640
+      },
+      "difficulty_on_04.png": {
+        "height": 49,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 229,
+        "originalHeight": 49,
+        "originalWidth": 229
+      },
+      "failedsound_on_b.png": {
+        "height": 45,
+        "x": 405,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 840,
+        "width": 199,
+        "originalHeight": 45,
+        "originalWidth": 199
+      },
+      "infoicon_off.png": {
+        "height": 67,
+        "x": 950,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 439,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "ending.png": {
+        "height": 32,
+        "x": 610,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 731,
+        "width": 112,
+        "originalHeight": 32,
+        "originalWidth": 112
+      },
+      "clearrank_a.png": {
+        "height": 35,
+        "x": 441,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 462,
+        "width": 35,
+        "originalHeight": 35,
+        "originalWidth": 35
+      },
+      "outsidewindow_07.png": {
+        "height": 63,
+        "x": 896,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 269,
+        "width": 76,
+        "originalHeight": 63,
+        "originalWidth": 76
+      },
+      "titleeffect_b_01.png": {
+        "height": 64,
+        "x": 804,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 738,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "titleeffect_r_00.png": {
+        "height": 64,
+        "x": 557,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 587,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "titleeffect_y_02.png": {
+        "height": 64,
+        "x": 851,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 673,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "ruledline.png": {
+        "height": 3,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 1018,
+        "width": 537,
+        "originalHeight": 3,
+        "originalWidth": 537
+      },
+      "outsidewindow_01.png": {
+        "height": 89,
+        "x": 919,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 665,
+        "width": 103,
+        "originalHeight": 89,
+        "originalWidth": 103
+      },
+      "sgnbutton_on.png": {
+        "height": 62,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 659,
+        "width": 209,
+        "originalHeight": 62,
+        "originalWidth": 209
+      },
+      "difficulty_off_03.png": {
+        "height": 49,
+        "x": 605,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 847,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "clearrank_b.png": {
+        "height": 35,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 551,
+        "width": 35,
+        "originalHeight": 35,
+        "originalWidth": 35
+      },
+      "sgnbutton_off.png": {
+        "height": 62,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 955,
+        "width": 209,
+        "originalHeight": 62,
+        "originalWidth": 209
+      },
+      "locked.png": {
+        "height": 57,
+        "x": 979,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 225,
+        "width": 45,
+        "originalHeight": 57,
+        "originalWidth": 45
+      },
+      "difficulty_off_01.png": {
+        "height": 49,
+        "x": 400,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 886,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "loop_on.png": {
+        "height": 93,
+        "x": 491,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 459,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "titleeffect_y_01.png": {
+        "height": 64,
+        "x": 311,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 399,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "difficulty_on_03.png": {
+        "height": 49,
+        "x": 869,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 755,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "modechange_on.png": {
+        "height": 70,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 722,
+        "width": 404,
+        "originalHeight": 70,
+        "originalWidth": 404
+      },
+      "titleeffect_b_00.png": {
+        "height": 64,
+        "x": 299,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 594,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "outsidewindow_06.png": {
+        "height": 63,
+        "x": 546,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 717,
+        "width": 63,
+        "originalHeight": 63,
+        "originalWidth": 63
+      },
+      "clearrank_c.png": {
+        "height": 35,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 515,
+        "width": 35,
+        "originalHeight": 35,
+        "originalWidth": 35
+      },
+      "menubutton_m_base.png": {
+        "height": 82,
+        "x": 665,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 324,
+        "originalHeight": 82,
+        "originalWidth": 324
+      },
+      "replay_on.png": {
+        "height": 67,
+        "x": 882,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 333,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "clearstar_s.png": {
+        "height": 24,
+        "x": 990,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 62,
+        "width": 24,
+        "originalHeight": 24,
+        "originalWidth": 24
+      },
+      "infoarrow_01.png": {
+        "height": 52,
+        "x": 622,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 678,
+        "width": 116,
+        "originalHeight": 52,
+        "originalWidth": 116
+      },
+      "outsidewindow_00.png": {
+        "height": 89,
+        "x": 925,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 575,
+        "width": 99,
+        "originalHeight": 89,
+        "originalWidth": 99
+      },
+      "arrow_forward.png": {
+        "height": 214,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 169,
+        "originalHeight": 214,
+        "originalWidth": 169
+      },
+      "menubutton_l_off.png": {
+        "height": 68,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 330,
+        "width": 380,
+        "originalHeight": 68,
+        "originalWidth": 380
+      },
+      "menubutton_m_on.png": {
+        "height": 68,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 399,
+        "width": 310,
+        "originalHeight": 68,
+        "originalWidth": 310
+      },
+      "difficultycursor.png": {
+        "height": 66,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 215,
+        "width": 164,
+        "originalHeight": 66,
+        "originalWidth": 164
+      },
+      "difficultyemblem_01.png": {
+        "height": 40,
+        "x": 621,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 282,
+        "width": 40,
+        "originalHeight": 40,
+        "originalWidth": 40
+      },
+      "difficultystar_01.png": {
+        "height": 43,
+        "x": 973,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 283,
+        "width": 45,
+        "originalHeight": 43,
+        "originalWidth": 45
+      },
+      "crownicon_off.png": {
+        "height": 67,
+        "x": 950,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 507,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "loop_off.png": {
+        "height": 93,
+        "x": 637,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 490,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "playlist_off.png": {
+        "height": 93,
+        "x": 491,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 365,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "titleeffect_y_00.png": {
+        "height": 64,
+        "x": 376,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 462,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "difficulty_on_02.png": {
+        "height": 49,
+        "x": 210,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 659,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "touchstart.png": {
+        "height": 65,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 537,
+        "width": 298,
+        "originalHeight": 65,
+        "originalWidth": 298
+      },
+      "outsidewindow_05.png": {
+        "height": 95,
+        "x": 915,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 83,
+        "width": 63,
+        "originalHeight": 95,
+        "originalWidth": 63
+      },
+      "failedsound_on_w.png": {
+        "height": 45,
+        "x": 405,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 794,
+        "width": 199,
+        "originalHeight": 45,
+        "originalWidth": 199
+      },
+      "bgeffect_00.png": {
+        "height": 40,
+        "x": 621,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 364,
+        "width": 40,
+        "originalHeight": 40,
+        "originalWidth": 40
+      },
+      "clearrank_star.png": {
+        "height": 35,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 443,
+        "width": 35,
+        "originalHeight": 35,
+        "originalWidth": 35
+      },
+      "menubutton_s_on.png": {
+        "height": 68,
+        "x": 441,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 553,
+        "width": 115,
+        "originalHeight": 68,
+        "originalWidth": 115
+      },
+      "parenthesis_01.png": {
+        "height": 68,
+        "x": 979,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 87,
+        "width": 39,
+        "originalHeight": 68,
+        "originalWidth": 39
+      },
+      "bgeffect_01.png": {
+        "height": 28,
+        "x": 990,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 33,
+        "width": 28,
+        "originalHeight": 28,
+        "originalWidth": 28
+      },
+      "sgnbutton_base.png": {
+        "height": 82,
+        "x": 744,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 805,
+        "width": 229,
+        "originalHeight": 82,
+        "originalWidth": 229
+      },
+      "menubutton_l_base.png": {
+        "height": 82,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 178,
+        "width": 394,
+        "originalHeight": 82,
+        "originalWidth": 394
+      },
+      "replay_off.png": {
+        "height": 67,
+        "x": 950,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 371,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "difficulty_on_01.png": {
+        "height": 49,
+        "x": 405,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 744,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "lyrics_off.png": {
+        "height": 93,
+        "x": 381,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 368,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "failedsound_off_b.png": {
+        "height": 45,
+        "x": 200,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 864,
+        "width": 199,
+        "originalHeight": 45,
+        "originalWidth": 199
+      },
+      "failedsound_off_w.png": {
+        "height": 45,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 864,
+        "width": 199,
+        "originalHeight": 45,
+        "originalWidth": 199
+      },
+      "menubutton_s_off.png": {
+        "height": 68,
+        "x": 441,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 622,
+        "width": 115,
+        "originalHeight": 68,
+        "originalWidth": 115
+      },
+      "difficultycursor_break.png": {
+        "height": 66,
+        "x": 744,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 888,
+        "width": 271,
+        "originalHeight": 66,
+        "originalWidth": 271
+      },
+      "outsidewindow_04.png": {
+        "height": 89,
+        "x": 915,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 179,
+        "width": 63,
+        "originalHeight": 89,
+        "originalWidth": 63
+      },
+      "shuffle_off.png": {
+        "height": 93,
+        "x": 381,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 274,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "clearstar_l.png": {
+        "height": 32,
+        "x": 990,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 32,
+        "originalHeight": 32,
+        "originalWidth": 32
+      },
+      "bgeffect_02.png": {
+        "height": 16,
+        "x": 896,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 212,
+        "width": 16,
+        "originalHeight": 16,
+        "originalWidth": 16
+      },
+      "close_on.png": {
+        "height": 67,
+        "x": 857,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 537,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "shuffle_on.png": {
+        "height": 93,
+        "x": 786,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 212,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "titleeffect_p_02.png": {
+        "height": 64,
+        "x": 311,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 529,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "karaoke_on.png": {
+        "height": 93,
+        "x": 747,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 494,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "lyrics_on.png": {
+        "height": 93,
+        "x": 772,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 400,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "difficulty_off_02.png": {
+        "height": 49,
+        "x": 851,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 955,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "play_off.png": {
+        "height": 93,
+        "x": 662,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 396,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "new.png": {
+        "height": 32,
+        "x": 610,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 764,
+        "width": 72,
+        "originalHeight": 32,
+        "originalWidth": 72
+      },
+      "infoicon_on.png": {
+        "height": 67,
+        "x": 882,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 401,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "close_off.png": {
+        "height": 67,
+        "x": 851,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 605,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "menubutton_l_on.png": {
+        "height": 68,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 261,
+        "width": 380,
+        "originalHeight": 68,
+        "originalWidth": 380
+      },
+      "arrow_head.png": {
+        "height": 218,
+        "x": 665,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 83,
+        "width": 120,
+        "originalHeight": 218,
+        "originalWidth": 120
+      },
+      "bgeffect_03.png": {
+        "height": 128,
+        "x": 786,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 83,
+        "width": 128,
+        "originalHeight": 128,
+        "originalWidth": 128
+      },
+      "difficulty_off_00.png": {
+        "height": 49,
+        "x": 539,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 897,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "back.png": {
+        "height": 37,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 405,
+        "width": 57,
+        "originalHeight": 37,
+        "originalWidth": 57
+      },
+      "crownicon_on.png": {
+        "height": 67,
+        "x": 882,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 469,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "infoarrow_00.png": {
+        "height": 52,
+        "x": 429,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 691,
+        "width": 116,
+        "originalHeight": 52,
+        "originalWidth": 116
+      },
+      "titleeffect_r_02.png": {
+        "height": 64,
+        "x": 311,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 464,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "difficulty_on_00.png": {
+        "height": 49,
+        "x": 605,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 797,
+        "width": 138,
+        "originalHeight": 49,
+        "originalWidth": 138
+      },
+      "titleeffect_p_01.png": {
+        "height": 64,
+        "x": 376,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 592,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "playlist_on.png": {
+        "height": 93,
+        "x": 662,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 302,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "clearrank_s.png": {
+        "height": 35,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 479,
+        "width": 35,
+        "originalHeight": 35,
+        "originalWidth": 35
+      },
+      "outsidewindow_03.png": {
+        "height": 95,
+        "x": 747,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 588,
+        "width": 103,
+        "originalHeight": 95,
+        "originalWidth": 103
+      },
+      "play_on.png": {
+        "height": 93,
+        "x": 772,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 306,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "insidewindow.png": {
+        "height": 177,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 494,
+        "originalHeight": 177,
+        "originalWidth": 494
+      },
+      "bgeffect_04.png": {
+        "height": 64,
+        "x": 364,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 657,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "difficultystar_00.png": {
+        "height": 43,
+        "x": 973,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 45,
+        "originalHeight": 43,
+        "originalWidth": 45
+      },
+      "karaoke_off.png": {
+        "height": 93,
+        "x": 637,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 584,
+        "width": 109,
+        "originalHeight": 93,
+        "originalWidth": 109
+      },
+      "titleeffect_b_02.png": {
+        "height": 64,
+        "x": 739,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 684,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "titleeffect_r_01.png": {
+        "height": 64,
+        "x": 376,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 527,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "modechange_off.png": {
+        "height": 70,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 793,
+        "width": 404,
+        "originalHeight": 70,
+        "originalWidth": 404
+      },
+      "outsidewindow_08.png": {
+        "height": 4,
+        "x": 1019,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 33,
+        "width": 4,
+        "originalHeight": 4,
+        "originalWidth": 4
+      },
+      "menubutton_m_off.png": {
+        "height": 68,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 468,
+        "width": 310,
+        "originalHeight": 68,
+        "originalWidth": 310
+      },
+      "parenthesis_00.png": {
+        "height": 68,
+        "x": 979,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 156,
+        "width": 39,
+        "originalHeight": 68,
+        "originalWidth": 39
+      },
+      "difficultyemblem_00.png": {
+        "height": 40,
+        "x": 621,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 323,
+        "width": 40,
+        "originalHeight": 40,
+        "originalWidth": 40
+      },
+      "titleeffect_p_00.png": {
+        "height": 64,
+        "x": 557,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 652,
+        "width": 64,
+        "originalHeight": 64,
+        "originalWidth": 64
+      },
+      "outsidewindow_02.png": {
+        "height": 95,
+        "x": 395,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 178,
+        "width": 99,
+        "originalHeight": 95,
+        "originalWidth": 99
+      },
+      "menubutton_s_base.png": {
+        "height": 82,
+        "x": 491,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 282,
+        "width": 129,
+        "originalHeight": 82,
+        "originalWidth": 129
+      }
+    }
+  },
+  "UI_tex_02": {
+    "file": "UI_tex_02.plist",
+    "texture": "UI_tex_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_02.png",
+      "size": "{1024,1024}",
+      "textureFileName": "UI_tex_02.png"
+    },
+    "frames": {
+      "cardnumber_05.png": {
+        "height": 78,
+        "x": 772,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 867,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "cardslot.png": {
+        "height": 153,
+        "x": 798,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 224,
+        "width": 103,
+        "originalHeight": 153,
+        "originalWidth": 103
+      },
+      "resultwindow_06.png": {
+        "height": 63,
+        "x": 644,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 954,
+        "width": 63,
+        "originalHeight": 63,
+        "originalWidth": 63
+      },
+      "cardnumber_01.png": {
+        "height": 78,
+        "x": 922,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 772,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "clearrankstamp.png": {
+        "height": 235,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 636,
+        "width": 210,
+        "originalHeight": 235,
+        "originalWidth": 210
+      },
+      "resultwindow_07.png": {
+        "height": 63,
+        "x": 704,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 667,
+        "width": 94,
+        "originalHeight": 63,
+        "originalWidth": 94
+      },
+      "resultarrow_01.png": {
+        "height": 88,
+        "x": 651,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 589,
+        "width": 52,
+        "originalHeight": 88,
+        "originalWidth": 52
+      },
+      "clearrank_00.png": {
+        "height": 107,
+        "x": 710,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 559,
+        "width": 145,
+        "originalHeight": 107,
+        "originalWidth": 145
+      },
+      "resultpanel_00.png": {
+        "height": 104,
+        "x": 526,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 694,
+        "width": 123,
+        "originalHeight": 104,
+        "originalWidth": 123
+      },
+      "resultwindow_08.png": {
+        "height": 4,
+        "x": 799,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 726,
+        "width": 4,
+        "originalHeight": 4,
+        "originalWidth": 4
+      },
+      "resultdifficulty_02.png": {
+        "height": 29,
+        "x": 318,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 991,
+        "width": 164,
+        "originalHeight": 29,
+        "originalWidth": 164
+      },
+      "resultstat_00.png": {
+        "height": 27,
+        "x": 799,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 698,
+        "width": 28,
+        "originalHeight": 27,
+        "originalWidth": 28
+      },
+      "clearrank_02.png": {
+        "height": 107,
+        "x": 380,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 744,
+        "width": 145,
+        "originalHeight": 107,
+        "originalWidth": 145
+      },
+      "cardnumber_08.png": {
+        "height": 78,
+        "x": 644,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 875,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "resultarrow_00.png": {
+        "height": 88,
+        "x": 591,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 875,
+        "width": 52,
+        "originalHeight": 88,
+        "originalWidth": 52
+      },
+      "cardnumber_04.png": {
+        "height": 78,
+        "x": 772,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 946,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "failed.png": {
+        "height": 160,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 224,
+        "width": 256,
+        "originalHeight": 160,
+        "originalWidth": 256
+      },
+      "drstar_on.png": {
+        "height": 22,
+        "x": 915,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 80,
+        "width": 22,
+        "originalHeight": 22,
+        "originalWidth": 22
+      },
+      "cardnumber_00.png": {
+        "height": 78,
+        "x": 836,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 840,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "resultdifficulty_03.png": {
+        "height": 29,
+        "x": 706,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 529,
+        "width": 164,
+        "originalHeight": 29,
+        "originalWidth": 164
+      },
+      "clearrank_04.png": {
+        "height": 107,
+        "x": 299,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 883,
+        "width": 145,
+        "originalHeight": 107,
+        "originalWidth": 145
+      },
+      "scoreresult_off.png": {
+        "height": 67,
+        "x": 718,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 731,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "unlockwindow.png": {
+        "height": 541,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 540,
+        "originalHeight": 541,
+        "originalWidth": 540
+      },
+      "newsong.png": {
+        "height": 39,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 409,
+        "originalHeight": 39,
+        "originalWidth": 409
+      },
+      "difficultyarrow_01.png": {
+        "height": 30,
+        "x": 902,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 30,
+        "originalHeight": 30,
+        "originalWidth": 30
+      },
+      "stloading.png": {
+        "height": 34,
+        "x": 483,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 990,
+        "width": 148,
+        "originalHeight": 34,
+        "originalWidth": 148
+      },
+      "textbar_00.png": {
+        "height": 23,
+        "x": 410,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 596,
+        "width": 4,
+        "originalHeight": 23,
+        "originalWidth": 4
+      },
+      "flickresult_on.png": {
+        "height": 67,
+        "x": 696,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 799,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "cardnumber_07.png": {
+        "height": 78,
+        "x": 708,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 867,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "resultpanel_04.png": {
+        "height": 104,
+        "x": 858,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 378,
+        "width": 123,
+        "originalHeight": 104,
+        "originalWidth": 123
+      },
+      "difficultyarrow_00.png": {
+        "height": 30,
+        "x": 799,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 667,
+        "width": 30,
+        "originalHeight": 30,
+        "originalWidth": 30
+      },
+      "resultdifficulty_04.png": {
+        "height": 29,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 529,
+        "width": 164,
+        "originalHeight": 29,
+        "originalWidth": 164
+      },
+      "cardnumber_03.png": {
+        "height": 78,
+        "x": 854,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 693,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "perfect.png": {
+        "height": 95,
+        "x": 211,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 787,
+        "width": 168,
+        "originalHeight": 95,
+        "originalWidth": 168
+      },
+      "savegame_on.png": {
+        "height": 71,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 385,
+        "width": 316,
+        "originalHeight": 71,
+        "originalWidth": 316
+      },
+      "newrecord.png": {
+        "height": 152,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 872,
+        "width": 152,
+        "originalHeight": 152,
+        "originalWidth": 152
+      },
+      "twitter.png": {
+        "height": 44,
+        "x": 651,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 678,
+        "width": 52,
+        "originalHeight": 44,
+        "originalWidth": 52
+      },
+      "viewreplay_off.png": {
+        "height": 71,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 152,
+        "width": 373,
+        "originalHeight": 71,
+        "originalWidth": 373
+      },
+      "resultpanel_03.png": {
+        "height": 104,
+        "x": 871,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 483,
+        "width": 123,
+        "originalHeight": 104,
+        "originalWidth": 123
+      },
+      "clearrank_01.png": {
+        "height": 107,
+        "x": 445,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 882,
+        "width": 145,
+        "originalHeight": 107,
+        "originalWidth": 145
+      },
+      "resultstat_02.png": {
+        "height": 27,
+        "x": 836,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 919,
+        "width": 28,
+        "originalHeight": 27,
+        "originalWidth": 28
+      },
+      "resultdifficulty_05.png": {
+        "height": 29,
+        "x": 153,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 991,
+        "width": 164,
+        "originalHeight": 29,
+        "originalWidth": 164
+      },
+      "collection_on.png": {
+        "height": 67,
+        "x": 786,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 731,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "loading.png": {
+        "height": 150,
+        "x": 211,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 636,
+        "width": 150,
+        "originalHeight": 150,
+        "originalWidth": 150
+      },
+      "resultwindow_00.png": {
+        "height": 75,
+        "x": 545,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 799,
+        "width": 86,
+        "originalHeight": 75,
+        "originalWidth": 86
+      },
+      "cardnumber_06.png": {
+        "height": 78,
+        "x": 708,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 946,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "savegame_off.png": {
+        "height": 71,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 457,
+        "width": 316,
+        "originalHeight": 71,
+        "originalWidth": 316
+      },
+      "resultdifficulty_00.png": {
+        "height": 29,
+        "x": 545,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 559,
+        "width": 164,
+        "originalHeight": 29,
+        "originalWidth": 164
+      },
+      "textbar_01.png": {
+        "height": 23,
+        "x": 362,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 744,
+        "width": 4,
+        "originalHeight": 23,
+        "originalWidth": 4
+      },
+      "clearrank_03.png": {
+        "height": 107,
+        "x": 362,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 636,
+        "width": 145,
+        "originalHeight": 107,
+        "originalWidth": 145
+      },
+      "resultwindow_01.png": {
+        "height": 75,
+        "x": 432,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 542,
+        "width": 94,
+        "originalHeight": 75,
+        "originalWidth": 94
+      },
+      "flickresult_off.png": {
+        "height": 67,
+        "x": 764,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 799,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "drstar_off.png": {
+        "height": 22,
+        "x": 933,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 355,
+        "width": 22,
+        "originalHeight": 22,
+        "originalWidth": 22
+      },
+      "cardnumber_02.png": {
+        "height": 78,
+        "x": 918,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 693,
+        "width": 63,
+        "originalHeight": 78,
+        "originalWidth": 63
+      },
+      "resultpanel_02.png": {
+        "height": 104,
+        "x": 856,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 588,
+        "width": 123,
+        "originalHeight": 104,
+        "originalWidth": 123
+      },
+      "scoreresult_on.png": {
+        "height": 67,
+        "x": 650,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 731,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "resultwindow_02.png": {
+        "height": 102,
+        "x": 902,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 224,
+        "width": 86,
+        "originalHeight": 102,
+        "originalWidth": 86
+      },
+      "newlevel.png": {
+        "height": 39,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 40,
+        "width": 409,
+        "originalHeight": 39,
+        "originalWidth": 409
+      },
+      "viewreplay_on.png": {
+        "height": 71,
+        "x": 541,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 80,
+        "width": 373,
+        "originalHeight": 71,
+        "originalWidth": 373
+      },
+      "resultwindow_03.png": {
+        "height": 102,
+        "x": 915,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 103,
+        "width": 94,
+        "originalHeight": 102,
+        "originalWidth": 94
+      },
+      "clearrank_05.png": {
+        "height": 107,
+        "x": 153,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 883,
+        "width": 145,
+        "originalHeight": 107,
+        "originalWidth": 145
+      },
+      "collection_off.png": {
+        "height": 67,
+        "x": 854,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 772,
+        "width": 67,
+        "originalHeight": 67,
+        "originalWidth": 67
+      },
+      "resultwindow_04.png": {
+        "height": 75,
+        "x": 632,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 799,
+        "width": 63,
+        "originalHeight": 75,
+        "originalWidth": 63
+      },
+      "newmode.png": {
+        "height": 39,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 596,
+        "width": 409,
+        "originalHeight": 39,
+        "originalWidth": 409
+      },
+      "resultdifficulty_01.png": {
+        "height": 29,
+        "x": 380,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 852,
+        "width": 164,
+        "originalHeight": 29,
+        "originalWidth": 164
+      },
+      "resultstat_01.png": {
+        "height": 27,
+        "x": 933,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 28,
+        "originalHeight": 27,
+        "originalWidth": 28
+      },
+      "resultpanel_01.png": {
+        "height": 104,
+        "x": 527,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 589,
+        "width": 123,
+        "originalHeight": 104,
+        "originalWidth": 123
+      },
+      "resultwindow_05.png": {
+        "height": 102,
+        "x": 951,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 63,
+        "originalHeight": 102,
+        "originalWidth": 63
+      },
+      "titlebar.png": {
+        "height": 53,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 542,
+        "width": 431,
+        "originalHeight": 53,
+        "originalWidth": 431
+      }
+    }
+  },
+  "UI_tex_03": {
+    "file": "UI_tex_03.plist",
+    "texture": "UI_tex_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_03.png",
+      "size": "{1024,1024}",
+      "textureFileName": "UI_tex_03.png"
+    },
+    "frames": {
+      "righthand_on.png": {
+        "height": 395,
+        "x": 498,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 396,
+        "width": 289,
+        "originalHeight": 395,
+        "originalWidth": 289
+      },
+      "lefthand_on.png": {
+        "height": 395,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 292,
+        "originalHeight": 395,
+        "originalWidth": 292
+      },
+      "helpmeter_on.png": {
+        "height": 17,
+        "x": 1003,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 17,
+        "originalHeight": 17,
+        "originalWidth": 17
+      },
+      "volumemeter_on.png": {
+        "height": 34,
+        "x": 934,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 76,
+        "width": 25,
+        "originalHeight": 34,
+        "originalWidth": 25
+      },
+      "volumewindow.png": {
+        "height": 540,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 396,
+        "width": 497,
+        "originalHeight": 540,
+        "originalWidth": 497
+      },
+      "lefthand_off.png": {
+        "height": 352,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 13,
+        "width": 270,
+        "originalHeight": 352,
+        "originalWidth": 270
+      },
+      "helpmeter_off.png": {
+        "height": 17,
+        "x": 1003,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 18,
+        "width": 17,
+        "originalHeight": 17,
+        "originalWidth": 17
+      },
+      "righthand_off.png": {
+        "height": 352,
+        "x": 271,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 13,
+        "width": 267,
+        "originalHeight": 352,
+        "originalWidth": 267
+      },
+      "arrow_01.png": {
+        "height": 37,
+        "x": 934,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 68,
+        "originalHeight": 37,
+        "originalWidth": 68
+      },
+      "volumemeter_off.png": {
+        "height": 34,
+        "x": 960,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 76,
+        "width": 25,
+        "originalHeight": 34,
+        "originalWidth": 25
+      },
+      "arrow_00.png": {
+        "height": 37,
+        "x": 934,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 38,
+        "width": 68,
+        "originalHeight": 37,
+        "originalWidth": 68
+      },
+      "speaker.png": {
+        "height": 234,
+        "x": 788,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 396,
+        "width": 234,
+        "originalHeight": 234,
+        "originalWidth": 234
+      },
+      "helpline.png": {
+        "height": 12,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 12,
+        "originalWidth": 640
+      }
+    }
+  },
+  "UI_tex_04": {
+    "file": "UI_tex_04.plist",
+    "texture": "UI_tex_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_04.png",
+      "size": "{1024,1024}",
+      "textureFileName": "UI_tex_04.png"
+    },
+    "frames": {
+      "keyboard_ori_off.png": {
+        "height": 255,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 256,
+        "width": 196,
+        "originalHeight": 255,
+        "originalWidth": 196
+      },
+      "keyboard_rah_on.png": {
+        "height": 315,
+        "x": 580,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 247,
+        "originalHeight": 315,
+        "originalWidth": 247
+      },
+      "keyboard_fro_off.png": {
+        "height": 255,
+        "x": 342,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 66,
+        "width": 196,
+        "originalHeight": 255,
+        "originalWidth": 196
+      },
+      "flowet_on_off.png": {
+        "height": 145,
+        "x": 171,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 316,
+        "width": 170,
+        "originalHeight": 145,
+        "originalWidth": 170
+      },
+      "flowet_on_on.png": {
+        "height": 145,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 316,
+        "width": 170,
+        "originalHeight": 145,
+        "originalWidth": 170
+      },
+      "panelguide_off_off.png": {
+        "height": 110,
+        "x": 248,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 468,
+        "width": 129,
+        "originalHeight": 110,
+        "originalWidth": 129
+      },
+      "panelguide_off_on.png": {
+        "height": 110,
+        "x": 378,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 468,
+        "width": 129,
+        "originalHeight": 110,
+        "originalWidth": 129
+      },
+      "flowet_off_on.png": {
+        "height": 145,
+        "x": 342,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 322,
+        "width": 170,
+        "originalHeight": 145,
+        "originalWidth": 170
+      },
+      "keyboard_fro_on.png": {
+        "height": 315,
+        "x": 539,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 316,
+        "width": 247,
+        "originalHeight": 315,
+        "originalWidth": 247
+      },
+      "panelguide_on_off.png": {
+        "height": 110,
+        "x": 248,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 632,
+        "width": 129,
+        "originalHeight": 110,
+        "originalWidth": 129
+      },
+      "panelguide_on_on.png": {
+        "height": 110,
+        "x": 171,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 828,
+        "width": 129,
+        "originalHeight": 110,
+        "originalWidth": 129
+      },
+      "panelguideline.png": {
+        "height": 32,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 579,
+        "originalHeight": 32,
+        "originalWidth": 579
+      },
+      "keyboard_ori_on.png": {
+        "height": 315,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 512,
+        "width": 247,
+        "originalHeight": 315,
+        "originalWidth": 247
+      },
+      "flowet_off_off.png": {
+        "height": 145,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 828,
+        "width": 170,
+        "originalHeight": 145,
+        "originalWidth": 170
+      },
+      "flowerline.png": {
+        "height": 32,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 33,
+        "width": 579,
+        "originalHeight": 32,
+        "originalWidth": 579
+      },
+      "keyboard_rah_off.png": {
+        "height": 255,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 196,
+        "originalHeight": 255,
+        "originalWidth": 196
+      }
+    }
+  },
+  "UI_tex_05": {
+    "file": "UI_tex_05.plist",
+    "texture": "UI_tex_05.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_05.png",
+      "textureFileName": "UI_tex_05.png",
+      "size": "{1024,1024}",
+      "smartupdate": "$TexturePacker:SmartUpdate:d93c205a1cb6934620c99a052f8d629b$"
+    },
+    "frames": {
+      "titlelogo_01.png": {
+        "height": 189,
+        "x": 661,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 190,
+        "width": 307,
+        "originalHeight": 189,
+        "originalWidth": 307
+      },
+      "cubes_y.png": {
+        "height": 335,
+        "x": 661,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 380,
+        "width": 194,
+        "originalHeight": 335,
+        "originalWidth": 194
+      },
+      "outerkey_p.png": {
+        "height": 97,
+        "x": 759,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 716,
+        "width": 88,
+        "originalHeight": 97,
+        "originalWidth": 88
+      },
+      "copyright.png": {
+        "height": 35,
+        "x": 162,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 966,
+        "width": 446,
+        "originalHeight": 35,
+        "originalWidth": 446
+      },
+      "eye_01.png": {
+        "height": 40,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 966,
+        "width": 80,
+        "originalHeight": 40,
+        "originalWidth": 80
+      },
+      "outerkey_r.png": {
+        "height": 67,
+        "x": 856,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 683,
+        "width": 101,
+        "originalHeight": 67,
+        "originalWidth": 101
+      },
+      "eye_00.png": {
+        "height": 40,
+        "x": 81,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 966,
+        "width": 80,
+        "originalHeight": 40,
+        "originalWidth": 80
+      },
+      "outerkey_b.png": {
+        "height": 95,
+        "x": 661,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 843,
+        "width": 79,
+        "originalHeight": 95,
+        "originalWidth": 79
+      },
+      "miku.png": {
+        "height": 965,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 660,
+        "originalHeight": 965,
+        "originalWidth": 660
+      },
+      "cubes_p.png": {
+        "height": 302,
+        "x": 856,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 380,
+        "width": 168,
+        "originalHeight": 302,
+        "originalWidth": 168
+      },
+      "outerkey_t.png": {
+        "height": 126,
+        "x": 661,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 716,
+        "width": 97,
+        "originalHeight": 126,
+        "originalWidth": 97
+      },
+      "titlelogo_00.png": {
+        "height": 189,
+        "x": 661,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 308,
+        "originalHeight": 189,
+        "originalWidth": 308
+      }
+    }
+  },
+  "UI_tex_06": {
+    "file": "UI_tex_06.plist",
+    "texture": "UI_tex_06.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_06.png",
+      "textureFileName": "UI_tex_06.png",
+      "size": "{1024,1024}",
+      "smartupdate": "$TexturePacker:SmartUpdate:c3f93c89483af21bfdc8b55843818784:1/1$"
+    },
+    "frames": {
+      "manage_off.png": {
+        "height": 60,
+        "x": 939,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 171,
+        "width": 48,
+        "originalHeight": 60,
+        "originalWidth": 48
+      },
+      "detailwindow_02.png": {
+        "height": 139,
+        "x": 595,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 671,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "detailwindow_03.png": {
+        "height": 139,
+        "x": 812,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 531,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "executionbutton_s_on.png": {
+        "height": 43,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 478,
+        "width": 216,
+        "originalHeight": 43,
+        "originalWidth": 216
+      },
+      "plate_off_manage.png": {
+        "height": 140,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 282,
+        "width": 640,
+        "originalHeight": 140,
+        "originalWidth": 640
+      },
+      "executionbutton_s_off.png": {
+        "height": 43,
+        "x": 595,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 522,
+        "width": 216,
+        "originalHeight": 43,
+        "originalWidth": 216
+      },
+      "searchwindow.png": {
+        "height": 81,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 423,
+        "width": 640,
+        "originalHeight": 81,
+        "originalWidth": 640
+      },
+      "detailwindow_04.png": {
+        "height": 139,
+        "x": 496,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 825,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "manage_on.png": {
+        "height": 60,
+        "x": 939,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 110,
+        "width": 48,
+        "originalHeight": 60,
+        "originalWidth": 48
+      },
+      "purchased_l_on.png": {
+        "height": 52,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 178,
+        "width": 278,
+        "originalHeight": 52,
+        "originalWidth": 278
+      },
+      "ruledline.png": {
+        "height": 6,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 505,
+        "width": 617,
+        "originalHeight": 6,
+        "originalWidth": 617
+      },
+      "putin.png": {
+        "height": 36,
+        "x": 988,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 184,
+        "width": 35,
+        "originalHeight": 36,
+        "originalWidth": 35
+      },
+      "footer_off.png": {
+        "height": 88,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 89,
+        "width": 297,
+        "originalHeight": 88,
+        "originalWidth": 297
+      },
+      "detailwindow_05.png": {
+        "height": 139,
+        "x": 372,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 825,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "bg_shop.png": {
+        "height": 140,
+        "x": 858,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 390,
+        "width": 140,
+        "originalHeight": 140,
+        "originalWidth": 140
+      },
+      "executionbutton_l_on.png": {
+        "height": 52,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 284,
+        "width": 278,
+        "originalHeight": 52,
+        "originalWidth": 278
+      },
+      "credits_on.png": {
+        "height": 30,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 965,
+        "width": 121,
+        "originalHeight": 30,
+        "originalWidth": 121
+      },
+      "shopback_off.png": {
+        "height": 60,
+        "x": 620,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 951,
+        "width": 115,
+        "originalHeight": 60,
+        "originalWidth": 115
+      },
+      "detailwindow_06.png": {
+        "height": 139,
+        "x": 248,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 825,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "purchased_s_off.png": {
+        "height": 43,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 434,
+        "width": 216,
+        "originalHeight": 43,
+        "originalWidth": 216
+      },
+      "shop_off.png": {
+        "height": 54,
+        "x": 939,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 55,
+        "width": 79,
+        "originalHeight": 54,
+        "originalWidth": 79
+      },
+      "credits_off.png": {
+        "height": 30,
+        "x": 122,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 965,
+        "width": 121,
+        "originalHeight": 30,
+        "originalWidth": 121
+      },
+      "plate_on.png": {
+        "height": 140,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 140,
+        "originalWidth": 640
+      },
+      "new.png": {
+        "height": 140,
+        "x": 988,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 221,
+        "width": 34,
+        "originalHeight": 140,
+        "originalWidth": 34
+      },
+      "detailwindow_07.png": {
+        "height": 139,
+        "x": 124,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 825,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "purchased_l_off.png": {
+        "height": 52,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 231,
+        "width": 278,
+        "originalHeight": 52,
+        "originalWidth": 278
+      },
+      "shopback_on.png": {
+        "height": 60,
+        "x": 595,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 566,
+        "width": 115,
+        "originalHeight": 60,
+        "originalWidth": 115
+      },
+      "plate_off_shop.png": {
+        "height": 140,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 141,
+        "width": 640,
+        "originalHeight": 140,
+        "originalWidth": 640
+      },
+      "detailwindow_08.png": {
+        "height": 139,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 825,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "sample.png": {
+        "height": 21,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 996,
+        "width": 108,
+        "originalHeight": 21,
+        "originalWidth": 108
+      },
+      "remove.png": {
+        "height": 36,
+        "x": 988,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 110,
+        "width": 35,
+        "originalHeight": 36,
+        "originalWidth": 35
+      },
+      "purchased_s_on.png": {
+        "height": 43,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 390,
+        "width": 216,
+        "originalHeight": 43,
+        "originalWidth": 216
+      },
+      "shop_on.png": {
+        "height": 54,
+        "x": 939,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 79,
+        "originalHeight": 54,
+        "originalWidth": 79
+      },
+      "reinstall.png": {
+        "height": 36,
+        "x": 988,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 147,
+        "width": 35,
+        "originalHeight": 36,
+        "originalWidth": 35
+      },
+      "detailwindow_00.png": {
+        "height": 139,
+        "x": 719,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 671,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "imagewindow.png": {
+        "height": 312,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 512,
+        "width": 594,
+        "originalHeight": 312,
+        "originalWidth": 594
+      },
+      "footer_on.png": {
+        "height": 88,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 297,
+        "originalHeight": 88,
+        "originalWidth": 297
+      },
+      "detailwindow_01.png": {
+        "height": 139,
+        "x": 620,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 811,
+        "width": 123,
+        "originalHeight": 139,
+        "originalWidth": 123
+      },
+      "executionbutton_l_off.png": {
+        "height": 52,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 337,
+        "width": 278,
+        "originalHeight": 52,
+        "originalWidth": 278
+      }
+    }
+  },
+  "UI_tex_07": {
+    "file": "UI_tex_07.plist",
+    "texture": "UI_tex_07.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "UI_tex_07.png",
+      "size": "{1024,1024}",
+      "textureFileName": "UI_tex_07.png"
+    },
+    "frames": {
+      "restore_on.png": {
+        "height": 60,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 140,
+        "width": 227,
+        "originalHeight": 60,
+        "originalWidth": 227
+      },
+      "headerplate.png": {
+        "height": 88,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 99,
+        "width": 640,
+        "originalHeight": 88,
+        "originalWidth": 640
+      },
+      "stop_on.png": {
+        "height": 69,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 256,
+        "originalHeight": 69,
+        "originalWidth": 256
+      },
+      "rswindow.png": {
+        "height": 71,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 188,
+        "width": 640,
+        "originalHeight": 71,
+        "originalWidth": 640
+      },
+      "graphbottom.png": {
+        "height": 21,
+        "x": 913,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 14,
+        "originalHeight": 21,
+        "originalWidth": 14
+      },
+      "footerplate.png": {
+        "height": 98,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 98,
+        "originalWidth": 640
+      },
+      "stop_off.png": {
+        "height": 69,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 70,
+        "width": 256,
+        "originalHeight": 69,
+        "originalWidth": 256
+      },
+      "graphtop.png": {
+        "height": 21,
+        "x": 898,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 14,
+        "originalHeight": 21,
+        "originalWidth": 14
+      },
+      "dlwindow.png": {
+        "height": 477,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 260,
+        "width": 560,
+        "originalHeight": 477,
+        "originalWidth": 560
+      },
+      "restore_off.png": {
+        "height": 60,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 201,
+        "width": 227,
+        "originalHeight": 60,
+        "originalWidth": 227
+      },
+      "graphbase.png": {
+        "height": 25,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 738,
+        "width": 473,
+        "originalHeight": 25,
+        "originalWidth": 473
+      },
+      "graphmiddle.png": {
+        "height": 21,
+        "x": 561,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 262,
+        "width": 208,
+        "originalHeight": 21,
+        "originalWidth": 208
+      }
+    }
+  },
+  "bg_tex_01": {
+    "file": "bg_tex_01.plist",
+    "texture": "bg_tex_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_01.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_01.png"
+    },
+    "frames": {
+      "bg_title.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "bg_tex_02": {
+    "file": "bg_tex_02.plist",
+    "texture": "bg_tex_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_02.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_02.png"
+    },
+    "frames": {
+      "jacket_loading.png": {
+        "height": 318,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 318,
+        "originalHeight": 318,
+        "originalWidth": 318
+      },
+      "bg_misicselect.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "bg_tex_03": {
+    "file": "bg_tex_03.plist",
+    "texture": "bg_tex_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_03.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_03.png"
+    },
+    "frames": {
+      "bg_result.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "bg_tex_04": {
+    "file": "bg_tex_04.plist",
+    "texture": "bg_tex_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_04.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_04.png"
+    },
+    "frames": {
+      "bg_options.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "bg_tex_05": {
+    "file": "bg_tex_05.plist",
+    "texture": "bg_tex_05.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_05.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_05.png"
+    },
+    "frames": {
+      "bg_results.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "bg_tex_06": {
+    "file": "bg_tex_06.plist",
+    "texture": "bg_tex_06.png",
+    "size": [
+      640,
+      960
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_06.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_06.png"
+    },
+    "frames": {
+      "bg_starting.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "bg_tex_07": {
+    "file": "bg_tex_07.plist",
+    "texture": "bg_tex_07.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "bg_tex_07.png",
+      "size": "{1024,1024}",
+      "textureFileName": "bg_tex_07.png"
+    },
+    "frames": {
+      "bg_loading.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      },
+      "loadmiku_00.png": {
+        "height": 505,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 153,
+        "width": 234,
+        "originalHeight": 505,
+        "originalWidth": 234
+      },
+      "loadmiku_01.png": {
+        "height": 152,
+        "x": 822,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 200,
+        "originalHeight": 152,
+        "originalWidth": 200
+      },
+      "linemove.png": {
+        "height": 2,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 961,
+        "width": 821,
+        "originalHeight": 2,
+        "originalWidth": 821
+      }
+    }
+  },
+  "credits_ja": {
+    "file": "credits_ja.plist",
+    "texture": "credits_ja.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "credits_ja.png",
+      "size": "{1024,1024}",
+      "textureFileName": "credits_ja.png"
+    },
+    "frames": {
+      "bg_credits_ja.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "ending": {
+    "file": "ending.plist",
+    "texture": "ending.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "ending.png",
+      "size": "{1024,1024}",
+      "textureFileName": "ending.png"
+    },
+    "frames": {
+      "bg_ending.png": {
+        "height": 960,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 640,
+        "originalHeight": 960,
+        "originalWidth": 640
+      }
+    }
+  },
+  "game_effect_01": {
+    "file": "game_effect_01.plist",
+    "texture": "game_effect_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "game_effect_01.png",
+      "size": "{1024,1024}",
+      "textureFileName": "game_effect_01.png"
+    },
+    "frames": {
+      "fireworks_mik_02.png": {
+        "height": 364,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 399,
+        "width": 364,
+        "originalHeight": 364,
+        "originalWidth": 364
+      },
+      "inputguide_03.png": {
+        "height": 82,
+        "x": 915,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 221,
+        "width": 82,
+        "originalHeight": 82,
+        "originalWidth": 82
+      },
+      "inputguide_01.png": {
+        "height": 82,
+        "x": 903,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 304,
+        "width": 82,
+        "originalHeight": 82,
+        "originalWidth": 82
+      },
+      "flickguide_int_on.png": {
+        "height": 350,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 409,
+        "originalHeight": 350,
+        "originalWidth": 409
+      },
+      "inputperfect.png": {
+        "height": 94,
+        "x": 820,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 138,
+        "width": 94,
+        "originalHeight": 94,
+        "originalWidth": 94
+      },
+      "fireworks_mik_00.png": {
+        "height": 230,
+        "x": 462,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 351,
+        "width": 230,
+        "originalHeight": 230,
+        "originalWidth": 230
+      },
+      "flickguide_int_off.png": {
+        "height": 350,
+        "x": 410,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 409,
+        "originalHeight": 350,
+        "originalWidth": 409
+      },
+      "inputguide_04.png": {
+        "height": 82,
+        "x": 915,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 138,
+        "width": 82,
+        "originalHeight": 82,
+        "originalWidth": 82
+      },
+      "inputguide_02.png": {
+        "height": 82,
+        "x": 820,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 233,
+        "width": 82,
+        "originalHeight": 82,
+        "originalWidth": 82
+      },
+      "inputguide_00.png": {
+        "height": 82,
+        "x": 820,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 316,
+        "width": 82,
+        "originalHeight": 82,
+        "originalWidth": 82
+      },
+      "ripple.png": {
+        "height": 230,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 764,
+        "width": 230,
+        "originalHeight": 230,
+        "originalWidth": 230
+      },
+      "fireworks_mik_01.png": {
+        "height": 230,
+        "x": 231,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 764,
+        "width": 230,
+        "originalHeight": 230,
+        "originalWidth": 230
+      },
+      "inputtarget.png": {
+        "height": 137,
+        "x": 820,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 137,
+        "originalHeight": 137,
+        "originalWidth": 137
+      }
+    }
+  },
+  "game_tex_01": {
+    "file": "game_tex_01.plist",
+    "texture": "game_tex_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "game_tex_01.png",
+      "size": "{1024,1024}",
+      "textureFileName": "game_tex_01.png"
+    },
+    "frames": {
+      "combonumber_03.png": {
+        "height": 39,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 450,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "highscore_10.png": {
+        "height": 25,
+        "x": 387,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 103,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "combonumber_09.png": {
+        "height": 39,
+        "x": 563,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 171,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "score_01.png": {
+        "height": 42,
+        "x": 486,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 499,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "quaver_02.png": {
+        "height": 103,
+        "x": 619,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 594,
+        "width": 82,
+        "originalHeight": 103,
+        "originalWidth": 82
+      },
+      "highscore_05.png": {
+        "height": 25,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 370,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "score_00.png": {
+        "height": 42,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 546,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "score_09.png": {
+        "height": 42,
+        "x": 40,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "evaluation_03.png": {
+        "height": 69,
+        "x": 849,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 431,
+        "width": 142,
+        "originalHeight": 69,
+        "originalWidth": 142
+      },
+      "guidepanel_off_02.png": {
+        "height": 108,
+        "x": 391,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 914,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "combonumber_02.png": {
+        "height": 39,
+        "x": 994,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 361,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "quaver_00.png": {
+        "height": 91,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 502,
+        "width": 83,
+        "originalHeight": 91,
+        "originalWidth": 83
+      },
+      "combonumber_08.png": {
+        "height": 39,
+        "x": 563,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 211,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "guidepanel_on_03.png": {
+        "height": 108,
+        "x": 263,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 594,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "highscore_07.png": {
+        "height": 25,
+        "x": 450,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 103,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "flickguide_on_01.png": {
+        "height": 135,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 274,
+        "width": 114,
+        "originalHeight": 135,
+        "originalWidth": 114
+      },
+      "score_08.png": {
+        "height": 42,
+        "x": 80,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "afterimage_01.png": {
+        "height": 102,
+        "x": 725,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 473,
+        "width": 102,
+        "originalHeight": 102,
+        "originalWidth": 102
+      },
+      "flickguide_off_01.png": {
+        "height": 135,
+        "x": 610,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 274,
+        "width": 114,
+        "originalHeight": 135,
+        "originalWidth": 114
+      },
+      "charactercircle.png": {
+        "height": 120,
+        "x": 374,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 120,
+        "originalHeight": 120,
+        "originalWidth": 120
+      },
+      "combonumber_01.png": {
+        "height": 39,
+        "x": 994,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 401,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "microphonemeter_02.png": {
+        "height": 362,
+        "x": 161,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 91,
+        "originalHeight": 362,
+        "originalWidth": 91
+      },
+      "highscore_00.png": {
+        "height": 25,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 500,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "score_07.png": {
+        "height": 42,
+        "x": 120,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "highscore_09.png": {
+        "height": 25,
+        "x": 408,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 103,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "combonumber_07.png": {
+        "height": 39,
+        "x": 526,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "outsidecircle.png": {
+        "height": 154,
+        "x": 862,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 154,
+        "originalHeight": 154,
+        "originalWidth": 154
+      },
+      "pausebutton.png": {
+        "height": 51,
+        "x": 354,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 499,
+        "width": 51,
+        "originalHeight": 51,
+        "originalWidth": 51
+      },
+      "rail_01.png": {
+        "height": 116,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 260,
+        "originalHeight": 116,
+        "originalWidth": 260
+      },
+      "microphonemeter_01.png": {
+        "height": 388,
+        "x": 147,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 587,
+        "width": 115,
+        "originalHeight": 388,
+        "originalWidth": 115
+      },
+      "evaluation_02.png": {
+        "height": 69,
+        "x": 849,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 501,
+        "width": 142,
+        "originalHeight": 69,
+        "originalWidth": 142
+      },
+      "guidecursor.png": {
+        "height": 114,
+        "x": 253,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 133,
+        "originalHeight": 114,
+        "originalWidth": 133
+      },
+      "guidepanel_on_00.png": {
+        "height": 108,
+        "x": 391,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 696,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "guidepanel_off_03.png": {
+        "height": 108,
+        "x": 391,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 805,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "highscore_02.png": {
+        "height": 25,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 448,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "score_06.png": {
+        "height": 42,
+        "x": 160,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "combonumber_00.png": {
+        "height": 39,
+        "x": 992,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 441,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "microphonemeter_00.png": {
+        "height": 388,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 587,
+        "width": 146,
+        "originalHeight": 388,
+        "originalWidth": 146
+      },
+      "afterimage_04.png": {
+        "height": 102,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 28,
+        "width": 102,
+        "originalHeight": 102,
+        "originalWidth": 102
+      },
+      "guidepanel_on_04.png": {
+        "height": 108,
+        "x": 263,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 711,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "inputcursor.png": {
+        "height": 68,
+        "x": 280,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 929,
+        "width": 69,
+        "originalHeight": 68,
+        "originalWidth": 69
+      },
+      "flickguide_on_02.png": {
+        "height": 102,
+        "x": 253,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 131,
+        "width": 154,
+        "originalHeight": 102,
+        "originalWidth": 154
+      },
+      "combonumber_06.png": {
+        "height": 39,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "afterimage_00.png": {
+        "height": 102,
+        "x": 725,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 576,
+        "width": 102,
+        "originalHeight": 102,
+        "originalWidth": 102
+      },
+      "inputbar.png": {
+        "height": 30,
+        "x": 161,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 556,
+        "width": 439,
+        "originalHeight": 30,
+        "originalWidth": 439
+      },
+      "outsidewhirl.png": {
+        "height": 192,
+        "x": 161,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 363,
+        "width": 192,
+        "originalHeight": 192,
+        "originalWidth": 192
+      },
+      "quaver_03.png": {
+        "height": 91,
+        "x": 641,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 410,
+        "width": 83,
+        "originalHeight": 91,
+        "originalWidth": 83
+      },
+      "highscore_04.png": {
+        "height": 25,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 396,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "flickguide_off_02.png": {
+        "height": 102,
+        "x": 851,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 258,
+        "width": 154,
+        "originalHeight": 102,
+        "originalWidth": 154
+      },
+      "highscore_11.png": {
+        "height": 27,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 105,
+        "originalHeight": 27,
+        "originalWidth": 105
+      },
+      "rail_00.png": {
+        "height": 116,
+        "x": 601,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 117,
+        "width": 258,
+        "originalHeight": 116,
+        "originalWidth": 258
+      },
+      "score_05.png": {
+        "height": 42,
+        "x": 200,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "guidepanel_off_00.png": {
+        "height": 108,
+        "x": 519,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 916,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "quaver_01.png": {
+        "height": 103,
+        "x": 519,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 688,
+        "width": 82,
+        "originalHeight": 103,
+        "originalWidth": 82
+      },
+      "menugradation.png": {
+        "height": 586,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 160,
+        "originalHeight": 586,
+        "originalWidth": 160
+      },
+      "evaluation_01.png": {
+        "height": 69,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 571,
+        "width": 142,
+        "originalHeight": 69,
+        "originalWidth": 142
+      },
+      "combonumber_05.png": {
+        "height": 39,
+        "x": 706,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "combonumber_12.png": {
+        "height": 39,
+        "x": 666,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 39,
+        "originalHeight": 39,
+        "originalWidth": 39
+      },
+      "guidepanel_on_01.png": {
+        "height": 108,
+        "x": 391,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 587,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "guidepanel_off_04.png": {
+        "height": 108,
+        "x": 602,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 698,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "highscore_06.png": {
+        "height": 25,
+        "x": 471,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 103,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "score_04.png": {
+        "height": 42,
+        "x": 240,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "afterimage_03.png": {
+        "height": 102,
+        "x": 387,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 102,
+        "originalHeight": 102,
+        "originalWidth": 102
+      },
+      "flickguide_on_03.png": {
+        "height": 102,
+        "x": 860,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 155,
+        "width": 154,
+        "originalHeight": 102,
+        "originalWidth": 154
+      },
+      "score_03.png": {
+        "height": 42,
+        "x": 406,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 499,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "highscore_08.png": {
+        "height": 25,
+        "x": 429,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 103,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "score_10.png": {
+        "height": 42,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 976,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "combonumber_04.png": {
+        "height": 39,
+        "x": 495,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 410,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "combonumber_11.png": {
+        "height": 39,
+        "x": 593,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 72,
+        "originalHeight": 39,
+        "originalWidth": 72
+      },
+      "flickguide_off_03.png": {
+        "height": 102,
+        "x": 408,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 131,
+        "width": 154,
+        "originalHeight": 102,
+        "originalWidth": 154
+      },
+      "guidepanel_off_01.png": {
+        "height": 108,
+        "x": 519,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 807,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "highscore_01.png": {
+        "height": 25,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 474,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "evaluation_04.png": {
+        "height": 69,
+        "x": 851,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 361,
+        "width": 142,
+        "originalHeight": 69,
+        "originalWidth": 142
+      },
+      "score_02.png": {
+        "height": 42,
+        "x": 446,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 499,
+        "width": 39,
+        "originalHeight": 42,
+        "originalWidth": 39
+      },
+      "emphasiscircle.png": {
+        "height": 98,
+        "x": 519,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 589,
+        "width": 99,
+        "originalHeight": 98,
+        "originalWidth": 99
+      },
+      "evaluation_00.png": {
+        "height": 69,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 641,
+        "width": 142,
+        "originalHeight": 69,
+        "originalWidth": 142
+      },
+      "guidepanel_on_02.png": {
+        "height": 108,
+        "x": 263,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 820,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "flickguide_on_00.png": {
+        "height": 135,
+        "x": 526,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 410,
+        "width": 114,
+        "originalHeight": 135,
+        "originalWidth": 114
+      },
+      "insidewhirl.png": {
+        "height": 120,
+        "x": 253,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 120,
+        "originalHeight": 120,
+        "originalWidth": 120
+      },
+      "combonumber_10.png": {
+        "height": 39,
+        "x": 563,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 131,
+        "width": 29,
+        "originalHeight": 39,
+        "originalWidth": 29
+      },
+      "highscore_03.png": {
+        "height": 25,
+        "x": 828,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 422,
+        "width": 20,
+        "originalHeight": 25,
+        "originalWidth": 20
+      },
+      "flickguide_off_00.png": {
+        "height": 135,
+        "x": 736,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 234,
+        "width": 114,
+        "originalHeight": 135,
+        "originalWidth": 114
+      },
+      "charactercircle_int.png": {
+        "height": 143,
+        "x": 354,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 355,
+        "width": 140,
+        "originalHeight": 143,
+        "originalWidth": 140
+      },
+      "afterimage_02.png": {
+        "height": 102,
+        "x": 725,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 370,
+        "width": 102,
+        "originalHeight": 102,
+        "originalWidth": 102
+      }
+    }
+  },
+  "game_tex_02": {
+    "file": "game_tex_02.plist",
+    "texture": "game_tex_02.png",
+    "size": [
+      512,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "game_tex_02.png",
+      "size": "{512,1024}",
+      "textureFileName": "game_tex_02.png"
+    },
+    "frames": {
+      "fgcharacter_ori_03.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 893,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_10.png": {
+        "height": 57,
+        "x": 232,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_42.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 719,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_35.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_28.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 719,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_01.png": {
+        "height": 108,
+        "x": 256,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 436,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_02.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 951,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_on_00.png": {
+        "height": 108,
+        "x": 128,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 218,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_41.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 777,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_34.png": {
+        "height": 57,
+        "x": 232,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_27.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 777,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_07.png": {
+        "height": 108,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "flickpanel_ori_on_05.png": {
+        "height": 108,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 109,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_01.png": {
+        "height": 57,
+        "x": 232,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 719,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_40.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 835,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_26.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 835,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_19.png": {
+        "height": 57,
+        "x": 348,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_00.png": {
+        "height": 108,
+        "x": 384,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 436,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_33.png": {
+        "height": 57,
+        "x": 290,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_00.png": {
+        "height": 57,
+        "x": 290,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 719,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_06.png": {
+        "height": 108,
+        "x": 128,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_18.png": {
+        "height": 57,
+        "x": 406,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_32.png": {
+        "height": 57,
+        "x": 348,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_25.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 893,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_on_02.png": {
+        "height": 108,
+        "x": 384,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 109,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "flickpanel_ori_on_07.png": {
+        "height": 108,
+        "x": 256,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_31.png": {
+        "height": 57,
+        "x": 406,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_24.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 951,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_17.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_05.png": {
+        "height": 108,
+        "x": 256,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_30.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_23.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_16.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 719,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_09.png": {
+        "height": 57,
+        "x": 290,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_on_04.png": {
+        "height": 108,
+        "x": 128,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 109,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "flickpanel_ori_on_09.png": {
+        "height": 108,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_22.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_15.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 777,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_08.png": {
+        "height": 57,
+        "x": 348,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_04.png": {
+        "height": 108,
+        "x": 384,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 327,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_14.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 835,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_07.png": {
+        "height": 57,
+        "x": 406,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_21.png": {
+        "height": 57,
+        "x": 232,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_39.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 893,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_on_01.png": {
+        "height": 108,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 218,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_06.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 719,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_20.png": {
+        "height": 57,
+        "x": 290,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_13.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 893,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_03.png": {
+        "height": 108,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 436,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_45.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_on_06.png": {
+        "height": 108,
+        "x": 384,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_38.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 951,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_09.png": {
+        "height": 108,
+        "x": 256,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 218,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_12.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 951,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_05.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 777,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_44.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 603,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_37.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_11.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_04.png": {
+        "height": 57,
+        "x": 174,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 835,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_02.png": {
+        "height": 108,
+        "x": 128,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 436,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "flickpanel_ori_on_03.png": {
+        "height": 108,
+        "x": 256,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 109,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_43.png": {
+        "height": 57,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_on_08.png": {
+        "height": 108,
+        "x": 128,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      },
+      "fgcharacter_ori_29.png": {
+        "height": 57,
+        "x": 58,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 661,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "fgcharacter_ori_36.png": {
+        "height": 57,
+        "x": 116,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 545,
+        "width": 57,
+        "originalHeight": 57,
+        "originalWidth": 57
+      },
+      "flickpanel_ori_off_08.png": {
+        "height": 108,
+        "x": 384,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 218,
+        "width": 127,
+        "originalHeight": 108,
+        "originalWidth": 127
+      }
+    }
+  },
+  "music_00_01": {
+    "file": "music_00_01.plist",
+    "texture": "music_00_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "music_00_01.png",
+      "size": "{1024,1024}",
+      "textureFileName": "music_00_01.png"
+    },
+    "frames": {
+      "art_00_01_01.png": {
+        "height": 318,
+        "x": 513,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 257,
+        "width": 318,
+        "originalHeight": 318,
+        "originalWidth": 318
+      },
+      "logo_00_01_00.png": {
+        "height": 256,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 576,
+        "width": 512,
+        "originalHeight": 256,
+        "originalWidth": 512
+      },
+      "art_00_01_02.png": {
+        "height": 318,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 318,
+        "originalHeight": 318,
+        "originalWidth": 318
+      },
+      "logo_00_01_02.png": {
+        "height": 256,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 319,
+        "width": 512,
+        "originalHeight": 256,
+        "originalWidth": 512
+      },
+      "logo_00_01_01.png": {
+        "height": 256,
+        "x": 319,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 512,
+        "originalHeight": 256,
+        "originalWidth": 512
+      },
+      "art_00_01_00.png": {
+        "height": 318,
+        "x": 513,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 576,
+        "width": 318,
+        "originalHeight": 318,
+        "originalWidth": 318
+      }
+    }
+  },
+  "thum_01_01": {
+    "file": "thum_01_01.plist",
+    "texture": "thum_01_01.png",
+    "size": [
+      512,
+      512
+    ],
+    "metadata": {
+      "format": 0,
+      "realTextureFileName": "thum_01_01.png",
+      "size": "{512,512}",
+      "textureFileName": "thum_01_01.png"
+    },
+    "frames": {
+      "screenshot_01_01_01.png": {
+        "height": 244,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 245,
+        "width": 164,
+        "originalHeight": 244,
+        "originalWidth": 164
+      },
+      "thumbnail_01_01_01.png": {
+        "height": 73,
+        "x": 403,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 72,
+        "originalHeight": 73,
+        "originalWidth": 72
+      },
+      "screenshot_01_01_00.png": {
+        "height": 244,
+        "x": 165,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 164,
+        "originalHeight": 244,
+        "originalWidth": 164
+      },
+      "thumbnail_01_01_00.png": {
+        "height": 73,
+        "x": 330,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 74,
+        "width": 72,
+        "originalHeight": 73,
+        "originalWidth": 72
+      },
+      "thumbnail_01_01_02.png": {
+        "height": 73,
+        "x": 330,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 72,
+        "originalHeight": 73,
+        "originalWidth": 72
+      },
+      "screenshot_01_01_02.png": {
+        "height": 244,
+        "x": 0,
+        "offsetY": 0.0,
+        "offsetX": 0.0,
+        "y": 0,
+        "width": 164,
+        "originalHeight": 244,
+        "originalWidth": 164
+      }
+    }
+  }
+}

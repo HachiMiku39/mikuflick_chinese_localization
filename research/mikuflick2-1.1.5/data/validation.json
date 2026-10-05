@@ -1,0 +1,41 @@
+{
+  "crop_pixels_compared_to_original": 450,
+  "atlas_layouts": 21,
+  "frame_indexes_unique": 450,
+  "every_sprite_has_meaning": true,
+  "formula_fixtures_passed": 29,
+  "font_selected_type": 14,
+  "fonts": [
+    "Futura-Medium",
+    "Futura-CondensedExtraBold"
+  ],
+  "local_links_checked": true,
+  "protected_sections": [
+    {
+      "start": "## 1. 项目范围",
+      "end": "## 5. USM 与谱面研究",
+      "sha256": "449d00e69b6c8d98db880dcf7c43279c090d35d478b8a131a080c4ca97423794",
+      "unchanged": true
+    },
+    {
+      "start": "### 5.5 EASY 单音符禁用实测",
+      "end": "### 5.6 Interlude 事件",
+      "sha256": "7843004a045a98cf1aa94be6e00bbb63d2a97b230a7ae6ebebce1f460693d395",
+      "unchanged": true
+    },
+    {
+      "start": "### 5.8 自制 Mov_18 的当前状态",
+      "end": "## 6. MikuFlick2 1.1.5 游戏机制逆向",
+      "sha256": "51ecf96e86d4df728beafdae96f51627d7fb5f047703d2605f0a56cbedabd57e",
+      "unchanged": true
+    },
+    {
+      "start": "## 8. 工具与参考资料",
+      "end": null,
+      "sha256": "23118d9043c2de09a184eda839a676ed2a0e2703ebe0e3175f5f0504768fd69f",
+      "unchanged": true
+    }
+  ],
+  "strings_files_changed": false,
+  "device_test": false
+}

@@ -1,0 +1,884 @@
+[
+  {
+    "name": "AppIcon29x29.png",
+    "size": [
+      29,
+      29
+    ],
+    "sha256": "fbdc9d0b64abfee43c6fe6785617fd1b07c78cf4e4bb050ae93a0b0a51135335",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon29x29@2x.png",
+    "size": [
+      58,
+      58
+    ],
+    "sha256": "4fc4ce9e5907310772c85ef92d17ba11aec4cdf9186aaa8a5bff6aeded44646d",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon29x29@2x~ipad.png",
+    "size": [
+      58,
+      58
+    ],
+    "sha256": "4fc4ce9e5907310772c85ef92d17ba11aec4cdf9186aaa8a5bff6aeded44646d",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon29x29~ipad.png",
+    "size": [
+      29,
+      29
+    ],
+    "sha256": "fbdc9d0b64abfee43c6fe6785617fd1b07c78cf4e4bb050ae93a0b0a51135335",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon40x40@2x.png",
+    "size": [
+      80,
+      80
+    ],
+    "sha256": "15e8fbc14afbddde31e54442d48de137b7f48b9e85c18354435d0abe52c0fe94",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon40x40@2x~ipad.png",
+    "size": [
+      80,
+      80
+    ],
+    "sha256": "15e8fbc14afbddde31e54442d48de137b7f48b9e85c18354435d0abe52c0fe94",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon40x40~ipad.png",
+    "size": [
+      40,
+      40
+    ],
+    "sha256": "13157f1094677dd73ae3a18b8050347aade97e2aa1064b1534a15525a330203f",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon50x50@2x~ipad.png",
+    "size": [
+      100,
+      100
+    ],
+    "sha256": "36b7cc3fc1b00b09f0085b86fc7044798dad1c45ad978687bcf306f5d680aa9c",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon50x50~ipad.png",
+    "size": [
+      50,
+      50
+    ],
+    "sha256": "97572310f36d1ab647e6e216f9c5a3d111c146379e389124cd8446b543784184",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon57x57.png",
+    "size": [
+      57,
+      57
+    ],
+    "sha256": "89f34c65b56b890259dc8c088501e80e07f51067a9b422eb08744b67b3f934a0",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon57x57@2x.png",
+    "size": [
+      114,
+      114
+    ],
+    "sha256": "157360080c2065d39648c5af4417a8f2ce104c6154ca2b9f83139303791aa0ce",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon60x60@2x.png",
+    "size": [
+      120,
+      120
+    ],
+    "sha256": "797fb7eec7f40cb1fc1d0f37e8b84bfb88f151dfe9c61556039d60cf5b5319b8",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon72x72@2x~ipad.png",
+    "size": [
+      144,
+      144
+    ],
+    "sha256": "2a5ad076c7fb2792d6c8f08355fa88687724dbce510f19678c6efbb327a6b0c8",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon72x72~ipad.png",
+    "size": [
+      72,
+      72
+    ],
+    "sha256": "2968a6c3f518bfb192ffcbc92b1f805c90e039f0273c337f9cbbac152f9625c4",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon76x76@2x~ipad.png",
+    "size": [
+      152,
+      152
+    ],
+    "sha256": "878e24b110989c8dbbd40895bdcb43592aaf8fdf1eecb9529418cae382a89731",
+    "mode": "RGB"
+  },
+  {
+    "name": "AppIcon76x76~ipad.png",
+    "size": [
+      76,
+      76
+    ],
+    "sha256": "01f124678da10ca26c5ed5196b74b81a357ab4039885af0138b6585e93aeb377",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_100x100_Flatdesign.png",
+    "size": [
+      100,
+      100
+    ],
+    "sha256": "36b7cc3fc1b00b09f0085b86fc7044798dad1c45ad978687bcf306f5d680aa9c",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_1024x1024_Flatdesign.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "a6782989cd7d4bdb280e584162710e0e02abda4f640bb0132a38ae722b5aba22",
+    "mode": "RGBA"
+  },
+  {
+    "name": "Appleicon_miku_114x114_Flatdesign.png",
+    "size": [
+      114,
+      114
+    ],
+    "sha256": "157360080c2065d39648c5af4417a8f2ce104c6154ca2b9f83139303791aa0ce",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_120x120_Flatdesign.png",
+    "size": [
+      120,
+      120
+    ],
+    "sha256": "797fb7eec7f40cb1fc1d0f37e8b84bfb88f151dfe9c61556039d60cf5b5319b8",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_144x144_Flatdesign.png",
+    "size": [
+      144,
+      144
+    ],
+    "sha256": "2a5ad076c7fb2792d6c8f08355fa88687724dbce510f19678c6efbb327a6b0c8",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_152x152_Flatdesign.png",
+    "size": [
+      152,
+      152
+    ],
+    "sha256": "878e24b110989c8dbbd40895bdcb43592aaf8fdf1eecb9529418cae382a89731",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_29x29_Flatdesign.png",
+    "size": [
+      29,
+      29
+    ],
+    "sha256": "fbdc9d0b64abfee43c6fe6785617fd1b07c78cf4e4bb050ae93a0b0a51135335",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_40x40_Flatdesign.png",
+    "size": [
+      40,
+      40
+    ],
+    "sha256": "13157f1094677dd73ae3a18b8050347aade97e2aa1064b1534a15525a330203f",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_50x50_Flatdesign.png",
+    "size": [
+      50,
+      50
+    ],
+    "sha256": "97572310f36d1ab647e6e216f9c5a3d111c146379e389124cd8446b543784184",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_512x512_Flatdesign.png",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "73049ae8dc64c0dac636e653fb33130494566008f947a3726e233e10bbb41496",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_57x57_Flatdesign.png",
+    "size": [
+      57,
+      57
+    ],
+    "sha256": "89f34c65b56b890259dc8c088501e80e07f51067a9b422eb08744b67b3f934a0",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_58x58_Flatdesign.png",
+    "size": [
+      58,
+      58
+    ],
+    "sha256": "4fc4ce9e5907310772c85ef92d17ba11aec4cdf9186aaa8a5bff6aeded44646d",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_60x60_Flatdesign.png",
+    "size": [
+      60,
+      60
+    ],
+    "sha256": "ab35a557f6884aef7e9c9cc9f84602bb7a3a9b92b90e36ebaeea0612f21b8851",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_72x72_Flatdesign.png",
+    "size": [
+      72,
+      72
+    ],
+    "sha256": "2968a6c3f518bfb192ffcbc92b1f805c90e039f0273c337f9cbbac152f9625c4",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_76x76_Flatdesign.png",
+    "size": [
+      76,
+      76
+    ],
+    "sha256": "01f124678da10ca26c5ed5196b74b81a357ab4039885af0138b6585e93aeb377",
+    "mode": "RGB"
+  },
+  {
+    "name": "Appleicon_miku_80x80_Flatdesign.png",
+    "size": [
+      80,
+      80
+    ],
+    "sha256": "15e8fbc14afbddde31e54442d48de137b7f48b9e85c18354435d0abe52c0fe94",
+    "mode": "RGB"
+  },
+  {
+    "name": "Icon-72.png",
+    "size": [
+      72,
+      72
+    ],
+    "sha256": "a03dc6277bf7ed583a82f95fa5412eb269d5420a7018f0b07bafba8199b0c0cf",
+    "mode": "RGBA"
+  },
+  {
+    "name": "Icon-Small-50.png",
+    "size": [
+      50,
+      50
+    ],
+    "sha256": "19b9b8b0f78e74b82c2d0548465d0f3417b385c39c1802fea757642beea18007",
+    "mode": "RGBA"
+  },
+  {
+    "name": "Icon-Small.png",
+    "size": [
+      29,
+      29
+    ],
+    "sha256": "0a3049dc76e87074e1f1614c981d8b10560ba73e9972f26af9fa03ab2615cd31",
+    "mode": "RGBA"
+  },
+  {
+    "name": "Icon-Small@2x.png",
+    "size": [
+      58,
+      58
+    ],
+    "sha256": "cbb9256c2fe555a9978ef30acd007b8e4b670463a509286e85bb862cb03ab1c4",
+    "mode": "RGBA"
+  },
+  {
+    "name": "Icon.png",
+    "size": [
+      57,
+      57
+    ],
+    "sha256": "bfc7e222f4cf33b5c6deb639e4aebfa75e7c9ca38adff516b7a06d2c76a6e9a3",
+    "mode": "RGBA"
+  },
+  {
+    "name": "Icon@2x.png",
+    "size": [
+      114,
+      114
+    ],
+    "sha256": "6454bad41b50d3e0dc39f1158711710e83507ba2d29e1d50b2ea917cbf19c20c",
+    "mode": "RGBA"
+  },
+  {
+    "name": "LaunchImage-568h@2x.png",
+    "size": [
+      640,
+      1136
+    ],
+    "sha256": "faf1b7660a717cfa5e3469ff7b099741a7858a8d5363bbe7b0f233c934a60a3d",
+    "mode": "RGB"
+  },
+  {
+    "name": "LaunchImage-700-568h@2x.png",
+    "size": [
+      640,
+      1136
+    ],
+    "sha256": "faf1b7660a717cfa5e3469ff7b099741a7858a8d5363bbe7b0f233c934a60a3d",
+    "mode": "RGB"
+  },
+  {
+    "name": "LaunchImage-700-Portrait~ipad.png",
+    "size": [
+      768,
+      1024
+    ],
+    "sha256": "6c38373e8e3e139ed126ad0a989691bea34202ef291b1f9b893047d7ea1c590d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "LaunchImage-700@2x.png",
+    "size": [
+      640,
+      960
+    ],
+    "sha256": "93b8edc0e7bd8f6afff12543bec2d8f3613521968d78ca78d0d971f8f9be0764",
+    "mode": "RGB"
+  },
+  {
+    "name": "LaunchImage-Portrait~ipad.png",
+    "size": [
+      768,
+      1024
+    ],
+    "sha256": "6c38373e8e3e139ed126ad0a989691bea34202ef291b1f9b893047d7ea1c590d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "LaunchImage@2x.png",
+    "size": [
+      640,
+      960
+    ],
+    "sha256": "93b8edc0e7bd8f6afff12543bec2d8f3613521968d78ca78d0d971f8f9be0764",
+    "mode": "RGB"
+  },
+  {
+    "name": "UI_tex_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "edeb9a9f4411162c161eeb33a7d4bf3f1e25fcd19e60e9b78a6d8af47d9f8409",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "efe22930240f57e7967dd196c6223d5e410eb795e771d3b71bfaaf41fe9754e5",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "033b166045c3f48ee9b7d9c70f4f495ac657ebc63a161fa5d94c875012c34dfa",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "08ad59a127ffe7b85b96c8db8c674e7d10dc31a9d6f2a42b6e72e3e273ca110b",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_05.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "84e10cfc6e5f88ef7ea837ce6d9cf266d9a1975e52deccb488e460b6d778a7b1",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_06.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "eb7c3023372fc08b7dc64a0d681ab286df5751e107832d15046e59e7839f021f",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_07.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "bc3d11e57a0878ce5f84d9d6284a65dec27b5fa00eeaecb9074834ba6debf755",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_08.png",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "d12c5a634c4519faa11a5aa4b65d435165d373610f1e32d9a2121d15b2fc2fc4",
+    "mode": "RGBA"
+  },
+  {
+    "name": "UI_tex_09.png",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "570f9bf9d4b51bef9ec0518c6ea297631f0c19aec6cd343e492ab57c0e87b712",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "1b2a5f4809af1451ba4c994abf2eadf7564efb02823831b8a194727dbd9a0b2d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "2d567279ec9f686a99db5301b30b8c083630cce0483fd1f82436582118b54f40",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "5822f02792baff3b792a045c79174a790f86ca0e7fe011102736b18434da61f3",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "261ca9af87cfe41ce141b3441c46fb683e2326f5270bb65b1a0af02cb7cbffe6",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_05.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "17a5f0f97f3a1ff5dc9c6795900dd8703dbcbb629e98aef02eeca517a7960284",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_06.png",
+    "size": [
+      640,
+      960
+    ],
+    "sha256": "df847ca0c805141934434b4248e8178d463f63242d31ff470dc7aa84bf8c2000",
+    "mode": "RGB"
+  },
+  {
+    "name": "bg_tex_07.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "9889685b85fadf1c30bf2ae8080b0ea4e5a720baad636279f8c92129865854bc",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_08.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "a822755bdb83a813265e38430d162b893359112279f2a0c5d794ce5c3c6e363a",
+    "mode": "RGBA"
+  },
+  {
+    "name": "bg_tex_09.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "781732ec5a2b3fdfb3d80e84414c0b0fecea7b9f2046256d79edb29cf4944efc",
+    "mode": "RGBA"
+  },
+  {
+    "name": "credits_en.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "dfba48b1aa89679bbb19150b9b2ea6136ee632ee7f3301f96d93f994fee2ef7d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "credits_ja.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "d46b20d3eb82515b9ac74a2be0e8fe5157da8e285d10741a7897da4fd59f6098",
+    "mode": "RGBA"
+  },
+  {
+    "name": "ending.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "35c0a2f1decd1892919491d7fbfd81b1248b641da2f83bf804514d49d961a4ac",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_effect_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "9d7240a764e6b5dcc7b102f4852f9706a67ded0aaec1c8937e3ec26c830e531f",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_effect_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "8075fb7f75019838ce4ff160e791217918a0120323e9dbc66bfce97633a27e5f",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_effect_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "c917aa4597def5afe6ea46f3abd157af423e78a969a64646f28765c8c5cbee02",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_effect_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "477a388870106fe39c0ac068d4ce493301468a883a443ae068977f89199eb66a",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_effect_05.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "a67f1f5609ea49f4742142868aa343f89767c162c6b1b3c4fde52bdf30a00668",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_tex_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "073f5e163ffcc531c299b5adf4aaff9c1183f6f8f2bdde3a1a0aaf540f1e4e3e",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_tex_02.png",
+    "size": [
+      512,
+      1024
+    ],
+    "sha256": "feee2973187f46d2786755970ee3728f7ddb19e10f33c6b7dedf083f30900372",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_tex_02_fullroman.png",
+    "size": [
+      512,
+      1024
+    ],
+    "sha256": "9641c52a1f416c42afe158f0920893aacc85f20122750940480d7851dc25d1d8",
+    "mode": "RGBA"
+  },
+  {
+    "name": "game_tex_02_romanhira.png",
+    "size": [
+      512,
+      1024
+    ],
+    "sha256": "e8b4cd9f0de560aa356502ad3b031f2383bd9acce9971321690bc45de3a9225d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "help_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "86441ea884906a10f612d33e7dac1391aade311ad2329023634591bc647868d6",
+    "mode": "RGBA"
+  },
+  {
+    "name": "help_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "b8671a74b86d43fc2b097705da13a62dc4cb4b608b14839bef543c7deb95bfa3",
+    "mode": "RGBA"
+  },
+  {
+    "name": "ipad_top.png",
+    "size": [
+      768,
+      1024
+    ],
+    "sha256": "6c38373e8e3e139ed126ad0a989691bea34202ef291b1f9b893047d7ea1c590d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "logo_cri.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "6b3a7b97b745f1e37cb7232b833e94d7504bcd5fc34bc524b5f4f15c836d4ec4",
+    "mode": "RGBA"
+  },
+  {
+    "name": "logo_crypton.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "e6dbbcece4a46c8ec99b6f2de3d2c6c6d7872ca6c6cdca2b1d11ab7655735f13",
+    "mode": "RGBA"
+  },
+  {
+    "name": "logo_sega.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "e87ed4e47ecd07bbd3251492dda8c62c44d9bc30edc721467089cc4f69496430",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_hiragana_blank.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "5ab3ae6b4c8281c74dc387a65c8d1f89a07fa9f71c466490bc1e07822e88d30b",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_hiragana_blank_fullroman.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "8e50ab1ca9c284d09426a2ca940be749017255a7a6ab14a147d4938b9840bbd0",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_hiragana_blank_romanhira.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "8e0d2e56eb21c89a1877fbbcc8d82572cb36d232474c8b0ec956bd8d567179c9",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_hiragana_telop.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "d74e353eb939f5becb77c1065f403e2fefe4483ccba9cc5f850f7ae80e813b40",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_hiragana_telop_fullroman.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "82219e11caa5b0f8fe16bc518e5d69ae664d4af9cff0798c261dc5dcb157c699",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_hiragana_telop_romanhira.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "5c11f57cce8023763723f532cd0d36650e0e2652d6db2b8a76e0e50e5bca8eda",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_katakana_blank.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "bbe3fb623c44a9d2cace508b28458982260e8fa26b0de19e4fdda5ca18d20c0b",
+    "mode": "RGBA"
+  },
+  {
+    "name": "mf_katakana_telop.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "ade9fdce55f38c75d811dcfef248fc38d1c9bae72d8f36e7cc2fbd153f54c682",
+    "mode": "RGBA"
+  },
+  {
+    "name": "music_00_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "c4609d9ed991dba9434f4c7e5b52e5bef94da9ef7a51dd50d6071b481342913d",
+    "mode": "RGBA"
+  },
+  {
+    "name": "music_00_02.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "777453ccc6ac02a349aae3d8aacd8c4b535a06f1f26b67ee152ca4a1fdd09932",
+    "mode": "RGBA"
+  },
+  {
+    "name": "music_00_03.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "1d08d1d7244f9e2d0fe6cfe439f0f36bac1801661eeea7500ed33af1f2d6d23c",
+    "mode": "RGBA"
+  },
+  {
+    "name": "music_00_04.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "67e290d0a0ac46055b450478ffd989b2be48674949d084c811018e4b1894af29",
+    "mode": "RGBA"
+  },
+  {
+    "name": "music_01_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "379524482c0c6d52d8c755d37eb01dc394f23fff6e07e2a548dad1045bf3473f",
+    "mode": "RGBA"
+  },
+  {
+    "name": "music_02_01.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "7d286f8efdd3cbda44368b1adf2f26a0bf4f0925607242502d0d76982e46290b",
+    "mode": "RGBA"
+  },
+  {
+    "name": "saisei.png",
+    "size": [
+      128,
+      128
+    ],
+    "sha256": "d75352fcf90bb98a22c0d03612755b8f9055791b2af2e2fc46e7dde10da9ad3c",
+    "mode": "RGBA"
+  },
+  {
+    "name": "thum_01_01.png",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "f979e73ad8244f9857a5ea2f7dbfb347202639749ef27288b4f8d197f9cff1c2",
+    "mode": "RGBA"
+  },
+  {
+    "name": "thum_02_01.png",
+    "size": [
+      512,
+      512
+    ],
+    "sha256": "647ede71a8485c47f2a25e3acdc8ef99d5d5b92b341d237b817dffb9f848e63a",
+    "mode": "RGBA"
+  },
+  {
+    "name": "twitter_load.png",
+    "size": [
+      320,
+      416
+    ],
+    "sha256": "8e93fdfb10e29ac1a1f886ef1836c12bdac8553552180288ff50aceb0f61ce95",
+    "mode": "RGB"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "file": "SE01.caf",
+    "loop": false
+  },
+  {
+    "id": 1,
+    "file": "SE02.caf",
+    "loop": false
+  },
+  {
+    "id": 2,
+    "file": "SE03.caf",
+    "loop": false
+  },
+  {
+    "id": 3,
+    "file": "SE04.caf",
+    "loop": false
+  },
+  {
+    "id": 4,
+    "file": "SE05.caf",
+    "loop": false
+  },
+  {
+    "id": 5,
+    "file": "SE06.caf",
+    "loop": false
+  },
+  {
+    "id": 6,
+    "file": "SE07.caf",
+    "loop": false
+  },
+  {
+    "id": 7,
+    "file": "SE08.caf",
+    "loop": false
+  },
+  {
+    "id": 8,
+    "file": "SE09.caf",
+    "loop": false
+  },
+  {
+    "id": 9,
+    "file": "SE10.caf",
+    "loop": false
+  },
+  {
+    "id": 10,
+    "file": "SE11.caf",
+    "loop": false
+  },
+  {
+    "id": 11,
+    "file": "SE12.caf",
+    "loop": false
+  },
+  {
+    "id": 12,
+    "file": "SE13.caf",
+    "loop": false
+  },
+  {
+    "id": 13,
+    "file": "SE14.caf",
+    "loop": false
+  },
+  {
+    "id": 14,
+    "file": "SE15.caf",
+    "loop": false
+  },
+  {
+    "id": 15,
+    "file": "MusicSelect.caf",
+    "loop": false
+  },
+  {
+    "id": 16,
+    "file": "J01_01.caf",
+    "loop": false
+  },
+  {
+    "id": 17,
+    "file": "SE01_01.caf",
+    "loop": false
+  },
+  {
+    "id": 18,
+    "file": "SE01_03.caf",
+    "loop": false
+  },
+  {
+    "id": 19,
+    "file": "SE02_01.caf",
+    "loop": false
+  },
+  {
+    "id": 20,
+    "file": "SE04_01.caf",
+    "loop": false
+  },
+  {
+    "id": 21,
+    "file": "SE05_01.caf",
+    "loop": false
+  },
+  {
+    "id": 22,
+    "file": "BGM01.caf",
+    "loop": true
+  },
+  {
+    "id": 23,
+    "file": "BGM02.caf",
+    "loop": true
+  },
+  {
+    "id": 24,
+    "file": "BGM03.caf",
+    "loop": true
+  },
+  {
+    "id": 25,
+    "file": "BGM04.caf",
+    "loop": true
+  },
+  {
+    "id": 26,
+    "file": "BGM05.caf",
+    "loop": true
+  },
+  {
+    "id": 27,
+    "file": "Na_SEGA_09_keep.caf",
+    "loop": false
+  },
+  {
+    "id": 28,
+    "file": "Na_Title_A_03_keep.caf",
+    "loop": false
+  },
+  {
+    "id": 29,
+    "file": "SE04v2.caf",
+    "loop": true
+  }
+]

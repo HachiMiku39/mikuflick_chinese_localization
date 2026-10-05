@@ -1,0 +1,376 @@
+[
+  {
+    "title": "恋は戦争",
+    "video": "koi_wa_sensou",
+    "bpm": 175,
+    "notes": [
+      42,
+      83,
+      123,
+      171,
+      241
+    ],
+    "interlude_notes": [
+      0,
+      15,
+      29,
+      37,
+      37
+    ],
+    "climax_mark_events": [
+      0,
+      0,
+      2,
+      9,
+      0
+    ],
+    "extra_tail_records": 83,
+    "full_combo_bonus": [
+      4600,
+      17600,
+      37000,
+      61000,
+      96000
+    ]
+  },
+  {
+    "title": "ハジメテノオト",
+    "video": "hajimete_no_oto",
+    "bpm": 100,
+    "notes": [
+      50,
+      88,
+      157,
+      211,
+      357
+    ],
+    "interlude_notes": [
+      0,
+      11,
+      14,
+      17,
+      17
+    ],
+    "climax_mark_events": [
+      0,
+      0,
+      7,
+      14,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      6500,
+      19800,
+      54000,
+      81000,
+      154000
+    ]
+  },
+  {
+    "title": "炉心融解",
+    "video": "roshin_yuukai",
+    "bpm": 165,
+    "notes": [
+      64,
+      104,
+      170,
+      213,
+      461
+    ],
+    "interlude_notes": [
+      0,
+      9,
+      16,
+      22,
+      22
+    ],
+    "climax_mark_events": [
+      0,
+      1,
+      6,
+      6,
+      0
+    ],
+    "extra_tail_records": 139,
+    "full_combo_bonus": [
+      10500,
+      27500,
+      60500,
+      82000,
+      206000
+    ]
+  },
+  {
+    "title": "右肩の蝶",
+    "video": "migikata_no_tyou",
+    "bpm": 140,
+    "notes": [
+      79,
+      147,
+      224,
+      290,
+      528
+    ],
+    "interlude_notes": [
+      0,
+      7,
+      13,
+      19,
+      19
+    ],
+    "climax_mark_events": [
+      0,
+      10,
+      18,
+      21,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      16000,
+      49000,
+      87500,
+      120500,
+      239500
+    ]
+  },
+  {
+    "title": "Just Be Friends",
+    "video": "Just_be_friends",
+    "bpm": 128,
+    "notes": [
+      90,
+      133,
+      199,
+      253,
+      587
+    ],
+    "interlude_notes": [
+      0,
+      5,
+      10,
+      15,
+      15
+    ],
+    "climax_mark_events": [
+      0,
+      6,
+      17,
+      21,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      20700,
+      42000,
+      75000,
+      102000,
+      269000
+    ]
+  },
+  {
+    "title": "クローバー・クラブ",
+    "video": "cloverclub",
+    "bpm": 150,
+    "notes": [
+      67,
+      129,
+      202,
+      258,
+      466
+    ],
+    "interlude_notes": [
+      0,
+      11,
+      17,
+      24,
+      24
+    ],
+    "climax_mark_events": [
+      0,
+      13,
+      23,
+      31,
+      0
+    ],
+    "extra_tail_records": 131,
+    "full_combo_bonus": [
+      11550,
+      40000,
+      76500,
+      104500,
+      208500
+    ]
+  },
+  {
+    "title": "magnet",
+    "video": "magnet",
+    "bpm": 108,
+    "notes": [
+      61,
+      79,
+      130,
+      172,
+      333
+    ],
+    "interlude_notes": [
+      0,
+      24,
+      52,
+      77,
+      77
+    ],
+    "climax_mark_events": [
+      0,
+      0,
+      5,
+      12,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      9600,
+      16000,
+      40500,
+      61500,
+      142000
+    ]
+  },
+  {
+    "title": "Promise",
+    "video": "promise",
+    "bpm": 138,
+    "notes": [
+      50,
+      106,
+      160,
+      189,
+      312
+    ],
+    "interlude_notes": [
+      0,
+      29,
+      57,
+      94,
+      94
+    ],
+    "climax_mark_events": [
+      0,
+      1,
+      11,
+      11,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      6500,
+      28500,
+      55500,
+      70000,
+      131500
+    ]
+  },
+  {
+    "title": "裏表ラバーズ",
+    "video": "ura_omote_lovers",
+    "bpm": 159,
+    "notes": [
+      93,
+      185,
+      241,
+      287,
+      1020
+    ],
+    "interlude_notes": [
+      0,
+      17,
+      34,
+      51,
+      51
+    ],
+    "climax_mark_events": [
+      0,
+      25,
+      38,
+      45,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      22050,
+      68000,
+      96000,
+      119000,
+      485500
+    ]
+  },
+  {
+    "title": "初音ミクの激唱",
+    "video": "hatsune_miku_no_gekisyou",
+    "bpm": 200,
+    "notes": [
+      77,
+      134,
+      203,
+      303,
+      696
+    ],
+    "interlude_notes": [
+      0,
+      13,
+      22,
+      24,
+      24
+    ],
+    "climax_mark_events": [
+      0,
+      15,
+      21,
+      26,
+      0
+    ],
+    "extra_tail_records": 0,
+    "full_combo_bonus": [
+      15200,
+      42500,
+      77000,
+      127000,
+      323500
+    ]
+  },
+  {
+    "title": "多重未来のカルテット",
+    "video": "tajyuumirai_no_quartet",
+    "bpm": 195,
+    "notes": [
+      34,
+      65,
+      101,
+      132,
+      273
+    ],
+    "interlude_notes": [
+      0,
+      58,
+      99,
+      141,
+      141
+    ],
+    "climax_mark_events": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "extra_tail_records": 65,
+    "full_combo_bonus": [
+      3000,
+      10850,
+      26000,
+      41500,
+      112000
+    ]
+  }
+]

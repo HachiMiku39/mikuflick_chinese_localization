@@ -1,0 +1,8 @@
+{
+  "events": 6818,
+  "prefix0_records": 5280,
+  "variable_11_parseable_records": 4233,
+  "activation_differences_on_those_records": 0,
+  "runtime_rule": "UTF-16 code unit at difficulty+2, 0 disabled,1..5 enabled; kana determines direction",
+  "repository_sample_available_locally": false
+}

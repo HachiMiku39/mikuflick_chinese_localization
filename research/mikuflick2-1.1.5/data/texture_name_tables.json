@@ -1,0 +1,1890 @@
+{
+  "atlas_names": [
+    {
+      "index": 0,
+      "name": "UI_tex_01"
+    },
+    {
+      "index": 1,
+      "name": "UI_tex_02"
+    },
+    {
+      "index": 2,
+      "name": "UI_tex_03"
+    },
+    {
+      "index": 3,
+      "name": "UI_tex_04"
+    },
+    {
+      "index": 4,
+      "name": "UI_tex_05"
+    },
+    {
+      "index": 5,
+      "name": "UI_tex_06"
+    },
+    {
+      "index": 6,
+      "name": "UI_tex_07"
+    },
+    {
+      "index": 7,
+      "name": "bg_tex_01"
+    },
+    {
+      "index": 8,
+      "name": "bg_tex_02"
+    },
+    {
+      "index": 9,
+      "name": "bg_tex_03"
+    },
+    {
+      "index": 10,
+      "name": "bg_tex_04"
+    },
+    {
+      "index": 11,
+      "name": "bg_tex_05"
+    },
+    {
+      "index": 12,
+      "name": "bg_tex_06"
+    },
+    {
+      "index": 13,
+      "name": "bg_tex_07"
+    },
+    {
+      "index": 14,
+      "name": "game_effect_01"
+    },
+    {
+      "index": 15,
+      "name": "game_tex_01"
+    },
+    {
+      "index": 16,
+      "name": "game_tex_02"
+    },
+    {
+      "index": 17,
+      "name": "music_00_01"
+    },
+    {
+      "index": 18,
+      "name": "thum_01_01"
+    },
+    {
+      "index": 19,
+      "name": "credits_ja"
+    },
+    {
+      "index": 20,
+      "name": "ending"
+    }
+  ],
+  "frame_names": [
+    {
+      "index": 0,
+      "name": "arrow_forward.png"
+    },
+    {
+      "index": 1,
+      "name": "arrow_head.png"
+    },
+    {
+      "index": 2,
+      "name": "back.png"
+    },
+    {
+      "index": 3,
+      "name": "baseline.png"
+    },
+    {
+      "index": 4,
+      "name": "bgeffect_00.png"
+    },
+    {
+      "index": 5,
+      "name": "bgeffect_01.png"
+    },
+    {
+      "index": 6,
+      "name": "bgeffect_02.png"
+    },
+    {
+      "index": 7,
+      "name": "bgeffect_03.png"
+    },
+    {
+      "index": 8,
+      "name": "bgeffect_04.png"
+    },
+    {
+      "index": 9,
+      "name": "clearrank_a.png"
+    },
+    {
+      "index": 10,
+      "name": "clearrank_b.png"
+    },
+    {
+      "index": 11,
+      "name": "clearrank_c.png"
+    },
+    {
+      "index": 12,
+      "name": "clearrank_s.png"
+    },
+    {
+      "index": 13,
+      "name": "clearrank_star.png"
+    },
+    {
+      "index": 14,
+      "name": "clearstar_l.png"
+    },
+    {
+      "index": 15,
+      "name": "clearstar_s.png"
+    },
+    {
+      "index": 16,
+      "name": "close_off.png"
+    },
+    {
+      "index": 17,
+      "name": "close_on.png"
+    },
+    {
+      "index": 18,
+      "name": "crownicon_off.png"
+    },
+    {
+      "index": 19,
+      "name": "crownicon_on.png"
+    },
+    {
+      "index": 20,
+      "name": "difficulty_off_00.png"
+    },
+    {
+      "index": 21,
+      "name": "difficulty_off_01.png"
+    },
+    {
+      "index": 22,
+      "name": "difficulty_off_02.png"
+    },
+    {
+      "index": 23,
+      "name": "difficulty_off_03.png"
+    },
+    {
+      "index": 24,
+      "name": "difficulty_on_00.png"
+    },
+    {
+      "index": 25,
+      "name": "difficulty_on_01.png"
+    },
+    {
+      "index": 26,
+      "name": "difficulty_on_02.png"
+    },
+    {
+      "index": 27,
+      "name": "difficulty_on_03.png"
+    },
+    {
+      "index": 28,
+      "name": "difficulty_on_04.png"
+    },
+    {
+      "index": 29,
+      "name": "difficultycursor.png"
+    },
+    {
+      "index": 30,
+      "name": "difficultycursor_break.png"
+    },
+    {
+      "index": 31,
+      "name": "difficultyemblem_00.png"
+    },
+    {
+      "index": 32,
+      "name": "difficultyemblem_01.png"
+    },
+    {
+      "index": 33,
+      "name": "difficultystar_00.png"
+    },
+    {
+      "index": 34,
+      "name": "difficultystar_01.png"
+    },
+    {
+      "index": 35,
+      "name": "ending.png"
+    },
+    {
+      "index": 36,
+      "name": "failedsound_off_b.png"
+    },
+    {
+      "index": 37,
+      "name": "failedsound_off_w.png"
+    },
+    {
+      "index": 38,
+      "name": "failedsound_on_b.png"
+    },
+    {
+      "index": 39,
+      "name": "failedsound_on_w.png"
+    },
+    {
+      "index": 40,
+      "name": "infoarrow_00.png"
+    },
+    {
+      "index": 41,
+      "name": "infoarrow_01.png"
+    },
+    {
+      "index": 42,
+      "name": "infoicon_off.png"
+    },
+    {
+      "index": 43,
+      "name": "infoicon_on.png"
+    },
+    {
+      "index": 44,
+      "name": "insidewindow.png"
+    },
+    {
+      "index": 45,
+      "name": "karaoke_off.png"
+    },
+    {
+      "index": 46,
+      "name": "karaoke_on.png"
+    },
+    {
+      "index": 47,
+      "name": "locked.png"
+    },
+    {
+      "index": 48,
+      "name": "loop_off.png"
+    },
+    {
+      "index": 49,
+      "name": "loop_on.png"
+    },
+    {
+      "index": 50,
+      "name": "lyrics_off.png"
+    },
+    {
+      "index": 51,
+      "name": "lyrics_on.png"
+    },
+    {
+      "index": 52,
+      "name": "menubutton_l_base.png"
+    },
+    {
+      "index": 53,
+      "name": "menubutton_l_off.png"
+    },
+    {
+      "index": 54,
+      "name": "menubutton_l_on.png"
+    },
+    {
+      "index": 55,
+      "name": "menubutton_m_base.png"
+    },
+    {
+      "index": 56,
+      "name": "menubutton_m_off.png"
+    },
+    {
+      "index": 57,
+      "name": "menubutton_m_on.png"
+    },
+    {
+      "index": 58,
+      "name": "menubutton_s_base.png"
+    },
+    {
+      "index": 59,
+      "name": "menubutton_s_off.png"
+    },
+    {
+      "index": 60,
+      "name": "menubutton_s_on.png"
+    },
+    {
+      "index": 61,
+      "name": "modechange_off.png"
+    },
+    {
+      "index": 62,
+      "name": "modechange_on.png"
+    },
+    {
+      "index": 63,
+      "name": "new.png"
+    },
+    {
+      "index": 64,
+      "name": "outsidewindow_00.png"
+    },
+    {
+      "index": 65,
+      "name": "outsidewindow_01.png"
+    },
+    {
+      "index": 66,
+      "name": "outsidewindow_02.png"
+    },
+    {
+      "index": 67,
+      "name": "outsidewindow_03.png"
+    },
+    {
+      "index": 68,
+      "name": "outsidewindow_04.png"
+    },
+    {
+      "index": 69,
+      "name": "outsidewindow_05.png"
+    },
+    {
+      "index": 70,
+      "name": "outsidewindow_06.png"
+    },
+    {
+      "index": 71,
+      "name": "outsidewindow_07.png"
+    },
+    {
+      "index": 72,
+      "name": "outsidewindow_08.png"
+    },
+    {
+      "index": 73,
+      "name": "parenthesis_00.png"
+    },
+    {
+      "index": 74,
+      "name": "parenthesis_01.png"
+    },
+    {
+      "index": 75,
+      "name": "play_off.png"
+    },
+    {
+      "index": 76,
+      "name": "play_on.png"
+    },
+    {
+      "index": 77,
+      "name": "playlist_off.png"
+    },
+    {
+      "index": 78,
+      "name": "playlist_on.png"
+    },
+    {
+      "index": 79,
+      "name": "replay_off.png"
+    },
+    {
+      "index": 80,
+      "name": "replay_on.png"
+    },
+    {
+      "index": 81,
+      "name": "ruledline.png"
+    },
+    {
+      "index": 82,
+      "name": "sgnbutton_base.png"
+    },
+    {
+      "index": 83,
+      "name": "sgnbutton_off.png"
+    },
+    {
+      "index": 84,
+      "name": "sgnbutton_on.png"
+    },
+    {
+      "index": 85,
+      "name": "shop.png"
+    },
+    {
+      "index": 86,
+      "name": "shuffle_off.png"
+    },
+    {
+      "index": 87,
+      "name": "shuffle_on.png"
+    },
+    {
+      "index": 88,
+      "name": "titleeffect_b_00.png"
+    },
+    {
+      "index": 89,
+      "name": "titleeffect_b_01.png"
+    },
+    {
+      "index": 90,
+      "name": "titleeffect_b_02.png"
+    },
+    {
+      "index": 91,
+      "name": "titleeffect_p_00.png"
+    },
+    {
+      "index": 92,
+      "name": "titleeffect_p_01.png"
+    },
+    {
+      "index": 93,
+      "name": "titleeffect_p_02.png"
+    },
+    {
+      "index": 94,
+      "name": "titleeffect_r_00.png"
+    },
+    {
+      "index": 95,
+      "name": "titleeffect_r_01.png"
+    },
+    {
+      "index": 96,
+      "name": "titleeffect_r_02.png"
+    },
+    {
+      "index": 97,
+      "name": "titleeffect_y_00.png"
+    },
+    {
+      "index": 98,
+      "name": "titleeffect_y_01.png"
+    },
+    {
+      "index": 99,
+      "name": "titleeffect_y_02.png"
+    },
+    {
+      "index": 100,
+      "name": "touchstart.png"
+    },
+    {
+      "index": 101,
+      "name": "cardnumber_00.png"
+    },
+    {
+      "index": 102,
+      "name": "cardnumber_01.png"
+    },
+    {
+      "index": 103,
+      "name": "cardnumber_02.png"
+    },
+    {
+      "index": 104,
+      "name": "cardnumber_03.png"
+    },
+    {
+      "index": 105,
+      "name": "cardnumber_04.png"
+    },
+    {
+      "index": 106,
+      "name": "cardnumber_05.png"
+    },
+    {
+      "index": 107,
+      "name": "cardnumber_06.png"
+    },
+    {
+      "index": 108,
+      "name": "cardnumber_07.png"
+    },
+    {
+      "index": 109,
+      "name": "cardnumber_08.png"
+    },
+    {
+      "index": 110,
+      "name": "cardslot.png"
+    },
+    {
+      "index": 111,
+      "name": "clearrank_00.png"
+    },
+    {
+      "index": 112,
+      "name": "clearrank_01.png"
+    },
+    {
+      "index": 113,
+      "name": "clearrank_02.png"
+    },
+    {
+      "index": 114,
+      "name": "clearrank_03.png"
+    },
+    {
+      "index": 115,
+      "name": "clearrank_04.png"
+    },
+    {
+      "index": 116,
+      "name": "clearrank_05.png"
+    },
+    {
+      "index": 117,
+      "name": "clearrankstamp.png"
+    },
+    {
+      "index": 118,
+      "name": "collection_off.png"
+    },
+    {
+      "index": 119,
+      "name": "collection_on.png"
+    },
+    {
+      "index": 120,
+      "name": "difficultyarrow_00.png"
+    },
+    {
+      "index": 121,
+      "name": "difficultyarrow_01.png"
+    },
+    {
+      "index": 122,
+      "name": "drstar_off.png"
+    },
+    {
+      "index": 123,
+      "name": "drstar_on.png"
+    },
+    {
+      "index": 124,
+      "name": "failed.png"
+    },
+    {
+      "index": 125,
+      "name": "flickresult_off.png"
+    },
+    {
+      "index": 126,
+      "name": "flickresult_on.png"
+    },
+    {
+      "index": 127,
+      "name": "loading.png"
+    },
+    {
+      "index": 128,
+      "name": "newlevel.png"
+    },
+    {
+      "index": 129,
+      "name": "newmode.png"
+    },
+    {
+      "index": 130,
+      "name": "newrecord.png"
+    },
+    {
+      "index": 131,
+      "name": "newsong.png"
+    },
+    {
+      "index": 132,
+      "name": "perfect.png"
+    },
+    {
+      "index": 133,
+      "name": "resultarrow_00.png"
+    },
+    {
+      "index": 134,
+      "name": "resultarrow_01.png"
+    },
+    {
+      "index": 135,
+      "name": "resultdifficulty_00.png"
+    },
+    {
+      "index": 136,
+      "name": "resultdifficulty_01.png"
+    },
+    {
+      "index": 137,
+      "name": "resultdifficulty_02.png"
+    },
+    {
+      "index": 138,
+      "name": "resultdifficulty_03.png"
+    },
+    {
+      "index": 139,
+      "name": "resultdifficulty_04.png"
+    },
+    {
+      "index": 140,
+      "name": "resultdifficulty_05.png"
+    },
+    {
+      "index": 141,
+      "name": "resultpanel_00.png"
+    },
+    {
+      "index": 142,
+      "name": "resultpanel_01.png"
+    },
+    {
+      "index": 143,
+      "name": "resultpanel_02.png"
+    },
+    {
+      "index": 144,
+      "name": "resultpanel_03.png"
+    },
+    {
+      "index": 145,
+      "name": "resultpanel_04.png"
+    },
+    {
+      "index": 146,
+      "name": "resultstat_00.png"
+    },
+    {
+      "index": 147,
+      "name": "resultstat_01.png"
+    },
+    {
+      "index": 148,
+      "name": "resultstat_02.png"
+    },
+    {
+      "index": 149,
+      "name": "resultwindow_00.png"
+    },
+    {
+      "index": 150,
+      "name": "resultwindow_01.png"
+    },
+    {
+      "index": 151,
+      "name": "resultwindow_02.png"
+    },
+    {
+      "index": 152,
+      "name": "resultwindow_03.png"
+    },
+    {
+      "index": 153,
+      "name": "resultwindow_04.png"
+    },
+    {
+      "index": 154,
+      "name": "resultwindow_05.png"
+    },
+    {
+      "index": 155,
+      "name": "resultwindow_06.png"
+    },
+    {
+      "index": 156,
+      "name": "resultwindow_07.png"
+    },
+    {
+      "index": 157,
+      "name": "resultwindow_08.png"
+    },
+    {
+      "index": 158,
+      "name": "savegame_off.png"
+    },
+    {
+      "index": 159,
+      "name": "savegame_on.png"
+    },
+    {
+      "index": 160,
+      "name": "scoreresult_off.png"
+    },
+    {
+      "index": 161,
+      "name": "scoreresult_on.png"
+    },
+    {
+      "index": 162,
+      "name": "stloading.png"
+    },
+    {
+      "index": 163,
+      "name": "textbar_00.png"
+    },
+    {
+      "index": 164,
+      "name": "textbar_01.png"
+    },
+    {
+      "index": 165,
+      "name": "titlebar.png"
+    },
+    {
+      "index": 166,
+      "name": "twitter.png"
+    },
+    {
+      "index": 167,
+      "name": "unlockwindow.png"
+    },
+    {
+      "index": 168,
+      "name": "viewreplay_off.png"
+    },
+    {
+      "index": 169,
+      "name": "viewreplay_on.png"
+    },
+    {
+      "index": 170,
+      "name": "arrow_00.png"
+    },
+    {
+      "index": 171,
+      "name": "arrow_01.png"
+    },
+    {
+      "index": 172,
+      "name": "helpline.png"
+    },
+    {
+      "index": 173,
+      "name": "helpmeter_off.png"
+    },
+    {
+      "index": 174,
+      "name": "helpmeter_on.png"
+    },
+    {
+      "index": 175,
+      "name": "lefthand_off.png"
+    },
+    {
+      "index": 176,
+      "name": "lefthand_on.png"
+    },
+    {
+      "index": 177,
+      "name": "righthand_off.png"
+    },
+    {
+      "index": 178,
+      "name": "righthand_on.png"
+    },
+    {
+      "index": 179,
+      "name": "speaker.png"
+    },
+    {
+      "index": 180,
+      "name": "volumemeter_off.png"
+    },
+    {
+      "index": 181,
+      "name": "volumemeter_on.png"
+    },
+    {
+      "index": 182,
+      "name": "volumewindow.png"
+    },
+    {
+      "index": 183,
+      "name": "flowerline.png"
+    },
+    {
+      "index": 184,
+      "name": "flowet_off_off.png"
+    },
+    {
+      "index": 185,
+      "name": "flowet_off_on.png"
+    },
+    {
+      "index": 186,
+      "name": "flowet_on_off.png"
+    },
+    {
+      "index": 187,
+      "name": "flowet_on_on.png"
+    },
+    {
+      "index": 188,
+      "name": "keyboard_fro_off.png"
+    },
+    {
+      "index": 189,
+      "name": "keyboard_fro_on.png"
+    },
+    {
+      "index": 190,
+      "name": "keyboard_ori_off.png"
+    },
+    {
+      "index": 191,
+      "name": "keyboard_ori_on.png"
+    },
+    {
+      "index": 192,
+      "name": "keyboard_rah_off.png"
+    },
+    {
+      "index": 193,
+      "name": "keyboard_rah_on.png"
+    },
+    {
+      "index": 194,
+      "name": "panelguide_off_off.png"
+    },
+    {
+      "index": 195,
+      "name": "panelguide_off_on.png"
+    },
+    {
+      "index": 196,
+      "name": "panelguide_on_off.png"
+    },
+    {
+      "index": 197,
+      "name": "panelguide_on_on.png"
+    },
+    {
+      "index": 198,
+      "name": "panelguideline.png"
+    },
+    {
+      "index": 199,
+      "name": "copyright.png"
+    },
+    {
+      "index": 200,
+      "name": "cubes_p.png"
+    },
+    {
+      "index": 201,
+      "name": "cubes_y.png"
+    },
+    {
+      "index": 202,
+      "name": "eye_00.png"
+    },
+    {
+      "index": 203,
+      "name": "eye_01.png"
+    },
+    {
+      "index": 204,
+      "name": "miku.png"
+    },
+    {
+      "index": 205,
+      "name": "outerkey_b.png"
+    },
+    {
+      "index": 206,
+      "name": "outerkey_p.png"
+    },
+    {
+      "index": 207,
+      "name": "outerkey_r.png"
+    },
+    {
+      "index": 208,
+      "name": "outerkey_t.png"
+    },
+    {
+      "index": 209,
+      "name": "titlelogo_00.png"
+    },
+    {
+      "index": 210,
+      "name": "titlelogo_01.png"
+    },
+    {
+      "index": 211,
+      "name": "bg_shop.png"
+    },
+    {
+      "index": 212,
+      "name": "credits_off.png"
+    },
+    {
+      "index": 213,
+      "name": "credits_on.png"
+    },
+    {
+      "index": 214,
+      "name": "detailwindow_00.png"
+    },
+    {
+      "index": 215,
+      "name": "detailwindow_01.png"
+    },
+    {
+      "index": 216,
+      "name": "detailwindow_02.png"
+    },
+    {
+      "index": 217,
+      "name": "detailwindow_03.png"
+    },
+    {
+      "index": 218,
+      "name": "detailwindow_04.png"
+    },
+    {
+      "index": 219,
+      "name": "detailwindow_05.png"
+    },
+    {
+      "index": 220,
+      "name": "detailwindow_06.png"
+    },
+    {
+      "index": 221,
+      "name": "detailwindow_07.png"
+    },
+    {
+      "index": 222,
+      "name": "detailwindow_08.png"
+    },
+    {
+      "index": 223,
+      "name": "executionbutton_l_off.png"
+    },
+    {
+      "index": 224,
+      "name": "executionbutton_l_on.png"
+    },
+    {
+      "index": 225,
+      "name": "executionbutton_s_off.png"
+    },
+    {
+      "index": 226,
+      "name": "executionbutton_s_on.png"
+    },
+    {
+      "index": 227,
+      "name": "footer_off.png"
+    },
+    {
+      "index": 228,
+      "name": "footer_on.png"
+    },
+    {
+      "index": 229,
+      "name": "imagewindow.png"
+    },
+    {
+      "index": 230,
+      "name": "manage_off.png"
+    },
+    {
+      "index": 231,
+      "name": "manage_on.png"
+    },
+    {
+      "index": 232,
+      "name": "new.png"
+    },
+    {
+      "index": 233,
+      "name": "plate_off_manage.png"
+    },
+    {
+      "index": 234,
+      "name": "plate_off_shop.png"
+    },
+    {
+      "index": 235,
+      "name": "plate_on.png"
+    },
+    {
+      "index": 236,
+      "name": "purchased_l_off.png"
+    },
+    {
+      "index": 237,
+      "name": "purchased_l_on.png"
+    },
+    {
+      "index": 238,
+      "name": "purchased_s_off.png"
+    },
+    {
+      "index": 239,
+      "name": "purchased_s_on.png"
+    },
+    {
+      "index": 240,
+      "name": "putin.png"
+    },
+    {
+      "index": 241,
+      "name": "remove.png"
+    },
+    {
+      "index": 242,
+      "name": "reinstall.png"
+    },
+    {
+      "index": 243,
+      "name": "ruledline.png"
+    },
+    {
+      "index": 244,
+      "name": "sample.png"
+    },
+    {
+      "index": 245,
+      "name": "searchwindow.png"
+    },
+    {
+      "index": 246,
+      "name": "shop_off.png"
+    },
+    {
+      "index": 247,
+      "name": "shop_on.png"
+    },
+    {
+      "index": 248,
+      "name": "shopback_off.png"
+    },
+    {
+      "index": 249,
+      "name": "shopback_on.png"
+    },
+    {
+      "index": 250,
+      "name": "dlwindow.png"
+    },
+    {
+      "index": 251,
+      "name": "footerplate.png"
+    },
+    {
+      "index": 252,
+      "name": "graphbase.png"
+    },
+    {
+      "index": 253,
+      "name": "graphbottom.png"
+    },
+    {
+      "index": 254,
+      "name": "graphmiddle.png"
+    },
+    {
+      "index": 255,
+      "name": "graphtop.png"
+    },
+    {
+      "index": 256,
+      "name": "headerplate.png"
+    },
+    {
+      "index": 257,
+      "name": "restore_off.png"
+    },
+    {
+      "index": 258,
+      "name": "restore_on.png"
+    },
+    {
+      "index": 259,
+      "name": "rswindow.png"
+    },
+    {
+      "index": 260,
+      "name": "stop_off.png"
+    },
+    {
+      "index": 261,
+      "name": "stop_on.png"
+    },
+    {
+      "index": 262,
+      "name": "bg_title.png"
+    },
+    {
+      "index": 263,
+      "name": "bg_misicselect.png"
+    },
+    {
+      "index": 264,
+      "name": "jacket_loading.png"
+    },
+    {
+      "index": 265,
+      "name": "bg_result.png"
+    },
+    {
+      "index": 266,
+      "name": "bg_options.png"
+    },
+    {
+      "index": 267,
+      "name": "bg_results.png"
+    },
+    {
+      "index": 268,
+      "name": "bg_starting.png"
+    },
+    {
+      "index": 269,
+      "name": "bg_loading.png"
+    },
+    {
+      "index": 270,
+      "name": "linemove.png"
+    },
+    {
+      "index": 271,
+      "name": "loadmiku_00.png"
+    },
+    {
+      "index": 272,
+      "name": "loadmiku_01.png"
+    },
+    {
+      "index": 273,
+      "name": "fireworks_mik_00.png"
+    },
+    {
+      "index": 274,
+      "name": "fireworks_mik_01.png"
+    },
+    {
+      "index": 275,
+      "name": "fireworks_mik_02.png"
+    },
+    {
+      "index": 276,
+      "name": "flickguide_int_off.png"
+    },
+    {
+      "index": 277,
+      "name": "flickguide_int_on.png"
+    },
+    {
+      "index": 278,
+      "name": "inputguide_00.png"
+    },
+    {
+      "index": 279,
+      "name": "inputguide_01.png"
+    },
+    {
+      "index": 280,
+      "name": "inputguide_02.png"
+    },
+    {
+      "index": 281,
+      "name": "inputguide_03.png"
+    },
+    {
+      "index": 282,
+      "name": "inputguide_04.png"
+    },
+    {
+      "index": 283,
+      "name": "inputperfect.png"
+    },
+    {
+      "index": 284,
+      "name": "inputtarget.png"
+    },
+    {
+      "index": 285,
+      "name": "ripple.png"
+    },
+    {
+      "index": 286,
+      "name": "afterimage_00.png"
+    },
+    {
+      "index": 287,
+      "name": "afterimage_01.png"
+    },
+    {
+      "index": 288,
+      "name": "afterimage_02.png"
+    },
+    {
+      "index": 289,
+      "name": "afterimage_03.png"
+    },
+    {
+      "index": 290,
+      "name": "afterimage_04.png"
+    },
+    {
+      "index": 291,
+      "name": "charactercircle.png"
+    },
+    {
+      "index": 292,
+      "name": "charactercircle_int.png"
+    },
+    {
+      "index": 293,
+      "name": "combonumber_00.png"
+    },
+    {
+      "index": 294,
+      "name": "combonumber_01.png"
+    },
+    {
+      "index": 295,
+      "name": "combonumber_02.png"
+    },
+    {
+      "index": 296,
+      "name": "combonumber_03.png"
+    },
+    {
+      "index": 297,
+      "name": "combonumber_04.png"
+    },
+    {
+      "index": 298,
+      "name": "combonumber_05.png"
+    },
+    {
+      "index": 299,
+      "name": "combonumber_06.png"
+    },
+    {
+      "index": 300,
+      "name": "combonumber_07.png"
+    },
+    {
+      "index": 301,
+      "name": "combonumber_08.png"
+    },
+    {
+      "index": 302,
+      "name": "combonumber_09.png"
+    },
+    {
+      "index": 303,
+      "name": "combonumber_10.png"
+    },
+    {
+      "index": 304,
+      "name": "combonumber_11.png"
+    },
+    {
+      "index": 305,
+      "name": "combonumber_12.png"
+    },
+    {
+      "index": 306,
+      "name": "emphasiscircle.png"
+    },
+    {
+      "index": 307,
+      "name": "evaluation_00.png"
+    },
+    {
+      "index": 308,
+      "name": "evaluation_01.png"
+    },
+    {
+      "index": 309,
+      "name": "evaluation_02.png"
+    },
+    {
+      "index": 310,
+      "name": "evaluation_03.png"
+    },
+    {
+      "index": 311,
+      "name": "evaluation_04.png"
+    },
+    {
+      "index": 312,
+      "name": "flickguide_off_00.png"
+    },
+    {
+      "index": 313,
+      "name": "flickguide_off_01.png"
+    },
+    {
+      "index": 314,
+      "name": "flickguide_off_02.png"
+    },
+    {
+      "index": 315,
+      "name": "flickguide_off_03.png"
+    },
+    {
+      "index": 316,
+      "name": "flickguide_on_00.png"
+    },
+    {
+      "index": 317,
+      "name": "flickguide_on_01.png"
+    },
+    {
+      "index": 318,
+      "name": "flickguide_on_02.png"
+    },
+    {
+      "index": 319,
+      "name": "flickguide_on_03.png"
+    },
+    {
+      "index": 320,
+      "name": "guidecursor.png"
+    },
+    {
+      "index": 321,
+      "name": "guidepanel_off_00.png"
+    },
+    {
+      "index": 322,
+      "name": "guidepanel_off_01.png"
+    },
+    {
+      "index": 323,
+      "name": "guidepanel_off_02.png"
+    },
+    {
+      "index": 324,
+      "name": "guidepanel_off_03.png"
+    },
+    {
+      "index": 325,
+      "name": "guidepanel_off_04.png"
+    },
+    {
+      "index": 326,
+      "name": "guidepanel_on_00.png"
+    },
+    {
+      "index": 327,
+      "name": "guidepanel_on_01.png"
+    },
+    {
+      "index": 328,
+      "name": "guidepanel_on_02.png"
+    },
+    {
+      "index": 329,
+      "name": "guidepanel_on_03.png"
+    },
+    {
+      "index": 330,
+      "name": "guidepanel_on_04.png"
+    },
+    {
+      "index": 331,
+      "name": "highscore_00.png"
+    },
+    {
+      "index": 332,
+      "name": "highscore_01.png"
+    },
+    {
+      "index": 333,
+      "name": "highscore_02.png"
+    },
+    {
+      "index": 334,
+      "name": "highscore_03.png"
+    },
+    {
+      "index": 335,
+      "name": "highscore_04.png"
+    },
+    {
+      "index": 336,
+      "name": "highscore_05.png"
+    },
+    {
+      "index": 337,
+      "name": "highscore_06.png"
+    },
+    {
+      "index": 338,
+      "name": "highscore_07.png"
+    },
+    {
+      "index": 339,
+      "name": "highscore_08.png"
+    },
+    {
+      "index": 340,
+      "name": "highscore_09.png"
+    },
+    {
+      "index": 341,
+      "name": "highscore_10.png"
+    },
+    {
+      "index": 342,
+      "name": "highscore_11.png"
+    },
+    {
+      "index": 343,
+      "name": "inputbar.png"
+    },
+    {
+      "index": 344,
+      "name": "inputcursor.png"
+    },
+    {
+      "index": 345,
+      "name": "insidewhirl.png"
+    },
+    {
+      "index": 346,
+      "name": "menugradation.png"
+    },
+    {
+      "index": 347,
+      "name": "microphonemeter_00.png"
+    },
+    {
+      "index": 348,
+      "name": "microphonemeter_01.png"
+    },
+    {
+      "index": 349,
+      "name": "microphonemeter_02.png"
+    },
+    {
+      "index": 350,
+      "name": "outsidecircle.png"
+    },
+    {
+      "index": 351,
+      "name": "outsidewhirl.png"
+    },
+    {
+      "index": 352,
+      "name": "pausebutton.png"
+    },
+    {
+      "index": 353,
+      "name": "quaver_00.png"
+    },
+    {
+      "index": 354,
+      "name": "quaver_01.png"
+    },
+    {
+      "index": 355,
+      "name": "quaver_02.png"
+    },
+    {
+      "index": 356,
+      "name": "quaver_03.png"
+    },
+    {
+      "index": 357,
+      "name": "rail_00.png"
+    },
+    {
+      "index": 358,
+      "name": "rail_01.png"
+    },
+    {
+      "index": 359,
+      "name": "score_00.png"
+    },
+    {
+      "index": 360,
+      "name": "score_01.png"
+    },
+    {
+      "index": 361,
+      "name": "score_02.png"
+    },
+    {
+      "index": 362,
+      "name": "score_03.png"
+    },
+    {
+      "index": 363,
+      "name": "score_04.png"
+    },
+    {
+      "index": 364,
+      "name": "score_05.png"
+    },
+    {
+      "index": 365,
+      "name": "score_06.png"
+    },
+    {
+      "index": 366,
+      "name": "score_07.png"
+    },
+    {
+      "index": 367,
+      "name": "score_08.png"
+    },
+    {
+      "index": 368,
+      "name": "score_09.png"
+    },
+    {
+      "index": 369,
+      "name": "score_10.png"
+    },
+    {
+      "index": 370,
+      "name": "fgcharacter_ori_00.png"
+    },
+    {
+      "index": 371,
+      "name": "fgcharacter_ori_01.png"
+    },
+    {
+      "index": 372,
+      "name": "fgcharacter_ori_02.png"
+    },
+    {
+      "index": 373,
+      "name": "fgcharacter_ori_03.png"
+    },
+    {
+      "index": 374,
+      "name": "fgcharacter_ori_04.png"
+    },
+    {
+      "index": 375,
+      "name": "fgcharacter_ori_05.png"
+    },
+    {
+      "index": 376,
+      "name": "fgcharacter_ori_06.png"
+    },
+    {
+      "index": 377,
+      "name": "fgcharacter_ori_07.png"
+    },
+    {
+      "index": 378,
+      "name": "fgcharacter_ori_08.png"
+    },
+    {
+      "index": 379,
+      "name": "fgcharacter_ori_09.png"
+    },
+    {
+      "index": 380,
+      "name": "fgcharacter_ori_10.png"
+    },
+    {
+      "index": 381,
+      "name": "fgcharacter_ori_11.png"
+    },
+    {
+      "index": 382,
+      "name": "fgcharacter_ori_12.png"
+    },
+    {
+      "index": 383,
+      "name": "fgcharacter_ori_13.png"
+    },
+    {
+      "index": 384,
+      "name": "fgcharacter_ori_14.png"
+    },
+    {
+      "index": 385,
+      "name": "fgcharacter_ori_15.png"
+    },
+    {
+      "index": 386,
+      "name": "fgcharacter_ori_16.png"
+    },
+    {
+      "index": 387,
+      "name": "fgcharacter_ori_17.png"
+    },
+    {
+      "index": 388,
+      "name": "fgcharacter_ori_18.png"
+    },
+    {
+      "index": 389,
+      "name": "fgcharacter_ori_19.png"
+    },
+    {
+      "index": 390,
+      "name": "fgcharacter_ori_20.png"
+    },
+    {
+      "index": 391,
+      "name": "fgcharacter_ori_21.png"
+    },
+    {
+      "index": 392,
+      "name": "fgcharacter_ori_22.png"
+    },
+    {
+      "index": 393,
+      "name": "fgcharacter_ori_23.png"
+    },
+    {
+      "index": 394,
+      "name": "fgcharacter_ori_24.png"
+    },
+    {
+      "index": 395,
+      "name": "fgcharacter_ori_25.png"
+    },
+    {
+      "index": 396,
+      "name": "fgcharacter_ori_26.png"
+    },
+    {
+      "index": 397,
+      "name": "fgcharacter_ori_27.png"
+    },
+    {
+      "index": 398,
+      "name": "fgcharacter_ori_28.png"
+    },
+    {
+      "index": 399,
+      "name": "fgcharacter_ori_29.png"
+    },
+    {
+      "index": 400,
+      "name": "fgcharacter_ori_30.png"
+    },
+    {
+      "index": 401,
+      "name": "fgcharacter_ori_31.png"
+    },
+    {
+      "index": 402,
+      "name": "fgcharacter_ori_32.png"
+    },
+    {
+      "index": 403,
+      "name": "fgcharacter_ori_33.png"
+    },
+    {
+      "index": 404,
+      "name": "fgcharacter_ori_34.png"
+    },
+    {
+      "index": 405,
+      "name": "fgcharacter_ori_35.png"
+    },
+    {
+      "index": 406,
+      "name": "fgcharacter_ori_36.png"
+    },
+    {
+      "index": 407,
+      "name": "fgcharacter_ori_37.png"
+    },
+    {
+      "index": 408,
+      "name": "fgcharacter_ori_38.png"
+    },
+    {
+      "index": 409,
+      "name": "fgcharacter_ori_39.png"
+    },
+    {
+      "index": 410,
+      "name": "fgcharacter_ori_40.png"
+    },
+    {
+      "index": 411,
+      "name": "fgcharacter_ori_41.png"
+    },
+    {
+      "index": 412,
+      "name": "fgcharacter_ori_42.png"
+    },
+    {
+      "index": 413,
+      "name": "fgcharacter_ori_43.png"
+    },
+    {
+      "index": 414,
+      "name": "fgcharacter_ori_44.png"
+    },
+    {
+      "index": 415,
+      "name": "fgcharacter_ori_45.png"
+    },
+    {
+      "index": 416,
+      "name": "flickpanel_ori_off_00.png"
+    },
+    {
+      "index": 417,
+      "name": "flickpanel_ori_off_01.png"
+    },
+    {
+      "index": 418,
+      "name": "flickpanel_ori_off_02.png"
+    },
+    {
+      "index": 419,
+      "name": "flickpanel_ori_off_03.png"
+    },
+    {
+      "index": 420,
+      "name": "flickpanel_ori_off_04.png"
+    },
+    {
+      "index": 421,
+      "name": "flickpanel_ori_off_05.png"
+    },
+    {
+      "index": 422,
+      "name": "flickpanel_ori_off_06.png"
+    },
+    {
+      "index": 423,
+      "name": "flickpanel_ori_off_07.png"
+    },
+    {
+      "index": 424,
+      "name": "flickpanel_ori_off_08.png"
+    },
+    {
+      "index": 425,
+      "name": "flickpanel_ori_off_09.png"
+    },
+    {
+      "index": 426,
+      "name": "flickpanel_ori_on_00.png"
+    },
+    {
+      "index": 427,
+      "name": "flickpanel_ori_on_01.png"
+    },
+    {
+      "index": 428,
+      "name": "flickpanel_ori_on_02.png"
+    },
+    {
+      "index": 429,
+      "name": "flickpanel_ori_on_03.png"
+    },
+    {
+      "index": 430,
+      "name": "flickpanel_ori_on_04.png"
+    },
+    {
+      "index": 431,
+      "name": "flickpanel_ori_on_05.png"
+    },
+    {
+      "index": 432,
+      "name": "flickpanel_ori_on_06.png"
+    },
+    {
+      "index": 433,
+      "name": "flickpanel_ori_on_07.png"
+    },
+    {
+      "index": 434,
+      "name": "flickpanel_ori_on_08.png"
+    },
+    {
+      "index": 435,
+      "name": "flickpanel_ori_on_09.png"
+    },
+    {
+      "index": 436,
+      "name": "art_00_01_00.png"
+    },
+    {
+      "index": 437,
+      "name": "art_00_01_01.png"
+    },
+    {
+      "index": 438,
+      "name": "art_00_01_02.png"
+    },
+    {
+      "index": 439,
+      "name": "logo_00_01_00.png"
+    },
+    {
+      "index": 440,
+      "name": "logo_00_01_01.png"
+    },
+    {
+      "index": 441,
+      "name": "logo_00_01_02.png"
+    },
+    {
+      "index": 442,
+      "name": "screenshot_01_01_00.png"
+    },
+    {
+      "index": 443,
+      "name": "screenshot_01_01_01.png"
+    },
+    {
+      "index": 444,
+      "name": "screenshot_01_01_02.png"
+    },
+    {
+      "index": 445,
+      "name": "thumbnail_01_01_00.png"
+    },
+    {
+      "index": 446,
+      "name": "thumbnail_01_01_01.png"
+    },
+    {
+      "index": 447,
+      "name": "thumbnail_01_01_02.png"
+    },
+    {
+      "index": 448,
+      "name": "bg_credits_ja.png"
+    },
+    {
+      "index": 449,
+      "name": "bg_ending.png"
+    }
+  ]
+}

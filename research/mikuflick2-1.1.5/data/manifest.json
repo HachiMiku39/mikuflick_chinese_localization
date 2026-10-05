@@ -1,0 +1,2600 @@
+{
+  "source_binary_sha256": "869caa22613c5ebfbde6b4c9e1a93362a4f30519231b6dfc9ac3ff31d414b87f",
+  "source_file_count": 195,
+  "source_png_count": 98,
+  "cut_sprites": 450,
+  "atlas_count": 21,
+  "base_commit": "b79928461d60b5695da72dffb31392b0d335cd02",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 24172,
+      "sha256": "e0c42693406968097ab1fe6a68bceaf2aeb0cb93d6685ddedd03e6d8069f263b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/README.md",
+      "bytes": 3620,
+      "sha256": "385ead38bbd6ba23f3e035198003434c388412b7434bdf38aa3b938aae2e32a5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_01.jpg",
+      "bytes": 238985,
+      "sha256": "2608e02f66dc840812e76324057797da0b93dd14fae141c6d9b885db1dfe3cd0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_02.jpg",
+      "bytes": 159147,
+      "sha256": "ad97d6e61039332bc8153184bd017ff03fb84641f6bc0f75a113761267a25b2a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_03.jpg",
+      "bytes": 29433,
+      "sha256": "2f41c0e639428711e0da8fc6a99de9e2e8af1cd890e3f0e29e2bc3b27b5ebdcb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_04.jpg",
+      "bytes": 62561,
+      "sha256": "ea3d98692450ad51b53e2fc244ad72300ef1aece39ebb4f8444550b64bd22fba"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_05.jpg",
+      "bytes": 39360,
+      "sha256": "dce29252a65c1b428641b571ab37e38d947a5c5c2a0abdddecfd684a4d446d08"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_06.jpg",
+      "bytes": 82963,
+      "sha256": "0aa10cda87efc73705b4ff000bd8098cfab6d62c38a39a4d955372c6da64823f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/UI_tex_07.jpg",
+      "bytes": 23045,
+      "sha256": "1ef85d092834a34ce85d547939880e1ac85a58bbe1f69b3925a3e8d218c6e0b4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_01.jpg",
+      "bytes": 5338,
+      "sha256": "f172f9ee42fabdb25c20f939696bc67604d9a300f59c3b833d473698c5fcf1b0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_02.jpg",
+      "bytes": 6723,
+      "sha256": "fc4171667478cdc58a0cb7033b25691bf84b9f945d7e6397960e44cecf42857b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_03.jpg",
+      "bytes": 4560,
+      "sha256": "a764abfd6a82dd98bd7a36034def044e9264604d3484ee6c60312999a164b66e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_04.jpg",
+      "bytes": 4550,
+      "sha256": "3618bf7632e4aefa24875f317eb1e991024ee80ba72290dc84900387909f3c8d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_05.jpg",
+      "bytes": 4566,
+      "sha256": "a6d38c3ceed5726bfc3b5a2e81652da903a3c6a7c9c092c2676a8190a980bd92"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_06.jpg",
+      "bytes": 4954,
+      "sha256": "22d0c390df0df3fcb0c0d97d68281bc6c85715efb542ec13e7ab56ef5c65fe36"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/bg_tex_07.jpg",
+      "bytes": 9763,
+      "sha256": "621d6c1d9034984dae368f7073faadfd4af1b9d47253fa5690301b8622179420"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/credits_ja.jpg",
+      "bytes": 5338,
+      "sha256": "3d3844ef51d2e3b645f2464b912310eb464ad57311e5f80b84b46be4f3c3e91e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/ending.jpg",
+      "bytes": 4983,
+      "sha256": "dc8984fc87c0f02f5ab033731892ab85dfbc86217592039410f8b1a9d5fa7451"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/game_effect_01.jpg",
+      "bytes": 39132,
+      "sha256": "118adf8ffaf5177f3c0bb1c9030dcfc3378f6324e2674003ae53b30aa10374eb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/game_tex_01.jpg",
+      "bytes": 207992,
+      "sha256": "6d45af86982c68f4e6dfd1baff20716ef95ccba7fcb930a6eef65fd01399d22a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/game_tex_02.jpg",
+      "bytes": 216134,
+      "sha256": "ba1397bb5af9f73465ecbd8bb6a3e07f7708d814a56dda8e00259626f3608a42"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/music_00_01.jpg",
+      "bytes": 27393,
+      "sha256": "8a53cd3ca290e9533510fb3e3cd2ee348b117b266e9df9c7f015f9009695b658"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/contact_sheets/thum_01_01.jpg",
+      "bytes": 26282,
+      "sha256": "f6b6dd6962e917146629be2eeb53179779888d4a5852593ce1a56471022c3763"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/atlas_metadata.json",
+      "bytes": 107931,
+      "sha256": "9e50868186dfd9ef145f0e3da4a76002fe213467b00d6a80c6de03553ba9968a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/chart_counts.json",
+      "bytes": 4969,
+      "sha256": "b44ec85334fd0b07817385bed6a4d149dc0e93fe94510a248079db0cdf064f94"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/file_mapping.json",
+      "bytes": 97148,
+      "sha256": "e644503b72bc1419a52a2fcb25bfd2666249af602d1443a7a8ee6609db2e4bbc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/font_mapping.json",
+      "bytes": 9900,
+      "sha256": "6fb476e0b6716eb5f7dd60f5dfe229f740c0a2d43560a71a8c41c974b73c0cb5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/function_index.json",
+      "bytes": 9780,
+      "sha256": "e559bcd6b06e62fd9740121888bee012b009b6a8cab1ac7ec25514ee6ce2db5c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/image_metadata.json",
+      "bytes": 18484,
+      "sha256": "4715567abfe066bc88d8e0fb8a15a133a296ae02a5a46543a55092935efcf4ac"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/kana_input_table.json",
+      "bytes": 35299,
+      "sha256": "c8b340cafc8c756eec03d879ee8de20565cdf063835590f4e35f7d2c19bd57f2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/numeric_tables.json",
+      "bytes": 2207,
+      "sha256": "b00abfa96b49562377532898120bdbf7f9e4ba5365ad645bccb581f81d410dbb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/parser_audit.json",
+      "bytes": 291,
+      "sha256": "bf3f5e614b37c7854aa6dfb00e35a61a275f9dbdf2463502b8e48ed97bb1addf"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/song_mapping.json",
+      "bytes": 6518,
+      "sha256": "42e943479e333e9643a4207afc852531ac569a1f8544861a547e0ef6868fa8a4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/sound_table.json",
+      "bytes": 1993,
+      "sha256": "9ae286007cbda43a12a47c470ee9d3479458809ff21351d8fc80036d8eaec8e2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/sprite_mapping.json",
+      "bytes": 305709,
+      "sha256": "21aae34d8b827b4e4ddfaf17c1bcbf4fe37437d80867a80d0bdf587c32f37357"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/texture_name_tables.json",
+      "bytes": 31589,
+      "sha256": "fb06068c8fb0f4493e94cb45a6e47ecb54496e96889df6e0a195c59655e90e93"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/data/validation.json",
+      "bytes": 1223,
+      "sha256": "cd71c3f40b072afbdb9b3742e2142305477fa2f39d0c457f81d24faaa44b0b55"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/font_samples.png",
+      "bytes": 28699,
+      "sha256": "d36a38fb9e04a84eda43c3ddb84c79420f32e98e83183a29b7c6c48b510732e9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/fonts.md",
+      "bytes": 4908,
+      "sha256": "050bd76b3cd760ff704d8cf575e65a7cb5f15ed9be586116a8d8826a117195ce"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_01.md",
+      "bytes": 28134,
+      "sha256": "effad3c23f0240eddcef076a86c4ab7fd210a5936813f834da7efccbd01553bd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_02.md",
+      "bytes": 19553,
+      "sha256": "9b47089c015c80217363f0359c888d55a1d1430e77699002a0ff650224ee698a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_03.md",
+      "bytes": 4008,
+      "sha256": "de7ec0ace5c19e70a01bd589fde379a6a4358c30ac6333644cb2fa780352ef80"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_04.md",
+      "bytes": 5597,
+      "sha256": "942c0fc39495b16b403f87a7b1279b62c06b55ab6164e361b1d6be9c89397c63"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_05.md",
+      "bytes": 3697,
+      "sha256": "c79e755aebf8c1e4ad14eb7e612a8880b1372ec1e84efebe29868130f86baf13"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_06.md",
+      "bytes": 11050,
+      "sha256": "589c88cdca813b2c66312f3206c016b632b95f9e4d94af833f2dc30a8ac14ed8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/UI_tex_07.md",
+      "bytes": 3647,
+      "sha256": "e015d50b419d7b781d3af763b89526a8ec8e0d65a398917e9533b4033c0345fc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_01.md",
+      "bytes": 876,
+      "sha256": "c9d3a202b4c91db0031be9602f7e2ea9343e345c6dac392a047fe7318d97196b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_02.md",
+      "bytes": 1183,
+      "sha256": "750a12481f60d41213d8b2d24975b82e3b25c3c6fd98ac46bd3c4ddcd1ef4e8d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_03.md",
+      "bytes": 879,
+      "sha256": "e3226d6dad4da59c5c5fe255f2ebf385cfa696d43165f54f205dd57d47ef9a35"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_04.md",
+      "bytes": 882,
+      "sha256": "f24372d1ee0dc3471a812c7be1c350afc4c977db56dfc5654e12d7d898e15423"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_05.md",
+      "bytes": 888,
+      "sha256": "e689ebab1f0e1ade796cea0c1bd36c86dea5ee168162fad73ca702157cbe7963"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_06.md",
+      "bytes": 890,
+      "sha256": "f94658e006f3f893c97d351a217b5e39fb8b382fce2e5fd725fcb27b26e4f584"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/bg_tex_07.md",
+      "bytes": 1656,
+      "sha256": "ced7772fc38a4c1a06cc6a3b7065d40dd603406a8a1422a9251591a09acc80e0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/credits_ja.md",
+      "bytes": 922,
+      "sha256": "a2bb4457a68a4bb0c262bb6f83625c9d70f1ba4b8fc2afe614a77b89402a0680"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/ending.md",
+      "bytes": 947,
+      "sha256": "39e6312d244e425caf5b9f9d9898eaf8f7917d34a20ef940ddbfb3c7ec71242f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/game_effect_01.md",
+      "bytes": 4303,
+      "sha256": "d30f10651290528de3f2caf12df7e6e53bb1697635e919a85a8779c3b6c4c057"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/game_tex_01.md",
+      "bytes": 23003,
+      "sha256": "fb9733690197705c2b0b4ae4fad4792b7fb2a5c9a7ad9a8f18d5c88bfebcc9bd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/game_tex_02.md",
+      "bytes": 21492,
+      "sha256": "da2cf8a6ca42925623693aca9d970de75239b0fb5baef896686d4e3e15c00ad1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/music_00_01.md",
+      "bytes": 2426,
+      "sha256": "e501e4a12340aa25312aa00ae6c15bb9c10835376041ca46c60430d195b0a326"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/galleries/thum_01_01.md",
+      "bytes": 2715,
+      "sha256": "dd5447f5887901329779edea63a4648223cbcfe72262fcfeecafce77145303bb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/mechanics.md",
+      "bytes": 13811,
+      "sha256": "6663b45180c97e9d5e40cf00e599dfbd9b832a96b38d56316aa96d8c2771d78f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/resources.md",
+      "bytes": 33625,
+      "sha256": "7e65f515abf9e9b500660170cef66ad09506723972bad9091124088c804b9751"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprite_gallery.html",
+      "bytes": 126002,
+      "sha256": "d42a9c78456eaa4a7eeb3d4f25ceb6a82ae411e675d04b726118a7146b69ca54"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprite_gallery.md",
+      "bytes": 2581,
+      "sha256": "1921271bafd191d55685cd0cae43df3b10984a5a41b02dfd2550ce8cb6230732"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/arrow_forward.png",
+      "bytes": 9407,
+      "sha256": "e118173492d1a529b6bc1a00db48246c09fc313696283416e37b741577208da7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/arrow_head.png",
+      "bytes": 8094,
+      "sha256": "a57577b2a58521775184101f4d6d59ffaed3e95291c96a0f82e226a24492905a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/back.png",
+      "bytes": 910,
+      "sha256": "9ab4633e55e45472f6abd7a748d59f150c85e9d3286181fe2dd809278371bfd0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/baseline.png",
+      "bytes": 1058,
+      "sha256": "f7b66a43ff33ecf6e024fe392a4e402db2cc5748259a027735c849cf1686f36e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/bgeffect_00.png",
+      "bytes": 429,
+      "sha256": "df2547c6860615803442107253a6dd768b86cc7b01f5fd76778ec39bfb3d84e0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/bgeffect_01.png",
+      "bytes": 328,
+      "sha256": "eaf0d2db5789a1dfc23e087a8645f8e0ffc53752496dc24984d7b8da701bd8fe"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/bgeffect_02.png",
+      "bytes": 225,
+      "sha256": "c6af7537108c4f3f1ecbaa4d8e9f6ef09b2433bab3937a989ee46001903f622a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/bgeffect_03.png",
+      "bytes": 2596,
+      "sha256": "b26f0c90c0fa10a524028bbf34f1373509b1bb97424bc5369b302f1e84da9b00"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/bgeffect_04.png",
+      "bytes": 955,
+      "sha256": "a6629731434cc15d9d7670ac1b1bf305f268dfbca691db2d7a586bc30579ddd0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearrank_a.png",
+      "bytes": 1175,
+      "sha256": "ad21be00587989191bf8bf52322d0438d2c4a90f1704403936d4bc7539814034"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearrank_b.png",
+      "bytes": 991,
+      "sha256": "0f2d3046dda644738d3cc279e2ff6c60df1cbf3bb773ddfbd550a689f4389917"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearrank_c.png",
+      "bytes": 962,
+      "sha256": "f2fdace2558334baa216198fae66e69c22bdbbba7231d0220851e473c255078e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearrank_s.png",
+      "bytes": 1576,
+      "sha256": "f4a78cdb92c3ab1cc04096c794a549531f7618ddb2ff70b389ba090d1b37f248"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearrank_star.png",
+      "bytes": 1479,
+      "sha256": "11f5fdd0afa7fac6baae9877a20b0fc953e6de474a429657f747532d7119012b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearstar_l.png",
+      "bytes": 1484,
+      "sha256": "a1ff0c05e2407d308506e1cdc120f2d416f356cbd07149bb6babb0c641342480"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/clearstar_s.png",
+      "bytes": 1004,
+      "sha256": "305d4052fcc385cf053798c5b4721a7f8f5ab67daaa6d105aea4c5d88d038052"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/close_off.png",
+      "bytes": 5468,
+      "sha256": "70edc957312ad1f0d9e52739c7d15eab75848cef63c4a9fd4a956b3f23772c6f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/close_on.png",
+      "bytes": 5515,
+      "sha256": "5440f7242cfbaa0f186c42dac4e8e9a72436ef02cf323c0f50539ecd7f33012e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/crownicon_off.png",
+      "bytes": 5678,
+      "sha256": "8858d1566c890dc1f6dcb54d4e840d5974fa52e9950aad79bd327ea7b0d1baf4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/crownicon_on.png",
+      "bytes": 5711,
+      "sha256": "8e0b0f41fc37757c73b0f2e0c6fd6072dd05dc9f15543c5bcc333075a10de1ed"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_off_00.png",
+      "bytes": 4534,
+      "sha256": "26d2988aac58b00b5633ff81ab0aeb5d2aff0754e3b9568a138dd2538eb5ba69"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_off_01.png",
+      "bytes": 9946,
+      "sha256": "d4c807f5e9f5ac1c9959605beaf58f4d2dc4d9b002c869d757384245e7698ad5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_off_02.png",
+      "bytes": 4353,
+      "sha256": "ba8b3f8679a9e8d377acad418fdb957c244ba2dee4c86ab389075ecb535d87f2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_off_03.png",
+      "bytes": 6488,
+      "sha256": "2e5cfd4a616ed011a1a7f90a8bc6f89e22ec79630464882e80f0c21f8be0c390"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_on_00.png",
+      "bytes": 6149,
+      "sha256": "c009dafdbcecf48252068b7228012a2ce698c9d464ee5a847a04c61b9f2e6561"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_on_01.png",
+      "bytes": 8647,
+      "sha256": "d6b7e21352a566201f230fcd99067618bd5d543d5c79c8203962f5bace57a758"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_on_02.png",
+      "bytes": 6145,
+      "sha256": "c917178307413046cc1243ff13d0cbf53cb20a5046d3859efb059bab561182e0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_on_03.png",
+      "bytes": 8368,
+      "sha256": "dfacc2c4c59d8b31f7f08906e96c532e9c7fd164f04033a8dfdc06bb2c1add47"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficulty_on_04.png",
+      "bytes": 12909,
+      "sha256": "4551745ad2756046fcad77306e0eba6c4e49f48ec713d959eb5743f182f42a09"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficultycursor.png",
+      "bytes": 1395,
+      "sha256": "db1f1d9ea4dbcbf46285391313851adddca6cabda750fc9ad818a6295582d9bc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficultycursor_break.png",
+      "bytes": 1499,
+      "sha256": "32227bf8ff05b50a8aaaa4c3a02803bd3de0e527281a274419efa89f4306372f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficultyemblem_00.png",
+      "bytes": 1706,
+      "sha256": "d24adf729f6e7301bd2fe92b5097072520ce4906a4a6417e4b64e847e96042b2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficultyemblem_01.png",
+      "bytes": 1790,
+      "sha256": "0feb8af7bca4b0f30e8066bd436a97bedfe7eeda14e762f6b595196725277083"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficultystar_00.png",
+      "bytes": 2199,
+      "sha256": "80aaadf81f6fae76203c4bac8182ed33bdce1a6c4d42cdb06ad7bba6a1acd36e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/difficultystar_01.png",
+      "bytes": 2108,
+      "sha256": "b0e14dea301127324f171524586d86b8da125daf9d2e5b29efbd5bb6dd473057"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/ending.png",
+      "bytes": 1186,
+      "sha256": "5f9fcd774b7e55b8d36975c82e7424b40323e20aaf060e5e6ecb85a3aa698219"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/failedsound_off_b.png",
+      "bytes": 2825,
+      "sha256": "3b24a96d50f62b0a178e3009601f043cef5307f512fac82f2e0a8130202386f6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/failedsound_off_w.png",
+      "bytes": 2250,
+      "sha256": "9069cb222fb8b7a5eacaa3e82dac3736ebbc36d3f5ba74d457cc861f72aa86fb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/failedsound_on_b.png",
+      "bytes": 3308,
+      "sha256": "0096a9f54a63cfb8704e01d2b09e48b17ed99d0beb998f7d41e8181849704c30"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/failedsound_on_w.png",
+      "bytes": 2891,
+      "sha256": "9e6321606285da0c12c02368fc1a353beb77ef5fe98116c965759dffd2f680b7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/infoarrow_00.png",
+      "bytes": 2038,
+      "sha256": "fb136c98259498188304a158023c05a7d7524268e66aaef86c94f8ca93cb0df4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/infoarrow_01.png",
+      "bytes": 2111,
+      "sha256": "5c536e7636b82d0d4fd3322aca55a6ca489e0f8887b832663fd952d24e4ebfe3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/infoicon_off.png",
+      "bytes": 5980,
+      "sha256": "19e3d653ec64bde9f94f8e6bc11dec4dfe3b6b97491fcc72edc03a28d1908495"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/infoicon_on.png",
+      "bytes": 6060,
+      "sha256": "9da6f17d2426b0bc97a0c25261d38ee8668eea0992c26be510a2caae6e00557a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/insidewindow.png",
+      "bytes": 2737,
+      "sha256": "99f5c0107479be48e6c7d79fb1547a3ff08d9bd87594e77b70831f5ed0868efd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/karaoke_off.png",
+      "bytes": 7970,
+      "sha256": "4ade9d43fd45c1c0bc94245bcd6a1fed0c0a2d903af4f7a7815ec2b696a96e25"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/karaoke_on.png",
+      "bytes": 8241,
+      "sha256": "969fbb4a141ee9b5019d5e848225b69fd3000dee0e1e2e642d24388f58d1ccd0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/locked.png",
+      "bytes": 2215,
+      "sha256": "5a3f69c8e3cc604dbbd166f7d4e8788561558ed94e1e7f11e983dbd72c771f77"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/loop_off.png",
+      "bytes": 5882,
+      "sha256": "f866ad8231ab2c60f4f62381c05c76ee9c18fb8c159b64eeaa55debc8ce44952"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/loop_on.png",
+      "bytes": 6312,
+      "sha256": "0fa964f21604203057bed4e3f0b9e573b12c853c4c770b494d9099caf508a058"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/lyrics_off.png",
+      "bytes": 6201,
+      "sha256": "6fca742433b9daef49dd33c42b648d71d97112700a7cbbd9777ac9363b3046cb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/lyrics_on.png",
+      "bytes": 6807,
+      "sha256": "dd2ce9450f13cd0f94f5ddcd7d5f93cc2b4d94664167c40d52b47fcec78d5f81"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_l_base.png",
+      "bytes": 3196,
+      "sha256": "734dc95e1e2f416372a12669fe65b70901c5588320e8b782549abfbda3b609e0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_l_off.png",
+      "bytes": 691,
+      "sha256": "7f8a33673cff2c4cd5cc56df4ff28108d42d8e013f8f316b3dcec0a365764d21"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_l_on.png",
+      "bytes": 849,
+      "sha256": "c30fca41938800ce6bddcffe313975d72cdc810419ead9cf3c23c3c54d877f2b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_m_base.png",
+      "bytes": 3793,
+      "sha256": "dc9829d6b3e3f2c894e918508c8fea05fbd953ac02a0bb4293d81c40805a5dd2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_m_off.png",
+      "bytes": 673,
+      "sha256": "cc9cba738b312c9376da9f7cda94ce4ea88129e852376ddfb871f0da49894ffd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_m_on.png",
+      "bytes": 834,
+      "sha256": "080f8ac09d8832b698e74ed00d4574c5c3e6ccf51773530a8a0dc3eaf2bcd18a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_s_base.png",
+      "bytes": 3024,
+      "sha256": "45b05c84ac31f31d9998f25dcf341d6e8dc5612c3546248cfcdb4849ea1688f1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_s_off.png",
+      "bytes": 564,
+      "sha256": "9e7760cc73c67081cc2e06a0c15de24c19480930a28940fde7332cdb57582b58"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/menubutton_s_on.png",
+      "bytes": 741,
+      "sha256": "50815467368b5a3c95fb2cf16c900934fa7a09f8127baaa2f718e9e36a1c9a59"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/modechange_off.png",
+      "bytes": 11398,
+      "sha256": "8996eec216fd862f142718e440e06577d31872b78e25da4ed1d77d85c7575676"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/modechange_on.png",
+      "bytes": 13207,
+      "sha256": "cece4b04164dc8e58fec0721f5add0ee5d4f845ffbee23a6344426b78bd28ae5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/new.png",
+      "bytes": 3381,
+      "sha256": "5d0fa1a1a5a6d50ccc6b6b2e1c20dc43c264891d75c1889bbe4863dc7607f42b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_00.png",
+      "bytes": 3614,
+      "sha256": "dff13c536427939e84dcf88326cfdf5e1f14b7d6b712cbda57dbf1eab27b4583"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_01.png",
+      "bytes": 3988,
+      "sha256": "52386674655eec73fa8f8bfecc6a844290fa5466ea41ee78b0f781ec7f1d7483"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_02.png",
+      "bytes": 3796,
+      "sha256": "7901d512dc381cac98fcbd63a292deda888b1276193dc99ceb76adb836a69098"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_03.png",
+      "bytes": 4025,
+      "sha256": "a6021a045e666cf1281a47dcecab9b9fe3e916762b23abd5797b3661974970c7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_04.png",
+      "bytes": 817,
+      "sha256": "b3e3cd0d26b780a10a2496926226f47f3d5688640856f51b4b1a85d7395efc1a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_05.png",
+      "bytes": 967,
+      "sha256": "95e8edcad47bed4ae4c660d3f4b2f1a794c1b185ad5fc898452c29322c839085"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_06.png",
+      "bytes": 767,
+      "sha256": "c62a3a707408532131322199da41a961d5b0366b16cfcd439040193d7df9d848"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_07.png",
+      "bytes": 806,
+      "sha256": "78f2ddd2d0a5f0ad9b059a1d2d7aeceb9cebb2d9ee5e855ac93fe3e2352d02a4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/outsidewindow_08.png",
+      "bytes": 78,
+      "sha256": "47435d51893f522b950edb8bff68f5b338e98d57cce0abd048b8fd0f5cf0ec7e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/parenthesis_00.png",
+      "bytes": 350,
+      "sha256": "d529fd164d49d39e7055236d632e2bcb614c661556fbf21a5800701cd090558a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/parenthesis_01.png",
+      "bytes": 344,
+      "sha256": "ee7c4732b1b2d80b1ca2bba1b7e4695840bde7083dbf0111416c60aa0737560c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/play_off.png",
+      "bytes": 4124,
+      "sha256": "08d6006df0df4232339d1aa063306a8891d31be200e0546c0d66f159762033c1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/play_on.png",
+      "bytes": 4638,
+      "sha256": "435209acb6b54ad235352fd8527e81017c19553cd51673466c7a73adce5bd44a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/playlist_off.png",
+      "bytes": 7805,
+      "sha256": "af32fc786c6bb179afc5074b820a067098ef8f14acd6c4d6f60e835e623d3885"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/playlist_on.png",
+      "bytes": 7995,
+      "sha256": "51423a85026793caf7eadeb1f837832cddd4944c8667ef9e837e6330e732a660"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/replay_off.png",
+      "bytes": 5611,
+      "sha256": "dcaf2d643871970b5d1cd32d5ecfa97defe5313b88fe2a2a1ba68a5648c81407"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/replay_on.png",
+      "bytes": 5794,
+      "sha256": "9a6f0e0bf8f8f44ed356d20c7f53eb6cf21ab7bdbbfecb183620d87f70ac664f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/ruledline.png",
+      "bytes": 279,
+      "sha256": "6d803ebc1163323eaa36c2a2839a6655e13f62f37571199e455600204df01a27"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/sgnbutton_base.png",
+      "bytes": 8676,
+      "sha256": "02fb0ca54fbc98aa2dd79887deb0081b92438bb5ecbd8a149a29db4097e4b1c7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/sgnbutton_off.png",
+      "bytes": 593,
+      "sha256": "64801dd148d5885087892009712922c29354cf55aab0895caeb59071c9bb32a2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/sgnbutton_on.png",
+      "bytes": 719,
+      "sha256": "c9fb433599e7cf6e1360653045013134a211ea8512409c427664601ba1128ead"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/shop.png",
+      "bytes": 1368,
+      "sha256": "1c88b85ed00609c6d9986747aa0a8e6997c6c1c7c776088066ca24c9291c7109"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/shuffle_off.png",
+      "bytes": 6573,
+      "sha256": "864d660c0b18c2f632d6686fdad4c7f891330478ee190418964a716b7a429a91"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/shuffle_on.png",
+      "bytes": 7122,
+      "sha256": "58254cba73306f235197a3ae1741bb027e164ccbcbf23e9ae3c0e08c80816921"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_b_00.png",
+      "bytes": 3102,
+      "sha256": "23440d81d11727c31e8c641d801448dbccc1b297688366d61776deb4ab629848"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_b_01.png",
+      "bytes": 2482,
+      "sha256": "35bd59ec9f90629f54f01c51f3794a31475d719b3bbf82ab97784b4a45480552"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_b_02.png",
+      "bytes": 3130,
+      "sha256": "c775d9f4cb5fe05e0ece6ee844d9ecbf57a8e2272271ccacdf645c166ee32679"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_p_00.png",
+      "bytes": 2940,
+      "sha256": "7513d7425a5935ba5a5217a9808918cff44a5f216e7d0b7ea50ed4b949243cfe"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_p_01.png",
+      "bytes": 2312,
+      "sha256": "a9968442b879ce55818989dc3a65ab9661b22611da8de9a70b6668e370929850"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_p_02.png",
+      "bytes": 2934,
+      "sha256": "f10372267c989bb09f116c655f66683aee771f5bbb024bbd66f9b0a1bdd65e58"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_r_00.png",
+      "bytes": 3271,
+      "sha256": "bfb2906abf5ad6b8ff46b149a840293cf632792cbe8bbe4c71a337e2031eaa7b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_r_01.png",
+      "bytes": 2629,
+      "sha256": "0ad8537eb422aa19b96819f228e6ce9ae933ba32fadfc166eef039c453070315"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_r_02.png",
+      "bytes": 3335,
+      "sha256": "ec3dba42cc0fe2f7b14a99b4184e938aa64cdb5c9680638833c6e4b0c7d01b2a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_y_00.png",
+      "bytes": 3030,
+      "sha256": "d33f5f9610fa028e54473e84cc7ff9e84da92ede229ad6be13102ea8ebec284a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_y_01.png",
+      "bytes": 2454,
+      "sha256": "500febc140ec2eac8c934a5b94fb5b2f30a6071bc1ed702a66ef823c45e3370b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/titleeffect_y_02.png",
+      "bytes": 3080,
+      "sha256": "4039cb410b27475296fc8f93b442a702f7c7ae4b9c823244f97d602399ab3fd7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_01/touchstart.png",
+      "bytes": 9915,
+      "sha256": "530122e5b2553749b50e614a280076b04df32f2de7b940b761a5bfcdf3880641"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_00.png",
+      "bytes": 926,
+      "sha256": "ea61f2daf8068ddffd7bcc178ef6e494e1cca677b3e1d3e57086151a982d9c02"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_01.png",
+      "bytes": 2335,
+      "sha256": "454e07ebc96227d54fa290a9fcb9683e07d9d95452bf829d78cd3e6853aa3166"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_02.png",
+      "bytes": 2570,
+      "sha256": "1735f2c442ac077437afaa6dfc103fb4d04740070ff5f524943670864d64648c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_03.png",
+      "bytes": 1607,
+      "sha256": "d73ca1d3ba2f8ada747190129ac94dce19610c2c753a340a4fd25e94346d2942"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_04.png",
+      "bytes": 2461,
+      "sha256": "bf4770585974e3df19927a12f4bf11e81282cedbf7b7e3552ba909a529ea2187"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_05.png",
+      "bytes": 2452,
+      "sha256": "cedc5a6939d37f6c9d18a4f6f9acdd1f2398eb69620f6dc5f463c4157b2145e3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_06.png",
+      "bytes": 1820,
+      "sha256": "1366442dba5ed3bb81bfdab19c3cc2c9592974a3f72ad81c323312ad58a5cae8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_07.png",
+      "bytes": 2482,
+      "sha256": "e6886a0965b272b108140dcc46a9b4a4cd6ff6b050552fc7d0d959fa1593646f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardnumber_08.png",
+      "bytes": 2416,
+      "sha256": "ad434b6fb2848b5c3fc91eb76da62a84e84dd6270c86c45257d737f5f5132278"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/cardslot.png",
+      "bytes": 1044,
+      "sha256": "ebd73603793b34382c5567076dd8b344f54f0b4b8aa4e8dabe23121694948cb3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrank_00.png",
+      "bytes": 11278,
+      "sha256": "8d550dcc28d798845fd9ca59fcd2900dbb99540b61cf01b970f82f452f2c2515"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrank_01.png",
+      "bytes": 12032,
+      "sha256": "8c7c245e78e2394a3f1fab8de842d8678a78c60571476acc8baa8b0ad39f0a2a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrank_02.png",
+      "bytes": 10167,
+      "sha256": "a9afc4c4996d48c5653e3cc16073d98dad93746c68a8bd5fba39f42067ff1069"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrank_03.png",
+      "bytes": 6797,
+      "sha256": "a78c1bd18189a93507a14d3368d6c3f9317109ff8083cbbdfb783644e52250ae"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrank_04.png",
+      "bytes": 4441,
+      "sha256": "196c5afc0d2599f07611865c8cc786b3efa324d953630781a8891b4cd5f3214d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrank_05.png",
+      "bytes": 3334,
+      "sha256": "a822e7a4b7df4d4000dc3f1f4422ff8f011ed0c6201d71ea989ca8a5ad4c7cf6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/clearrankstamp.png",
+      "bytes": 11686,
+      "sha256": "5741fc7f384547decfb65fef6d16da0cda03bf4fa28bbcb14ca62acf721d1b9d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/collection_off.png",
+      "bytes": 5434,
+      "sha256": "4ae662322b8a2cfc5a7aec07463648a13c3fc5d23d5175d3b87c7e40cd2f2484"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/collection_on.png",
+      "bytes": 5567,
+      "sha256": "6123381b08bf4115cc3a08e730ab1e18e1f40a8ebd7b4b5bcff08ba15c479ed0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/difficultyarrow_00.png",
+      "bytes": 1106,
+      "sha256": "1b09746746c1427866fe8ea6273c676a0f7585529af1fecd264dca02e76259f0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/difficultyarrow_01.png",
+      "bytes": 1047,
+      "sha256": "495c5f3addb3ddd16550605f3f0d5e6c216e250edcfbda7a7a5ac4d970e13c5d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/drstar_off.png",
+      "bytes": 569,
+      "sha256": "eb81dcc843638211f57c5bbe260515c1581ee36ee50c0e22b5b129a497d2efe7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/drstar_on.png",
+      "bytes": 464,
+      "sha256": "e1b2e7c83d0ff66dbf870be7d27f965289a47dc545efba4945c2343ce426715a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/failed.png",
+      "bytes": 17244,
+      "sha256": "6f8c3c40bae7ad2598f37a680fc443931fb2493e3763106018201e3d48824ca9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/flickresult_off.png",
+      "bytes": 5639,
+      "sha256": "0aba40a5dde4f44550d08b4a9094087b481924b383ed926a8e3c68a26d74c686"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/flickresult_on.png",
+      "bytes": 5785,
+      "sha256": "28c4a9816ceb204940d3cf031e3751cd557fbe3faaedba26b7a89e73d44d940f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/loading.png",
+      "bytes": 3374,
+      "sha256": "6c2aba0ae1f881a7ab20ce0cc528ffae7dfe608fe1d6e64e4289712eb61fe8a9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/newlevel.png",
+      "bytes": 12763,
+      "sha256": "60b2dcd65a64ceca2310419a5cbfc7d705bdcc95d324b01bd5b2c929a074d772"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/newmode.png",
+      "bytes": 13480,
+      "sha256": "f4feed35a1ec636b3bf16806a729a76ffa36d3433fc683fde64e19b68ad60743"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/newrecord.png",
+      "bytes": 24036,
+      "sha256": "49d4624f5ebcd7b233aecbb6d56972d83fa252644b076a17dad5a4adee49c057"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/newsong.png",
+      "bytes": 14370,
+      "sha256": "d2b148c733069b5929b1f34b572b841ec18f299e50aa89d0cbdebde187afb98d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/perfect.png",
+      "bytes": 15862,
+      "sha256": "af02d118cf4619706ec0a17c69f44b78b148ec0f24f060d4a854e3ec46200f15"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultarrow_00.png",
+      "bytes": 1908,
+      "sha256": "cdabe172fd6fa1cea0316812a5f38538d69d4f8d4735ea27078a31a562b0b97b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultarrow_01.png",
+      "bytes": 2002,
+      "sha256": "637994933a7cded8a0367598ff1e0c833023480d213b1734aba9b4330a2c5091"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultdifficulty_00.png",
+      "bytes": 1786,
+      "sha256": "7f30a6879aca3f7d7dc514cfad492f96266d6830e713f0bd3f524dd69207fd50"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultdifficulty_01.png",
+      "bytes": 1756,
+      "sha256": "a9c5522caf347a468ca34d04bc6c4220b88e432efcb28485b691037db3a197c7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultdifficulty_02.png",
+      "bytes": 1551,
+      "sha256": "76eb7fb0d9b9c616fd5af56ddf5b4c59177f760468e190212d0292fd732de99e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultdifficulty_03.png",
+      "bytes": 1861,
+      "sha256": "a49ee2f450785b577aaee5125954ae171cccb51e5fd7b49ee97235bf4c5325a5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultdifficulty_04.png",
+      "bytes": 1545,
+      "sha256": "e9607263fc443fd0f50fe4f80852479a1b5d8be91cb5cc837c5575e6fc3cf4a3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultdifficulty_05.png",
+      "bytes": 851,
+      "sha256": "d9bcb1a0d93c178296f6a33eea5d3b4d33406c86ab4f9e7b537b0f03154e46c3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultpanel_00.png",
+      "bytes": 1245,
+      "sha256": "e598a8dcb8d4da589c6740e3011a62440a5b5b6b08ec5b071425c4d003221f10"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultpanel_01.png",
+      "bytes": 1242,
+      "sha256": "c4ed04c8d73cb7301fce6c67921a3f316c891ab591d05ca7ab5bbbcbff2265dd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultpanel_02.png",
+      "bytes": 1233,
+      "sha256": "70a6df12dbd5583b9a78229888a353f056ec03ccb99407351f7e6aa20b857464"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultpanel_03.png",
+      "bytes": 1230,
+      "sha256": "b52c9a4af0bbc72e8dcb6d73944af9f9569ec38628251ec67c332f5ed23fa774"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultpanel_04.png",
+      "bytes": 1279,
+      "sha256": "3de92d99f638389ca5ea3efd186c1af8badb338765accfda27f9b95866742ec0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultstat_00.png",
+      "bytes": 686,
+      "sha256": "be0660efd1bb719ba0524324693b36e9c3ffa8fed9c8340393107d97fcccee01"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultstat_01.png",
+      "bytes": 1278,
+      "sha256": "969f6570941ae2e750345ed171b1b7855d9029b8129b2510e8b9b833444d0939"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultstat_02.png",
+      "bytes": 1324,
+      "sha256": "56718d9c064052f9da84e97b6efc7e86fa228e6f8a8b82dfea29b5573c8de240"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_00.png",
+      "bytes": 3475,
+      "sha256": "96813e796cd8907e4eb47702df162388b7ad318c12b3cb974789b8a2fa146423"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_01.png",
+      "bytes": 3850,
+      "sha256": "a2bbc76d764a23fbfa7bc6e8a91e124acea76bd05bcd5660a21dd0342100e69e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_02.png",
+      "bytes": 3949,
+      "sha256": "b6783c50395778dedffca4a95947b3cde3440d2e3af98fd63ebd7cc51c8ed0ac"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_03.png",
+      "bytes": 3953,
+      "sha256": "5ae94bdad34aafab753856e0741eceb0805d15eebd2125d5844a38723c536c21"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_04.png",
+      "bytes": 872,
+      "sha256": "7abde03d259133144385f33dfd66f226b7ad869cae838d79a5dadb9453e54f18"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_05.png",
+      "bytes": 881,
+      "sha256": "ba1c81a9b2cc5e468fc7bf2aa9f5112bbf9bc5d8b78c2b265288bf51f936dee1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_06.png",
+      "bytes": 817,
+      "sha256": "79806a1953a7a54827ff09d1a3d21e4f37fd3472e69d5ce9f52af11968d38f13"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_07.png",
+      "bytes": 929,
+      "sha256": "78dde4a2a1a376f3499963bb5ce610cf8e8fb79ef5fce02f61adb0e2f0427a6d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/resultwindow_08.png",
+      "bytes": 78,
+      "sha256": "948940f7726d05ded00f83c1a1bb3ab0a2ffec0c50d6ed8d1fb38de3688256b0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/savegame_off.png",
+      "bytes": 1746,
+      "sha256": "25a754922c70e66df560c118858ab02f50e6c1e89bab0663f7376a5a3275b74b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/savegame_on.png",
+      "bytes": 4260,
+      "sha256": "d2155ffe531bb7d929209f90c5000dfd06e9449973eadb29e108caa71bf7d3df"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/scoreresult_off.png",
+      "bytes": 5320,
+      "sha256": "635cb66cc9a0589d634a0a3b8cb224500fd4bf69abe2beb1f0b7a8ef6b44c0db"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/scoreresult_on.png",
+      "bytes": 5346,
+      "sha256": "cd49779395a1dbd2aaa10f971d5cd143bbbb740aa229e39ccd3e5d9bc032cedc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/stloading.png",
+      "bytes": 5404,
+      "sha256": "5f26ea22e7b128ab95d67018b19a2d0fd18b0892e8c453c2c82548a13b9b2426"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/textbar_00.png",
+      "bytes": 113,
+      "sha256": "84bbcff41b9612c69eef13a2c0155a88f13be5928948c9289462b0297e8cdd88"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/textbar_01.png",
+      "bytes": 114,
+      "sha256": "1fb6f3f9f31a3bfbe05085b7a9c7bc399ee323e54f83fa6634e826cd7787f69c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/titlebar.png",
+      "bytes": 1089,
+      "sha256": "94987243de715086ef6b2d7ad517c3ec4951a728749f0c6ac4b17abf33c99dc8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/twitter.png",
+      "bytes": 1574,
+      "sha256": "d9b0395af1d66f9ffa7a3d86f63ee81ad0ac84652ca5c8721fc4ade16d4a42a1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/unlockwindow.png",
+      "bytes": 37898,
+      "sha256": "a82759f54cf5e29d20764bda6f4bd75c082401dfbd9a501f6f5e7aed53aad078"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/viewreplay_off.png",
+      "bytes": 1752,
+      "sha256": "7b5399c803f05874aa1737ff6ab6896a48b1ae393f17b7de88d7ac9204050139"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_02/viewreplay_on.png",
+      "bytes": 4382,
+      "sha256": "892d8ff01092137c122941619cc89142ff7ef486f21867ab7702752b22d4301c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/arrow_00.png",
+      "bytes": 790,
+      "sha256": "3010d92087781ad12350a51693bb1a8cb70823fa15e63536b03c70c50b0ee5ff"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/arrow_01.png",
+      "bytes": 784,
+      "sha256": "65cfad55cbe3a0a25000840b1d1c08099b6ae248a3a8370df7e591acb7a74eea"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/helpline.png",
+      "bytes": 175,
+      "sha256": "2acd757b3696ae256827d2015982fe472f66e13c02f71777f779560333f39ba8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/helpmeter_off.png",
+      "bytes": 317,
+      "sha256": "e7e452de54b49d5eab7859744551d3202f756d822279395cb109391f67fab1c8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/helpmeter_on.png",
+      "bytes": 262,
+      "sha256": "771c5f0462b7c94ba4e87a5e8f930a3d79fb3b1e91166b23893375c3bed2b5ca"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/lefthand_off.png",
+      "bytes": 29788,
+      "sha256": "40637db57119528f0f8f0f59f71e9b2c652e6bd8c70985f7a634fbe09f74c5f0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/lefthand_on.png",
+      "bytes": 38345,
+      "sha256": "2e07fa39eb10afcfbc79b1561f921ce38fae7284b2ca78fe1145ce1da98bd5c8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/righthand_off.png",
+      "bytes": 30528,
+      "sha256": "d8e83442a82cbc547f9689736fd7e1d9846e1f22e97eb1134c64d32cdb692378"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/righthand_on.png",
+      "bytes": 38888,
+      "sha256": "05f4cf4269aee4e8243b56e9a4a11aa08bd8953b47a1aaed737644ce3869a2e5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/speaker.png",
+      "bytes": 26775,
+      "sha256": "c7bf08dd3ab9f4d5d3b9a03f62292daa5a4fa5dc4491e83adb27e8ddf5f0c613"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/volumemeter_off.png",
+      "bytes": 235,
+      "sha256": "968dcc8c1f7ce65964f9aff7bed0ddcd1738b661d464d36d5d828084f78c5c6d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/volumemeter_on.png",
+      "bytes": 359,
+      "sha256": "e8e130f9746aee9081fbd6fdda15119826585baee27e1bd0ac09759b1d28972c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_03/volumewindow.png",
+      "bytes": 25820,
+      "sha256": "41b72f52b9b00e1ded30f5a99a6e261c9aeeb5f7f5495b057d9fdca20c16b4e9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/flowerline.png",
+      "bytes": 4625,
+      "sha256": "59fb21f8cdbd0fba48f5c15b7b7498d2911243ae46ec2ab7aeecf057c259e330"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/flowet_off_off.png",
+      "bytes": 2469,
+      "sha256": "493ffafe5d29e11083ac4d41e87913efcf4898ed4b0cb7b6d667e4911ff8a541"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/flowet_off_on.png",
+      "bytes": 5336,
+      "sha256": "b28e0d1c7f6754f7f19269cbccc0b7005342bd311c99287fb42c8774f88cdfd4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/flowet_on_off.png",
+      "bytes": 8695,
+      "sha256": "4c7bf545ed401e12a23ef3c438f8228ab023a08ff5f713ca8a945a4fc6c59f9f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/flowet_on_on.png",
+      "bytes": 15464,
+      "sha256": "992b8f22b9697dc9092469a155a9af4bba19ce4d05950efb60051222454a6304"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/keyboard_fro_off.png",
+      "bytes": 54175,
+      "sha256": "7a50ead8f897bec5b5e724a4f5396232f9471ce87dc065e4d48342425e52cc20"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/keyboard_fro_on.png",
+      "bytes": 80949,
+      "sha256": "04b4c8e91826f38e7853c83ff433f04a07dfdc4e9e6586b27ba9dd2be9ed7735"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/keyboard_ori_off.png",
+      "bytes": 50419,
+      "sha256": "ce18df2066f0a8ed6f303c6634cd1ddd444287f275ee465c928f34b467bfe556"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/keyboard_ori_on.png",
+      "bytes": 76112,
+      "sha256": "9cdc8f2414a5fe33a198e0b91657084c01450fcb2e5f2ae271dde8a71044b221"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/keyboard_rah_off.png",
+      "bytes": 54735,
+      "sha256": "44b748364159d2ef917e71074a1c988a3792bf5bb798fb9530628e8e9be6b520"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/keyboard_rah_on.png",
+      "bytes": 82098,
+      "sha256": "9f8232cb7a727dd7254bdf75505bfab19edc51216d2c62bf9f0550575e9f8351"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/panelguide_off_off.png",
+      "bytes": 4778,
+      "sha256": "ae8bb0ee110f6c75775e3fbd102e69f5fbcb47c8443c86650c11d9f28f49c2a9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/panelguide_off_on.png",
+      "bytes": 5404,
+      "sha256": "d581c9453e60ad7c97181a111ec335707b8c1f496da89b70c24fe7beada956f3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/panelguide_on_off.png",
+      "bytes": 11828,
+      "sha256": "330f07b653b345b96ffaf0cc972e41bdd21a4fa7e289d1a9a9cce7eb15d52cb8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/panelguide_on_on.png",
+      "bytes": 15287,
+      "sha256": "12a3b3e1b4a911f4bd2111eaf67d6812d50907dfef06a7ffd3e2c633e6304253"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_04/panelguideline.png",
+      "bytes": 6030,
+      "sha256": "f30fddc47baded8ba9e489b340bd158e92e0fb97968d639b3f10f7c8e97d9773"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/copyright.png",
+      "bytes": 17033,
+      "sha256": "4a187fb996c96e6a55e236de66d22904f868137ce377370f4f6e8e3b3eee394d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/cubes_p.png",
+      "bytes": 19310,
+      "sha256": "7a1d76cfb80a4ab064ef0751924c6b9fa3ef06d190512980308e00bc55befa86"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/cubes_y.png",
+      "bytes": 34911,
+      "sha256": "0d1f78c1d059520af8154e3c5888b4b0efd485203d9f555c36f1f7976349a49a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/eye_00.png",
+      "bytes": 6386,
+      "sha256": "bcbd2b84c5acd852518c9002a3527881acfc1c23db39410ef9e3cdc14b46e4d4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/eye_01.png",
+      "bytes": 6590,
+      "sha256": "b122bdc784621a60e39fbf3b62174de4e97909db0f44978906fbc20bfa1aa8bf"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/miku.png",
+      "bytes": 601794,
+      "sha256": "19b065f0e5fe5aa363686652865e1e56667881d66dd355875e0756ebc4c592a7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/outerkey_b.png",
+      "bytes": 7769,
+      "sha256": "4a319e0d39f7d6fff717fb3842baaf70c3f086198f3b782708b3d3a2d6be93b5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/outerkey_p.png",
+      "bytes": 8825,
+      "sha256": "8cfa5f33366df9fb2697589b0a7c2fa93f7cebed19d0d2330633de489b42b327"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/outerkey_r.png",
+      "bytes": 6931,
+      "sha256": "af4627aac43018050aa87986d8c6bec9747c4b8f72594e8c3eb0b9d6dcd79011"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/outerkey_t.png",
+      "bytes": 10883,
+      "sha256": "2b68018da9442231e6466168f9bf66b595711421c92e55955bd6440d5c06ad71"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/titlelogo_00.png",
+      "bytes": 18842,
+      "sha256": "b47c7f75aae0bc0a5d04384882a0e6f325334cf4c739c724463b54b0bee9e700"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_05/titlelogo_01.png",
+      "bytes": 21016,
+      "sha256": "071121433d3ebc28297f2303b74d39576dd34719d8912206b02762d9d293f825"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/bg_shop.png",
+      "bytes": 527,
+      "sha256": "f509a6ac67f936031f901e3bd4fffe13ef504a02c3aae518ada0fafdc70642d6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/credits_off.png",
+      "bytes": 3103,
+      "sha256": "c2fa2a01d7c96b9bc3c33296bd23b7eea393948fe2601a9dcc706d7a4bdf32d9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/credits_on.png",
+      "bytes": 3022,
+      "sha256": "38068b6f90e96319e4a2eefe4a22d5d4eaca31433002744203f4d373edb72323"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_00.png",
+      "bytes": 647,
+      "sha256": "b8a0d3352f6615338b3634290d8a3344472b7043e8e6c56229660117095e32b8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_01.png",
+      "bytes": 675,
+      "sha256": "836c0105e9eaf88de14bebdfee79490d19d67e445964564792c351eba6213d1e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_02.png",
+      "bytes": 687,
+      "sha256": "cb0d9998ad56dd9d39e1b7b8364c28457e9d1f843b5a041a107ddf765118203a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_03.png",
+      "bytes": 661,
+      "sha256": "262d621bcdba9ff6f6919743ae9a51a0c2c0d470ee158d2c90dc1e6f7332806c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_04.png",
+      "bytes": 421,
+      "sha256": "f5e6071437bed814d47fe5fc44f943b5f8720579283a39c42a0d683de8cf285e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_05.png",
+      "bytes": 436,
+      "sha256": "e39daf89c27bf187667bfede147d2d6180478173372cc4a420097f9d235296e8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_06.png",
+      "bytes": 445,
+      "sha256": "bce311ac8e8f187090bbc7fb2ff3ba4b1b1567185f29ae4586413f09b8dc6b7f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_07.png",
+      "bytes": 455,
+      "sha256": "6dd349ee794dbbd8c68914096e6fef33793ac197547bfd399e2de0b80df77147"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/detailwindow_08.png",
+      "bytes": 423,
+      "sha256": "28381d594dce8a3151d5540c677181a9346fe005c6c4be1db2f4dbf82532a217"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/executionbutton_l_off.png",
+      "bytes": 802,
+      "sha256": "222c8b5bd22ac31d6377d643c7c273532107aefcfbc32f66c6eff3354f95c8ac"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/executionbutton_l_on.png",
+      "bytes": 749,
+      "sha256": "44a93e1a05570ddd8a72acbf21bf075d5b5630f7584412f4169d8e5805e9f883"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/executionbutton_s_off.png",
+      "bytes": 746,
+      "sha256": "262b964d837cdc0b8449625ad23acd9c260de3755c2dd938b2969045adf67a52"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/executionbutton_s_on.png",
+      "bytes": 687,
+      "sha256": "5cefb8ca72f5dde01d93a57319105b2fd84ccdfba3c1445c737d61fb20bc47b7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/footer_off.png",
+      "bytes": 678,
+      "sha256": "b4d5973bfbf1cef80cd75ab378b01bf2cda97a327972ff56c9098c87997ea028"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/footer_on.png",
+      "bytes": 821,
+      "sha256": "7b464a01ebb555b4c83d2fc2d1edcd012bc1ad5560e8457b85320429c7b5fd58"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/imagewindow.png",
+      "bytes": 2371,
+      "sha256": "0af4080b45530e6ee79bddf5ffc6283a908456b4730d99c36514afaf5dc6d1d6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/manage_off.png",
+      "bytes": 1106,
+      "sha256": "8c4817764719fcc018f2f971f1d64d8cd63f1c93aceea2684eeea5da5c0f5eeb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/manage_on.png",
+      "bytes": 2462,
+      "sha256": "43671cc649e094a36e5aca95b56ab7491e20c01b8ffa6790c81e02471afdbc81"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/new.png",
+      "bytes": 4252,
+      "sha256": "0cbca90205c912d7eccd64d6508fa355b4b8a18e7c07a9efb9507dd5a571aa1d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/plate_off_manage.png",
+      "bytes": 59550,
+      "sha256": "f2918543717bdf5ffde3df5a63178fd1c5358bb469604f91251e16963a81bf3b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/plate_off_shop.png",
+      "bytes": 17204,
+      "sha256": "c056a34d206e53505c4004b2b6c9d49eea3794e1810d75371996072a3cea6e23"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/plate_on.png",
+      "bytes": 7199,
+      "sha256": "3574ad882418f3fa121c1450ae3588b6bb63e5a5d87911e070699c22e9ad8073"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/purchased_l_off.png",
+      "bytes": 826,
+      "sha256": "68acae109c52d5531a6cb3253089267c13c2dcfeccc46537bb19ef9eaa778429"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/purchased_l_on.png",
+      "bytes": 835,
+      "sha256": "9a649ca1c8ad82424a96debd882cb85dcfe9dbd9d850cf0eea82bbeaafd41f16"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/purchased_s_off.png",
+      "bytes": 776,
+      "sha256": "44a4feeef2621916c77facfdb5aac270fb0c5cc558d3d6086358d7d502184ec6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/purchased_s_on.png",
+      "bytes": 757,
+      "sha256": "0effd2cd1bce12b3845f161269290e76fe09573141258782c6717b13c3b473c0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/putin.png",
+      "bytes": 719,
+      "sha256": "445ec7c82afdd4766edbd54cda821bac7d1ac0bc88eb741882833cbfad2a59fd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/reinstall.png",
+      "bytes": 1714,
+      "sha256": "dd2b6f75c9cacdd90eb14ad1852bfef600a91fbdc262c6e70d53d5f63834b849"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/remove.png",
+      "bytes": 757,
+      "sha256": "1dc2e8678ad72fcd8c9b07afe95d39c25c599597ecd2ccc3c594ad1e53e97262"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/ruledline.png",
+      "bytes": 229,
+      "sha256": "d4e3db8613bd17b7ef6c0fcfa92f7c1d2a0300281f44906043925bfdd11a40d7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/sample.png",
+      "bytes": 1705,
+      "sha256": "8e1565404de09f236389b67d67a6f8ff3d1c16a1ebb4f3abc7aa40202b82443e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/searchwindow.png",
+      "bytes": 4549,
+      "sha256": "77e6a497205adc7f09336a6f7941c2bc982887aa48a4993a1feefd21f3f898db"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/shop_off.png",
+      "bytes": 1434,
+      "sha256": "106ed2a80de6e74629116be7d7bde14a2ef8f335b0f878a3d0eb005578daf926"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/shop_on.png",
+      "bytes": 3037,
+      "sha256": "7455eba5355ed83a2a88e2a8c2f01b0bd20d247c9fe4050a96b83ebd0276bff9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/shopback_off.png",
+      "bytes": 2347,
+      "sha256": "b05c2fc1007494ccd09473ec4e58fd1380abbae25c3a9b17b34fdda40cce0f2f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_06/shopback_on.png",
+      "bytes": 2372,
+      "sha256": "037084f72b4cf61a41b47e3e1505867fd5a9363cf291893fcfec1ddeca6025cf"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/dlwindow.png",
+      "bytes": 6810,
+      "sha256": "37ac0cc01e3d77d0328753d3b46c5bb9aaf5f9becbeb866bdb67437cf078e565"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/footerplate.png",
+      "bytes": 621,
+      "sha256": "177f27d8088252ce7d7c88f68d2536cba20156657faea37b5f0d877731bead51"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/graphbase.png",
+      "bytes": 1133,
+      "sha256": "43d4154ca4631381ddb701119e0210835904a76e0db184da553a7a8fcb7f9fb8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/graphbottom.png",
+      "bytes": 734,
+      "sha256": "43f99bbc4ae228e1b6029fd19a19f4f8fc2e3c256a73196ea455a12956bc232c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/graphmiddle.png",
+      "bytes": 362,
+      "sha256": "325cd967027608a6660cfcb3d50eef6932e5e0d30ad9845efe9ca08564d55137"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/graphtop.png",
+      "bytes": 647,
+      "sha256": "355f3000513343fcfaf40781d4b32578452ecb35e29d6ae6c0a941b1d50e139a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/headerplate.png",
+      "bytes": 605,
+      "sha256": "5c6b7fb85b4ece63fcc47195c0d5e23c6bc33493b6cc239c4c4a09fe1b72c3e7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/restore_off.png",
+      "bytes": 7450,
+      "sha256": "3516fac2261aade9d39db8aa0d975222152cac1d940097ca51d95e0a0520a9c1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/restore_on.png",
+      "bytes": 8041,
+      "sha256": "d5cac719cbac7a06998a5a94acf5800132d2309911da17ebc7dc36fd2c2ccf7a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/rswindow.png",
+      "bytes": 2899,
+      "sha256": "578a84f2b11b1430e35bd3b522d556d897de9afcb9ba0e0f7fe90008078470a6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/stop_off.png",
+      "bytes": 1980,
+      "sha256": "0cf140c19963eb74e9d3ed42e2e051ed755cea7fcb1b214be07fe4cd85ce5873"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/UI_tex_07/stop_on.png",
+      "bytes": 1623,
+      "sha256": "4e53464c32753a001846b66c4b02b06381997b74eb3e5ac2d3fec8fdd2a6c8b7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_01/bg_title.png",
+      "bytes": 281716,
+      "sha256": "e1e3523c6e60a0bba5838e7e3780d4c8f262e44585a4c07fc879f8650b2e3a59"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_02/bg_misicselect.png",
+      "bytes": 493117,
+      "sha256": "46df1ba0ab26460cece6e7fc2802e76d8bb24f92bc65095cf3b21355abea9497"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_02/jacket_loading.png",
+      "bytes": 35129,
+      "sha256": "5db6680d983318f49cc7ac7dfa508cd05a47dadffb6cf5320adf11c7434072d2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_03/bg_result.png",
+      "bytes": 491691,
+      "sha256": "abebe1d3e79acae11f735068113da6b1cf2a00bfe4c6443fd99747262cc50a2f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_04/bg_options.png",
+      "bytes": 506241,
+      "sha256": "46422aaf6d7c510827302a9224e8d45c3d0fb48fd42751a7caa5294d80fe0edc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_05/bg_results.png",
+      "bytes": 493086,
+      "sha256": "a546ced160c518bcb6101c4fdd0f0981d7cc85c8078d92a94b6fab182234e109"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_06/bg_starting.png",
+      "bytes": 645073,
+      "sha256": "9237bcfb57c0a3f6420d91bb4528f0ed5aed742de94f637a90b6f1c53d05a4b9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_07/bg_loading.png",
+      "bytes": 340891,
+      "sha256": "337bed9fff04aec0a58d117ffc0d0081c491492f3535c91a1f6732a0db58dfea"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_07/linemove.png",
+      "bytes": 3590,
+      "sha256": "e085eccb1a675cb3faddd77ba8f10f3bc5c2999cf861b46dd5da38f9dbc21678"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_07/loadmiku_00.png",
+      "bytes": 148714,
+      "sha256": "95352072076a1cd7636b7a6543be856eb24cb0c1151fb54031f9eef9a6c978a2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/bg_tex_07/loadmiku_01.png",
+      "bytes": 29605,
+      "sha256": "712fb40f0dadf08fd17b68d3dbe12825eb0dafa68917278ca02ac4e3b6cf50c8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/credits_ja/bg_credits_ja.png",
+      "bytes": 43742,
+      "sha256": "cd7a020de231c63741deb3abdc12089c3122f1abcea11335a6a91822322d883a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/ending/bg_ending.png",
+      "bytes": 581284,
+      "sha256": "c8524be38c7fc851264282792546bd40d59560e2b5cc098f55cc77181252d7a0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/fireworks_mik_00.png",
+      "bytes": 53438,
+      "sha256": "087b6ef2b722c0c912ef4639e6c30ad20a10c3e3208c91bc6da1f2c5472893ff"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/fireworks_mik_01.png",
+      "bytes": 44845,
+      "sha256": "514cd01655aedd4d44875414cf3c4452f60a14b3abb7f7bbb10363e47f69583d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/fireworks_mik_02.png",
+      "bytes": 74363,
+      "sha256": "3153486b4078bfd3b31bb6736b0f4598ba5ff5fab053ffe99992d22325ef572a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/flickguide_int_off.png",
+      "bytes": 95297,
+      "sha256": "732b7ff33887a7f1d44e5a2397633466fa32f239cff9daf2cf220ff65c4b7974"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/flickguide_int_on.png",
+      "bytes": 79117,
+      "sha256": "47beaf298ba3fe6e2705bc9b31b5398531db7a65ea63bf4066798431fafd3aef"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputguide_00.png",
+      "bytes": 5132,
+      "sha256": "8a86313ea14dd00f9763880644a0ce941cdbe9a4ed86c4bb977f7bfb2f06fac2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputguide_01.png",
+      "bytes": 2555,
+      "sha256": "8902a876e7eca63c336db7f4a2e812d8307323335dc94dc01d645b3e2497e3e3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputguide_02.png",
+      "bytes": 2597,
+      "sha256": "63b71f33001222bf75c9ab7ffaa27bce7c96cbf1ef2e09aa36ac1e3134c0a82a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputguide_03.png",
+      "bytes": 2762,
+      "sha256": "e103ba9427b71a4a30cf25a8af27c09424174d98d24af65060d5aa4e4be0f74b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputguide_04.png",
+      "bytes": 2677,
+      "sha256": "e3d5767ba89cc7ca959ec640b2db251f6f37091e0034d42d31952ac889efb826"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputperfect.png",
+      "bytes": 3284,
+      "sha256": "94c91650ba21a440e68bc04a27b4db0a4c9a505cf231a8abb9ddefe1006f7f58"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/inputtarget.png",
+      "bytes": 5172,
+      "sha256": "83b96581b682650f52ed0e0126537afacb5cb4618b5cfb391b99cf53e04378fd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_effect_01/ripple.png",
+      "bytes": 10404,
+      "sha256": "bd70e4d64357c0bfd3b63a10167a46866fc7d00e00d6e92c462de1b8ea23c260"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/afterimage_00.png",
+      "bytes": 5729,
+      "sha256": "f4bd383aecb7256f5a779e6ef9d4a054d5f7dab1a2cfc72d8eba0e62441b74bc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/afterimage_01.png",
+      "bytes": 5109,
+      "sha256": "6ca5e08322671f1322542e4de0af0891815ae41a83f8c34a6c041c2bdb109be6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/afterimage_02.png",
+      "bytes": 4370,
+      "sha256": "555b3be3dfd33f0864626c4bc3b948ecf2330d5a9eda0b59e323bb19a828c2a8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/afterimage_03.png",
+      "bytes": 4152,
+      "sha256": "334eb47cd66bc3a85a7e126c0969b4cdaf419a62ca9d30b982bc54ee13732a9f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/afterimage_04.png",
+      "bytes": 6781,
+      "sha256": "cd00cce98c12019d792581e56bcb2f8f06683de3d9af4214cedb3611411d8ca5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/charactercircle.png",
+      "bytes": 9397,
+      "sha256": "90b6002da5e281486c71b9c96d62912843491cbd9fbfd4a1d84a91eb2282cc0f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/charactercircle_int.png",
+      "bytes": 14019,
+      "sha256": "06fb73e8892407cabd37e08725f88d7628f2ea66ae4b745fbb9e43ee1d3cbc52"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_00.png",
+      "bytes": 2050,
+      "sha256": "ee20d8af469d648dbc4cd1e109b2d187dd566c0abd57eca9ce6e02f32ab0048a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_01.png",
+      "bytes": 1513,
+      "sha256": "e313c99e3723a087fefc38bb43d766ea05ca9d2cafeb04623ff30d6717abe92a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_02.png",
+      "bytes": 2033,
+      "sha256": "6417e6bb9359b8e540e6eeeaceff22317deb814c629380c0a0cfca4f3735abe0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_03.png",
+      "bytes": 2174,
+      "sha256": "d5d0b9480e9138299bb27a21b8d03028e5ca45c839d005b371800456a0720436"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_04.png",
+      "bytes": 1979,
+      "sha256": "2347901acb5aa54aeab2cf12780f441c6201eb6b0f44fb8f6b90dfaf0e5d2c08"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_05.png",
+      "bytes": 2018,
+      "sha256": "7fb0dcb60a89dbf084c8a807d86b5f69fbb62377280b9c9a9cd3c48eca6ff0f4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_06.png",
+      "bytes": 1907,
+      "sha256": "0af72e55fbc4b9007299bf5e8e25d473d61c601dd80d5a8ad42afdcb48f35ae1"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_07.png",
+      "bytes": 1842,
+      "sha256": "fcd90773acb0dd5f90194b98391037edd3ffa83877cc326098fdd9da766061ee"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_08.png",
+      "bytes": 1972,
+      "sha256": "a0ea497b37807a61a89efeadc40f58828cbd638462bc479d42bb279de05595fa"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_09.png",
+      "bytes": 1994,
+      "sha256": "c88a92ce0933c7a7ad5b538b469ad83aa14cbd80c5ca10b4d24be71c48478a76"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_10.png",
+      "bytes": 717,
+      "sha256": "f6420864e08c290aebd74cfb22b7213235f51e87ea37314f28d0a254c37a92f4"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_11.png",
+      "bytes": 3785,
+      "sha256": "3c4d7274ff4d64ce939d18db653fcf25ce91d6350b51ae0cf856158d00bb461e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/combonumber_12.png",
+      "bytes": 2569,
+      "sha256": "3f8c69e4673e8f7e230349a4c7123279e336d85b20c601f1462cb16aff9cee81"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/emphasiscircle.png",
+      "bytes": 3943,
+      "sha256": "969893c0ea9d45db2c9e6b4ecb9c0537ee2d3ef06ab17ce59315bbbc18b9886a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/evaluation_00.png",
+      "bytes": 9094,
+      "sha256": "09900ca81cbb60d523b9fc3de7971b45f685f16b75ac679cb5346e08b4a92c5c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/evaluation_01.png",
+      "bytes": 6579,
+      "sha256": "f7598dac59b91c2ed1f53da927da732713ea4748b29d9536dafa575b8ff696b2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/evaluation_02.png",
+      "bytes": 6327,
+      "sha256": "2cf734fa9e8098df94757522c0594d1fa481b75b7ebd01361464ba98064fcaf6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/evaluation_03.png",
+      "bytes": 5134,
+      "sha256": "a35364ad761ce3a8a1abb70e99dfaa06b92d20c0efbdab15456849c01fad65d6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/evaluation_04.png",
+      "bytes": 6851,
+      "sha256": "03a5cb3ea9840a44d51026ee8c0a4a43f53c17ca3afc9f55dd6a7513af155c5b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_off_00.png",
+      "bytes": 11878,
+      "sha256": "0728e86b6316c40824fcfea568e977fd0c595595ebf5e58e43ca317344a50175"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_off_01.png",
+      "bytes": 11271,
+      "sha256": "e97d6d60212ed352b2eb280bc09423794da1c9b406ded58b29b21d33bb17a7ea"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_off_02.png",
+      "bytes": 11010,
+      "sha256": "d2647fa59c2a019dd15a147c8dd7e57174fa7ceb21f44c690abc7c3acd8dc7ed"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_off_03.png",
+      "bytes": 11071,
+      "sha256": "62910822012dd6225c667292f7fc4fa206d0b602295a32e817933685749e4385"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_on_00.png",
+      "bytes": 9811,
+      "sha256": "36dc1a412e215b658c16c5c8a2b7bbe44514fbbffd15cbd1579f5ce12887135b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_on_01.png",
+      "bytes": 9699,
+      "sha256": "c7dbcc2fbb3da996c0b9ec0404f644c66e36057109e31f485c583339d66384d3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_on_02.png",
+      "bytes": 9120,
+      "sha256": "b5c5de4cae171c7a66599486704b2a1dfa89acb12dfae0a1112977bd687ec1de"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/flickguide_on_03.png",
+      "bytes": 9145,
+      "sha256": "db603791381aa413583bc1d5629c057d6416b709b14ee56eda68754e50f3b261"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidecursor.png",
+      "bytes": 1994,
+      "sha256": "d1af217e17b3daa9fa8ecdccd0ee888324d099a891dcb89153052b910f89ebcd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_off_00.png",
+      "bytes": 9115,
+      "sha256": "e1a6ba7539059cd7d2615a30137eec48e58541f1ec56f7dc62310bcc40b50eba"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_off_01.png",
+      "bytes": 7443,
+      "sha256": "71867ed01cfe8e0491473bc58f13869c53f4a004169f032ec79eafd23de7fa7a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_off_02.png",
+      "bytes": 7481,
+      "sha256": "f150d5f127c8d3966b7bf185b6659448635d601cccfb9172071419b6f00e7452"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_off_03.png",
+      "bytes": 7858,
+      "sha256": "9b7b590a6e782e7aea2fe6153c0a7164f97b54a6024804eec995e333c7e4ca87"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_off_04.png",
+      "bytes": 7930,
+      "sha256": "ca184639be147e931607f5cfa944d94e8e8209b0d58cda57158405487bcb6ed8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_on_00.png",
+      "bytes": 8663,
+      "sha256": "b9e3df53ceb4a8d83ddedcdc56c87ea199ca3d2ea1541bac06d93f7051bde114"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_on_01.png",
+      "bytes": 6843,
+      "sha256": "c0e832897a9253f8175d83ae8bfe140dab8fdafb1de9703d4c074e499f647377"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_on_02.png",
+      "bytes": 6869,
+      "sha256": "f692b4402783516e1cb21f2d9b1e79a9dba4e0c88349d1278d549d7bf4fc47ea"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_on_03.png",
+      "bytes": 7157,
+      "sha256": "2d34d333a07043f03a6a53c09786682222c965ee7af9b3dd67151255d2d37229"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/guidepanel_on_04.png",
+      "bytes": 7172,
+      "sha256": "f91e5140e6691cab6dea7c10923b6f2f2a8b998cca8f09e0889b1693ed4d8190"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_00.png",
+      "bytes": 923,
+      "sha256": "511f482879ed07577ed85a4592d6443488be3ce29c214b2acc6c41aa4fbcfa98"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_01.png",
+      "bytes": 689,
+      "sha256": "59ca4ad45eeab926c403926a7c00069f2b8380794e9c20ca204471aa79fa4528"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_02.png",
+      "bytes": 942,
+      "sha256": "b268d8c3623535a8f53e7470525356f8526bd17afad60a877f9f0af8a6d9740d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_03.png",
+      "bytes": 949,
+      "sha256": "b281bed9dc926c08c2975819293cfa8b5c48bc14d3eeafaf745d189088e3bd46"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_04.png",
+      "bytes": 930,
+      "sha256": "ca67e48175f76233c0128bd9bb85eead55218f9509c30c66a7325d9a1ce4a0cd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_05.png",
+      "bytes": 900,
+      "sha256": "e0d3f8600ecf07b54f967beb169d3e7018aa8e9b0df09457a32ec7c800612d4b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_06.png",
+      "bytes": 889,
+      "sha256": "c4c51ce4dc581eb2162295f6b8f9986d469783ba2ec08fd65f2fa72383157df7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_07.png",
+      "bytes": 791,
+      "sha256": "ea1670b4f5fb555ab3efad4686fef775a1650595cb6e477f9d4d5f968f525b96"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_08.png",
+      "bytes": 931,
+      "sha256": "d3ac6051136e533520e728542d84ab766e65836582ae16f304b7613fe8c0a8bc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_09.png",
+      "bytes": 913,
+      "sha256": "c8f29a35b84abf930880f1f98379a86dc9e1d3a1d4980ab45fe9fb779add40cd"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_10.png",
+      "bytes": 320,
+      "sha256": "06b9c855bd5d66d74e3db30487a101939f3a55f50822873db6d44e7943c476ec"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/highscore_11.png",
+      "bytes": 4735,
+      "sha256": "afd128d4769637b44e38744a18f51e7f0a10ad9cedf8555b667ee45037bb13b0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/inputbar.png",
+      "bytes": 2355,
+      "sha256": "000534e49aee3b64b0a06378c3f612a5395bf19cd214212c2e29c5fed214ae1c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/inputcursor.png",
+      "bytes": 3784,
+      "sha256": "73964bf7f336bc14125d0340334fcc022a535cfd7f2f7728c1f70a477ed8b797"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/insidewhirl.png",
+      "bytes": 7020,
+      "sha256": "657fb337cd220dfb1b553d0f7e1155668bc3b998223a7d1e737978ff29c2ac92"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/menugradation.png",
+      "bytes": 1743,
+      "sha256": "a05cb3e424a1f846845e2a596d3697eb38d1791c780be8b489cc19a9a3172e9d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/microphonemeter_00.png",
+      "bytes": 6378,
+      "sha256": "bab7989cacfffda6d8c0530962cd06f8650050893cb3600a6f0b5bfe1da9a2d0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/microphonemeter_01.png",
+      "bytes": 6455,
+      "sha256": "04fcaeed7ecc476da87315e84b474ec8808f618976800b671f0387302e094bef"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/microphonemeter_02.png",
+      "bytes": 3762,
+      "sha256": "b643a2aed90c909d43b701e1aa692086e47d13ceaeb961158e2c3546b4fc72ef"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/outsidecircle.png",
+      "bytes": 4713,
+      "sha256": "64d28d04d3f15811878c277c442d35bca2ec099bf1f6ea20591ec4466099fcb8"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/outsidewhirl.png",
+      "bytes": 16224,
+      "sha256": "b7a0e90d4a8d63ae1d9dc9efe19628323f9f3b56fa4134b7c7023b6b224974f6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/pausebutton.png",
+      "bytes": 1430,
+      "sha256": "62da9e4008e65cc43b4f1142e2958f75ef207b968914a36a68f3c676a39d29eb"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/quaver_00.png",
+      "bytes": 3782,
+      "sha256": "46f854a609fd77740faade391a4102908ad4171af91498b36a732c491e07565a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/quaver_01.png",
+      "bytes": 5122,
+      "sha256": "b04f40ff8b76f790ec808240be382bcb81c570d65639fdd6536337126f463860"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/quaver_02.png",
+      "bytes": 5518,
+      "sha256": "a373d5c88eb4f8e27cc9b46ac65f4222e00897450d7690cccabd241e20d18575"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/quaver_03.png",
+      "bytes": 3389,
+      "sha256": "1666d8f212604b63c06bd7c3d8db3cf24c676fe5997186b47c8f1180d49fb77d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/rail_00.png",
+      "bytes": 600,
+      "sha256": "68a22107d84b9de9d6ba4c88155bb4a8bdeb461c009ea468816b9b3e7739f2a3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/rail_01.png",
+      "bytes": 6860,
+      "sha256": "58274e62ac7d11a840b3a747b637f6ee6c2932d94907e9fd6bfe1b6ae487067c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_00.png",
+      "bytes": 2411,
+      "sha256": "32ae391ccfe6cecc68be9fca970cf09a611f34ac5d614d4cc242e67a5913b721"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_01.png",
+      "bytes": 1615,
+      "sha256": "7437381648c127f33e135f02ede6ca8be29ebe1a12b214782c5753135d55f526"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_02.png",
+      "bytes": 2404,
+      "sha256": "da44b74e6065958f4fead49ba4860ddc10901c5a38bcfd6e24af5df70d9dbb67"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_03.png",
+      "bytes": 2561,
+      "sha256": "06e5629fadb60237b2ba39cff384ee41bfe7ddba9baece9dfcd9972409f900c3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_04.png",
+      "bytes": 2276,
+      "sha256": "d8ed06690d250cf5c005f65a5806d437b23602af4f8a2f74fe6e6cdd0d96cc99"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_05.png",
+      "bytes": 2250,
+      "sha256": "53d58520f78536e24378e9640be9f26a42209f15ae3d82c4e514fd361b4d2f4b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_06.png",
+      "bytes": 2188,
+      "sha256": "ca5c0b560dfda98f92d44686acf2595a41c4ebc35af447dbc732a498b11e4a15"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_07.png",
+      "bytes": 1987,
+      "sha256": "6ad8f8a4c28e28d99303f56429f99f21140313dc46c71a9d5193a47eee2a31df"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_08.png",
+      "bytes": 2290,
+      "sha256": "a45f0b10d56dff839decb5043dc48de302be3f5971041fe82894c69929effcb5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_09.png",
+      "bytes": 2305,
+      "sha256": "af1fd3c8864b2b64397bc22a995922bbed16f74787cba012d6915b737c15e5b3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_01/score_10.png",
+      "bytes": 674,
+      "sha256": "c36b1a207b4be36bf4a574686c92df9a90d5faaebfcb08b6785866f195a76e88"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_00.png",
+      "bytes": 1514,
+      "sha256": "318004fa3e63b2843eb371e96a699fd8439ba19631b736db4a4a263450e0ab08"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_01.png",
+      "bytes": 1210,
+      "sha256": "86e0907677d993bdc5939a5b0e08cf8df151399e3242b7e6f47365629a0c0f17"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_02.png",
+      "bytes": 1193,
+      "sha256": "18b720b93370bc927209d54b8fbca103338c1b91b362060819737f5c6cca4092"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_03.png",
+      "bytes": 1174,
+      "sha256": "b19fda73dfa40cb119f7bf9bff198afde75d02376cdc8d6f4ea4a57e23ad7581"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_04.png",
+      "bytes": 1622,
+      "sha256": "1c14c9103ae4905d497c60f82e6cf2b5d41490abb7c8208d53afb86e1288a965"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_05.png",
+      "bytes": 1606,
+      "sha256": "e22e1112f253972d256cdb43f52a58036c295942b06655cb5b581745b4e5af74"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_06.png",
+      "bytes": 1471,
+      "sha256": "13966f59876c25f85373fb12efcdbaf21240be8b683f4e2166f539ef68346980"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_07.png",
+      "bytes": 871,
+      "sha256": "c6ec9238159d5b64a22fc02682d1072f35890e3e1dfa3ade88012867384c6c6b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_08.png",
+      "bytes": 1101,
+      "sha256": "a46ed5643ddf82938df1c48d88d07a6f8caa1c40293a886bc4ac71904c09be4f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_09.png",
+      "bytes": 864,
+      "sha256": "453e50a5eb657475b78d043a3a14065bc91ab6d1664dec994d42ab99aced108f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_10.png",
+      "bytes": 1383,
+      "sha256": "37396883e72e3651a058855b746a6d4a9dbd2993501198db99d753358640fe8f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_11.png",
+      "bytes": 852,
+      "sha256": "78235306caab55bd63ef81fa3d7b85ffa6d6676f2542b160d681932e81371fba"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_12.png",
+      "bytes": 1062,
+      "sha256": "c1edcaade1bec967d12b4eedf159ab1adcd903ae01657e9c292488122d3ae4c5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_13.png",
+      "bytes": 946,
+      "sha256": "98976d8c63be1db52795c81e8a4de5bf1842c641c3585bfb9287f253ebe6d37a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_14.png",
+      "bytes": 1144,
+      "sha256": "23905c12ff37a86bbb269515ef91036981f04ca38207d48ed74af0ae1a79c216"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_15.png",
+      "bytes": 1256,
+      "sha256": "1ea08efe2c114956849683d1df7bdfc5b2e3b6163141ff3703d307fb12e113ed"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_16.png",
+      "bytes": 1199,
+      "sha256": "d2f6a75479ec78d8de21c29206a26d56b8147d1bed4af0bdeb486e6537f91d5d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_17.png",
+      "bytes": 1031,
+      "sha256": "38939818d4b4bf0d639a414858d92281bc5963f2907ca7c2d82e3dc9644df975"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_18.png",
+      "bytes": 959,
+      "sha256": "671be2d6f3501adc3802421c98d1ed62091d757df0d36a91d284eb00e280d05d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_19.png",
+      "bytes": 1067,
+      "sha256": "23409817c13e6f281cc96784b0213b7d9c03ead1184afedf814f1992153e12ea"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_20.png",
+      "bytes": 1368,
+      "sha256": "53e73058281804655650e1aebf589ce01761d52a22bdb0039beb52b7ef860854"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_21.png",
+      "bytes": 1163,
+      "sha256": "418691c5a61df6c0d47d06fa5764e3f14c04f8c50384e5d6e4b9e69d5f53c8b6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_22.png",
+      "bytes": 1696,
+      "sha256": "fb5b3f7380784afb21e599d2e8095571857e262e5bca207df45596d16e3958c6"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_23.png",
+      "bytes": 1510,
+      "sha256": "a0714dd520147249fe8ce5f59cd107d68565f37fc7637e0d2a0a74af8b826cc5"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_24.png",
+      "bytes": 1485,
+      "sha256": "53578487cdf9019011c3d2b705882de96263c4e2a12cbcced3c542d47cc5669a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_25.png",
+      "bytes": 1268,
+      "sha256": "77dd18659cd67571df14e3290d5eb179a24776b97f9919ef91ad9757e0214620"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_26.png",
+      "bytes": 1395,
+      "sha256": "812925d49c973551e6708fb228126e3c8f2933f9900e5d19ac8426f5aa43d09a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_27.png",
+      "bytes": 1432,
+      "sha256": "4e9dce4baa5045d1be990e24928b74be22f9dc1da1f2cdc87faf3ff3f17be361"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_28.png",
+      "bytes": 735,
+      "sha256": "e43fd955c778b794a275f2bcc73d749768d664099e458140fd498c5ae34ad4a7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_29.png",
+      "bytes": 1304,
+      "sha256": "332aee80a37ba49f3fa6ce459e2df6c65e1e137099024fd9cd9c06f8d169781c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_30.png",
+      "bytes": 1016,
+      "sha256": "6aae6a68d42d350bf57c6f492124b79983bed62e54662a6fb0c95e93dece9aba"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_31.png",
+      "bytes": 1351,
+      "sha256": "b76a47b874b5b5b541409c33ea31ac42daaf087069caa6eb9d6d427037c9ec0f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_32.png",
+      "bytes": 1508,
+      "sha256": "ca9f7f33fb5e44c5d625d5efe7ab2791d01aae99a2f09b152e9490cec70f2911"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_33.png",
+      "bytes": 1593,
+      "sha256": "c296310af91fc5ad293383af17f07eb9aafd66470a246e9d8d3aaab4ebf8901e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_34.png",
+      "bytes": 1375,
+      "sha256": "fe5275f3d9466adcd543e2d49c780632ee1f02afd2a27e0995a1083750fecf8c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_35.png",
+      "bytes": 1387,
+      "sha256": "cabec5e8d19f647f24eeaa9c8641b310adb3e2eb32107015a8209e08d8c8c8cf"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_36.png",
+      "bytes": 1627,
+      "sha256": "7cc4cd6cacdc5c1071b36e21d95af424d125430288e59a3cb0592a7a85ffe443"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_37.png",
+      "bytes": 920,
+      "sha256": "538faa1c69558cfe81df078b1981bda20d95d3b4b74af6d03f489e8a672cf8df"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_38.png",
+      "bytes": 1373,
+      "sha256": "38826a3717157a556ed7cca5848738acfca3cb4ab929366b571b4d986d977ce2"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_39.png",
+      "bytes": 1280,
+      "sha256": "749a496557c0c1556b0f8b34cc440ee44406b77d48e46d50aee215ee97b1a028"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_40.png",
+      "bytes": 1290,
+      "sha256": "888568230fcbe7f73a8634b2faf7f9493c5fcbf0191990dccbcd6b1156b8ca9c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_41.png",
+      "bytes": 1380,
+      "sha256": "84cbeb7e23391e384ec337459e29118e9826bab7b0e52df460660f8e8f888453"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_42.png",
+      "bytes": 1251,
+      "sha256": "9effc46b08302e93f518de836ef807a3f4ee9677cb42acc95fa5287da7d1f29a"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_43.png",
+      "bytes": 1420,
+      "sha256": "701ea6fac23f3e603efa0caca35aafa3e684af074210ce51cef408bf5bbf4a94"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_44.png",
+      "bytes": 1313,
+      "sha256": "1239551df0ab866125be2f7ae9ea70e7732660b307b658961e8b2f44822ee143"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/fgcharacter_ori_45.png",
+      "bytes": 1168,
+      "sha256": "5f48f9be5a5f720a024bc01c206886bc6d832a7acea7a0ca92650ee4c7cb18e0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_00.png",
+      "bytes": 17825,
+      "sha256": "378eba1cc9d4c65385c9bc4c3fe9578d3716601c752aac620d2a1ddaeb8e38c9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_01.png",
+      "bytes": 17568,
+      "sha256": "3cea1f3b2ba1d415e62cedd441bb9442bb09d435e15ec0dae0a990e38eea6647"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_02.png",
+      "bytes": 17175,
+      "sha256": "fe400d0c380f99de8b14f31a0d7b52e83238f85a7f6b4880a185bc724887a776"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_03.png",
+      "bytes": 17716,
+      "sha256": "42fef8fc34829c67493b8b187025fa8d058790a7f6e9ec75b66c8c0d0abb5707"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_04.png",
+      "bytes": 17772,
+      "sha256": "c9b6c0d12b68141f155b4a3bcc5f7ce5087823b8f8ad59df9719790ac5e59c1d"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_05.png",
+      "bytes": 17712,
+      "sha256": "d6b86a93d4cd354247095a10b7728f299eb4a133ca61099c4db9bf95a071c679"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_06.png",
+      "bytes": 17102,
+      "sha256": "b2397b2e8cac1590a1859e9158e229ff95758b73defb75712360ce5fa8142fae"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_07.png",
+      "bytes": 17174,
+      "sha256": "d8c539c4048a8d059e628eb66a08400ffe20af1d8a49aacca2d034d47612017e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_08.png",
+      "bytes": 17176,
+      "sha256": "eb16fcf12aa1796b22f4d0c750048e03be63a7c9de1ab6feb9e7517e15d02303"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_off_09.png",
+      "bytes": 17535,
+      "sha256": "e0e2c8bf1e22454aa5049201456a60f49d58a130a3e07d8d79897865cae70534"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_00.png",
+      "bytes": 19460,
+      "sha256": "3b44bb2c5fcd2e120e9e139ba823fa976a74a61dc2aa60bf911f46b5ecccdbbc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_01.png",
+      "bytes": 19308,
+      "sha256": "08d2bdbdef7256ffe561ad4c7a3366fcb96a6e2240fb634f4762a57d1286c5f7"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_02.png",
+      "bytes": 19047,
+      "sha256": "a95e856488560b310502e7727c05c53aa03f85de4a5e88c3f2d662e78d85837e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_03.png",
+      "bytes": 19909,
+      "sha256": "46830f840a2e3cf4e18fc042d3fb3d9582af75db587f7887f84c09d868c06383"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_04.png",
+      "bytes": 19643,
+      "sha256": "9fbf5ec4496b74c75809f01bb5783ba43a0ade1d7da58cc9245be68a40f7971f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_05.png",
+      "bytes": 19821,
+      "sha256": "d2b1c30aa33117f884eb18ecda681d7eb6bcc1ffcb72cfe863a3a503e5b6179f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_06.png",
+      "bytes": 19017,
+      "sha256": "422528fa1ee36a6b46dc656d8806a2c6a24c36e61f83042f8a01b5146d8e5d9f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_07.png",
+      "bytes": 18874,
+      "sha256": "c8bfc88197ad5317b95be83d6bb7c43429b3e698db2bb6b6be595ffd78882941"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_08.png",
+      "bytes": 19104,
+      "sha256": "25c992136f110231800feb6d8c511911df7f27189eedaad7d048d3a5f4892257"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/game_tex_02/flickpanel_ori_on_09.png",
+      "bytes": 19224,
+      "sha256": "e1ffd010b6c8c117ec804cc491f24430051a15c51223c2346485226057a9e94e"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/music_00_01/art_00_01_00.png",
+      "bytes": 184769,
+      "sha256": "4f1aec780cba38a89f481d103436a7abe81513bf96ee134613ce144575cf17b0"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/music_00_01/art_00_01_01.png",
+      "bytes": 140246,
+      "sha256": "dd1d798ff6cf5e0f255c03f2e4537d86bcaf1171aaebb4bc64f7eaa041768ff9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/music_00_01/art_00_01_02.png",
+      "bytes": 221012,
+      "sha256": "f4f7a8a312ae8c21726695c66693f902c6ed3c83f1f21032dea1fab33520bd7b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/music_00_01/logo_00_01_00.png",
+      "bytes": 67600,
+      "sha256": "6674c1da38268ba180582de3fda108fa840f21a47f3185eed41a857d9eb76160"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/music_00_01/logo_00_01_01.png",
+      "bytes": 75946,
+      "sha256": "c9634467fc9afc780d1d2272630120b6b5aea21dcf2e73cca757b33241cb17dc"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/music_00_01/logo_00_01_02.png",
+      "bytes": 160764,
+      "sha256": "8837d07d94e84fb8b92e28fa226f3ca63db4faa69d486ebd0397480720da6b7f"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/thum_01_01/screenshot_01_01_00.png",
+      "bytes": 81438,
+      "sha256": "0d4011710ced95b575a54fe0c29aaaa7aad6885a4a9617f3b33a5c94e0aaa3fe"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/thum_01_01/screenshot_01_01_01.png",
+      "bytes": 66317,
+      "sha256": "eaf560b2438753bdf051727ce3f968c89caaa8631ead612d4d9611d22e8dc5a3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/thum_01_01/screenshot_01_01_02.png",
+      "bytes": 79659,
+      "sha256": "289a56c225f6fa8070178e1600508693187558d503e9cd4e21bdd51aa28d638c"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/thum_01_01/thumbnail_01_01_00.png",
+      "bytes": 10088,
+      "sha256": "48d3e3c6be8e20ed87767a9e0ccafc36414bfc51a37afb5f41a9048b8dfbe5a3"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/thum_01_01/thumbnail_01_01_01.png",
+      "bytes": 12574,
+      "sha256": "51c87da70b4e82e6b442da7ded32890858ff48d51837ee389e52d111b761f0c9"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/sprites/thum_01_01/thumbnail_01_01_02.png",
+      "bytes": 9493,
+      "sha256": "278add4a22ec17a775b08070883ae65f501e2e3d61c075faec55929bee496529"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/tools/inspect_macho.py",
+      "bytes": 3588,
+      "sha256": "7dbbd764321cec236e0ab36a12bc077bc32aebee40c0481357b6bee7ad07f54b"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/tools/mechanics_model.py",
+      "bytes": 5064,
+      "sha256": "342b0292ed587315ed988798607d5ccbad37ad15d31883cb0284f15088c81a75"
+    },
+    {
+      "path": "research/mikuflick2-1.1.5/verification.md",
+      "bytes": 9135,
+      "sha256": "66e52455bc96dae07094f4a2e37d182043eeef1550db5e9b2115b293937d5846"
+    }
+  ],
+  "validation": "validation.json",
+  "protected_strings_blobs": {
+    "Localizable.strings": "116f74ba776cff8e42d670bcb9df87b260b9911f",
+    "Localizable2.strings": "109eb340d6ae0d7ecb53512f0738976a23d2e68e"
+  }
+}

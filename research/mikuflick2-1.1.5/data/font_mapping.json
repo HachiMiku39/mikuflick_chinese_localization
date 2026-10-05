@@ -1,0 +1,467 @@
+{
+  "table_address": "0x1419cc",
+  "selected_index": 14,
+  "selected_pair": {
+    "index": 14,
+    "entry_address": "0x141a3c",
+    "cfstring_pointers": [
+      "0x146708",
+      "0x146718"
+    ],
+    "regular": "Futura-Medium",
+    "bold": "Futura-CondensedExtraBold"
+  },
+  "default_font_size": 24,
+  "init_function": "0x1eeb4",
+  "create_function": "0x58f80",
+  "set_text_function": "0x59164",
+  "set_size_function": "0x594cc",
+  "UIAppFonts": null,
+  "bundled_font_files": [],
+  "font_table": [
+    {
+      "index": 0,
+      "entry_address": "0x1419cc",
+      "cfstring_pointers": [
+        "0x146588",
+        "0x146598"
+      ],
+      "regular": "AmericanTypewriter",
+      "bold": "AmericanTypewriter-Bold"
+    },
+    {
+      "index": 1,
+      "entry_address": "0x1419d4",
+      "cfstring_pointers": [
+        "0x1465a8",
+        "0x1465a8"
+      ],
+      "regular": "AppleColorEmoji",
+      "bold": "AppleColorEmoji"
+    },
+    {
+      "index": 2,
+      "entry_address": "0x1419dc",
+      "cfstring_pointers": [
+        "0x1465b8",
+        "0x1465b8"
+      ],
+      "regular": "AppleGothic",
+      "bold": "AppleGothic"
+    },
+    {
+      "index": 3,
+      "entry_address": "0x1419e4",
+      "cfstring_pointers": [
+        "0x1465c8",
+        "0x1465d8"
+      ],
+      "regular": "ArialMT",
+      "bold": "Arial-BoldMT"
+    },
+    {
+      "index": 4,
+      "entry_address": "0x1419ec",
+      "cfstring_pointers": [
+        "0x1465e8",
+        "0x1465f8"
+      ],
+      "regular": "ArialHebrew",
+      "bold": "ArialHebrew-Bold"
+    },
+    {
+      "index": 5,
+      "entry_address": "0x1419f4",
+      "cfstring_pointers": [
+        "0x146608",
+        "0x146608"
+      ],
+      "regular": "ArialRoundedMTBold",
+      "bold": "ArialRoundedMTBold"
+    },
+    {
+      "index": 6,
+      "entry_address": "0x1419fc",
+      "cfstring_pointers": [
+        "0x146618",
+        "0x146628"
+      ],
+      "regular": "BanglaSangamMN",
+      "bold": "BanglaSangamMN-Bold"
+    },
+    {
+      "index": 7,
+      "entry_address": "0x141a04",
+      "cfstring_pointers": [
+        "0x146638",
+        "0x146648"
+      ],
+      "regular": "Baskerville",
+      "bold": "Baskerville-Bold"
+    },
+    {
+      "index": 8,
+      "entry_address": "0x141a0c",
+      "cfstring_pointers": [
+        "0x146658",
+        "0x146668"
+      ],
+      "regular": "ChalkboardSE-Regular",
+      "bold": "ChalkboardSE-Bold"
+    },
+    {
+      "index": 9,
+      "entry_address": "0x141a14",
+      "cfstring_pointers": [
+        "0x146678",
+        "0x146688"
+      ],
+      "regular": "Cochin",
+      "bold": "Cochin-Bold"
+    },
+    {
+      "index": 10,
+      "entry_address": "0x141a1c",
+      "cfstring_pointers": [
+        "0x146698",
+        "0x1466a8"
+      ],
+      "regular": "Courier",
+      "bold": "Courier-Bold"
+    },
+    {
+      "index": 11,
+      "entry_address": "0x141a24",
+      "cfstring_pointers": [
+        "0x1466b8",
+        "0x1466c8"
+      ],
+      "regular": "CourierNewPSMT",
+      "bold": "CourierNewPS-BoldMT"
+    },
+    {
+      "index": 12,
+      "entry_address": "0x141a2c",
+      "cfstring_pointers": [
+        "0x1466d8",
+        "0x1466d8"
+      ],
+      "regular": "DBLCDTempBlack",
+      "bold": "DBLCDTempBlack"
+    },
+    {
+      "index": 13,
+      "entry_address": "0x141a34",
+      "cfstring_pointers": [
+        "0x1466e8",
+        "0x1466f8"
+      ],
+      "regular": "DevanagariSangamMN",
+      "bold": "DevanagariSangamMN-Bold"
+    },
+    {
+      "index": 14,
+      "entry_address": "0x141a3c",
+      "cfstring_pointers": [
+        "0x146708",
+        "0x146718"
+      ],
+      "regular": "Futura-Medium",
+      "bold": "Futura-CondensedExtraBold"
+    },
+    {
+      "index": 15,
+      "entry_address": "0x141a44",
+      "cfstring_pointers": [
+        "0x146728",
+        "0x146738"
+      ],
+      "regular": "GeezaPro",
+      "bold": "GeezaPro-Bold"
+    },
+    {
+      "index": 16,
+      "entry_address": "0x141a4c",
+      "cfstring_pointers": [
+        "0x146748",
+        "0x146758"
+      ],
+      "regular": "Georgia",
+      "bold": "Georgia-Bold"
+    },
+    {
+      "index": 17,
+      "entry_address": "0x141a54",
+      "cfstring_pointers": [
+        "0x146768",
+        "0x146778"
+      ],
+      "regular": "GujaratiSangamMN",
+      "bold": "GujaratiSangamMN-Bold"
+    },
+    {
+      "index": 18,
+      "entry_address": "0x141a5c",
+      "cfstring_pointers": [
+        "0x146788",
+        "0x146798"
+      ],
+      "regular": "GurmukhiMN",
+      "bold": "GurmukhiMN-Bold"
+    },
+    {
+      "index": 19,
+      "entry_address": "0x141a64",
+      "cfstring_pointers": [
+        "0x1467a8",
+        "0x1467b8"
+      ],
+      "regular": "Helvetica",
+      "bold": "Helvetica-Bold"
+    },
+    {
+      "index": 20,
+      "entry_address": "0x141a6c",
+      "cfstring_pointers": [
+        "0x1467c8",
+        "0x1467d8"
+      ],
+      "regular": "HelveticaNeue",
+      "bold": "HelveticaNeue-Bold"
+    },
+    {
+      "index": 21,
+      "entry_address": "0x141a74",
+      "cfstring_pointers": [
+        "0x1467e8",
+        "0x1467e8"
+      ],
+      "regular": "HiraKakuProN-W3",
+      "bold": "HiraKakuProN-W3"
+    },
+    {
+      "index": 22,
+      "entry_address": "0x141a7c",
+      "cfstring_pointers": [
+        "0x1467f8",
+        "0x1467f8"
+      ],
+      "regular": "HiraKakuProN-W6",
+      "bold": "HiraKakuProN-W6"
+    },
+    {
+      "index": 23,
+      "entry_address": "0x141a84",
+      "cfstring_pointers": [
+        "0x146808",
+        "0x146818"
+      ],
+      "regular": "Kailasa",
+      "bold": "Kailasa-Bold"
+    },
+    {
+      "index": 24,
+      "entry_address": "0x141a8c",
+      "cfstring_pointers": [
+        "0x146828",
+        "0x146838"
+      ],
+      "regular": "KannadaSangamMN",
+      "bold": "KannadaSangamMN-Bold"
+    },
+    {
+      "index": 25,
+      "entry_address": "0x141a94",
+      "cfstring_pointers": [
+        "0x146848",
+        "0x146858"
+      ],
+      "regular": "MalayalamSangamMN",
+      "bold": "MalayalamSangamMN-Bold"
+    },
+    {
+      "index": 26,
+      "entry_address": "0x141a9c",
+      "cfstring_pointers": [
+        "0x146868",
+        "0x146878"
+      ],
+      "regular": "MarkerFelt-Thin",
+      "bold": "MarkerFelt-Wide"
+    },
+    {
+      "index": 27,
+      "entry_address": "0x141aa4",
+      "cfstring_pointers": [
+        "0x146888",
+        "0x146898"
+      ],
+      "regular": "Noteworthy-Light",
+      "bold": "Noteworthy-Bold"
+    },
+    {
+      "index": 28,
+      "entry_address": "0x141aac",
+      "cfstring_pointers": [
+        "0x1468a8",
+        "0x1468b8"
+      ],
+      "regular": "OriyaSangamMN",
+      "bold": "OriyaSangamMN-Bold"
+    },
+    {
+      "index": 29,
+      "entry_address": "0x141ab4",
+      "cfstring_pointers": [
+        "0x1468c8",
+        "0x1468d8"
+      ],
+      "regular": "Palatino-Roman",
+      "bold": "Palatino-Bold"
+    },
+    {
+      "index": 30,
+      "entry_address": "0x141abc",
+      "cfstring_pointers": [
+        "0x1468e8",
+        "0x1468f8"
+      ],
+      "regular": "SinhalaSangamMN",
+      "bold": "SinhalaSangamMN-Bold"
+    },
+    {
+      "index": 31,
+      "entry_address": "0x141ac4",
+      "cfstring_pointers": [
+        "0x146908",
+        "0x146918"
+      ],
+      "regular": "SnellRoundhand",
+      "bold": "SnellRoundhand-Bold"
+    },
+    {
+      "index": 32,
+      "entry_address": "0x141acc",
+      "cfstring_pointers": [
+        "0x146928",
+        "0x146938"
+      ],
+      "regular": "STHeitiJ-Light",
+      "bold": "STHeitiJ-Medium"
+    },
+    {
+      "index": 33,
+      "entry_address": "0x141ad4",
+      "cfstring_pointers": [
+        "0x146948",
+        "0x146958"
+      ],
+      "regular": "STHeitiK-Light",
+      "bold": "STHeitiK-Medium"
+    },
+    {
+      "index": 34,
+      "entry_address": "0x141adc",
+      "cfstring_pointers": [
+        "0x146968",
+        "0x146978"
+      ],
+      "regular": "STHeitiSC-Light",
+      "bold": "STHeitiSC-Medium"
+    },
+    {
+      "index": 35,
+      "entry_address": "0x141ae4",
+      "cfstring_pointers": [
+        "0x146988",
+        "0x146998"
+      ],
+      "regular": "STHeitiTC-Light",
+      "bold": "STHeitiTC-Medium"
+    },
+    {
+      "index": 36,
+      "entry_address": "0x141aec",
+      "cfstring_pointers": [
+        "0x1469a8",
+        "0x1469b8"
+      ],
+      "regular": "TamilSangamMN",
+      "bold": "TamilSangamMN-Bold"
+    },
+    {
+      "index": 37,
+      "entry_address": "0x141af4",
+      "cfstring_pointers": [
+        "0x1469c8",
+        "0x1469d8"
+      ],
+      "regular": "TeluguSangamMN",
+      "bold": "TeluguSangamMN-Bold"
+    },
+    {
+      "index": 38,
+      "entry_address": "0x141afc",
+      "cfstring_pointers": [
+        "0x1469e8",
+        "0x1469f8"
+      ],
+      "regular": "Thonburi",
+      "bold": "Thonburi-Bold"
+    },
+    {
+      "index": 39,
+      "entry_address": "0x141b04",
+      "cfstring_pointers": [
+        "0x146a08",
+        "0x146a18"
+      ],
+      "regular": "TimesNewRomanPSMT",
+      "bold": "TimesNewRomanPS-BoldMT"
+    },
+    {
+      "index": 40,
+      "entry_address": "0x141b0c",
+      "cfstring_pointers": [
+        "0x146a28",
+        "0x146a38"
+      ],
+      "regular": "TrebuchetMS",
+      "bold": "TrebuchetMS-Bold"
+    },
+    {
+      "index": 41,
+      "entry_address": "0x141b14",
+      "cfstring_pointers": [
+        "0x146a48",
+        "0x146a58"
+      ],
+      "regular": "Verdana",
+      "bold": "Verdana-Bold"
+    },
+    {
+      "index": 42,
+      "entry_address": "0x141b1c",
+      "cfstring_pointers": [
+        "0x146a68",
+        "0x146a68"
+      ],
+      "regular": "Zapfino",
+      "bold": "Zapfino"
+    }
+  ],
+  "device_glyph_match": "unverified",
+  "title_menu": {
+    "rewrite": "0x6a94c",
+    "render": "0x6abb4",
+    "render_call": "0x6b09a",
+    "set_text_wrapper": "0x1f4ec",
+    "requested_regular_font": "Futura-Medium",
+    "bold_argument": 0,
+    "sizes": [
+      32,
+      34
+    ],
+    "user_reports_visual_difference": true
+  }
+}

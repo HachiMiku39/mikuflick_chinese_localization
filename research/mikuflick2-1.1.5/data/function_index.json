@@ -1,0 +1,237 @@
+[
+  {
+    "address": "0x0000d170",
+    "symbol": "+[NoteManager init]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0000d218",
+    "symbol": "+[NoteManager Reset]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0000dd64",
+    "symbol": "+[NoteManager checkResult:::]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0000de28",
+    "symbol": "+[NoteManager GetNoteCharIdx:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0000e040",
+    "symbol": "+[NoteManager AddTensionGauge:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0000e36c",
+    "symbol": "+[NoteManager GetLastCrimaxEnableNote]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0000e57c",
+    "symbol": "+[NoteManager GetCenterTime:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00019d68",
+    "symbol": "-[MusicData IsBreakClear]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00019d78",
+    "symbol": "-[MusicData SetBreakClear:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0001cdd0",
+    "symbol": "+[StatusData checkUnlockBTL:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00021900",
+    "symbol": "__ZN10CriManager11GetPlayTimeEv",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00021a44",
+    "symbol": "__ZN10CriManager17GetCuePointStringEi",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00021b0c",
+    "symbol": "__ZL16CuePointCallbackPvP16CriManaPlayerTagP17CriManaEventPoint",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00021b50",
+    "symbol": "-[NoteObjBase initWithType:::]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00021cb8",
+    "symbol": "-[NoteObjBase addOption:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00021dc0",
+    "symbol": "-[NoteNormal initWithType:::]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00022160",
+    "symbol": "-[NoteNormal exec]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00022dc8",
+    "symbol": "-[NoteNormal setTouchDown:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00022dec",
+    "symbol": "-[NoteNormal setTouchUp:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00022e10",
+    "symbol": "-[NoteNormal checkResult::::]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00023364",
+    "symbol": "-[NoteNormal isCrimaxEnable]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00028e70",
+    "symbol": "__ZL16CuePointCallbackP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00028eb4",
+    "symbol": "+[MikuFlickCriManager Exec]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x000291dc",
+    "symbol": "+[MikuFlickCriManager CheckTotalNoteNum]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029678",
+    "symbol": "+[MikuFlickCriManager GotoNextPV:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029b54",
+    "symbol": "__ZL18CuePointFunc_TelopP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029bd4",
+    "symbol": "__ZL19CuePointFunc_FadeInP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029bfc",
+    "symbol": "__ZL20CuePointFunc_FadeOutP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029c24",
+    "symbol": "__ZL19CuePointFunc_LyricsP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029ca4",
+    "symbol": "__ZL23CuePointFunc_SmallTelopP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029d38",
+    "symbol": "__ZL22CuePointFunc_InterludeP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029d94",
+    "symbol": "__ZL19CuePointFunc_CrimaxP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029e10",
+    "symbol": "__ZL21CuePointFunc_SetDelayP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029e84",
+    "symbol": "__ZL19CuePointFunc_SetBPMP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029efc",
+    "symbol": "__ZL20InterludeType_Normalv",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029f4c",
+    "symbol": "__ZL21InterludeType_FadeOutv",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029f68",
+    "symbol": "__ZL17TelopType_DisableP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00029fc4",
+    "symbol": "__ZL16TelopType_EnableP8NSString",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0002ffdc",
+    "symbol": "-[NoteInterlude checkResult::::]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00045618",
+    "symbol": "-[WindowPVSelect checkRandomEnable]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0004ba80",
+    "symbol": "-[WindowResult loadTexture]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0006ef60",
+    "symbol": "-[TouchFlickBoard checkFlick]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0006fcb8",
+    "symbol": "-[TouchFlickBoard touchDown:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0006fd70",
+    "symbol": "-[TouchFlickBoard touchMoved:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x0006fddc",
+    "symbol": "-[TouchFlickBoard touchUp:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x000717e0",
+    "symbol": "-[TouchPVLoopMode update:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  },
+  {
+    "address": "0x00071e74",
+    "symbol": "-[TouchPVLoopMode touchUp:]",
+    "evidence": "本地Ghidra反编译与ARM/Thumb汇编；本仓库提供定位信息，不上传完整反编译文本"
+  }
+]

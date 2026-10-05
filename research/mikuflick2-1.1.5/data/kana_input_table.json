@@ -1,0 +1,1902 @@
+[
+  {
+    "char": "ぁ",
+    "unicode": "U+3041",
+    "index": 0,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 11
+  },
+  {
+    "char": "あ",
+    "unicode": "U+3042",
+    "index": 1,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ぃ",
+    "unicode": "U+3043",
+    "index": 2,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 11
+  },
+  {
+    "char": "い",
+    "unicode": "U+3044",
+    "index": 3,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぅ",
+    "unicode": "U+3045",
+    "index": 4,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 11
+  },
+  {
+    "char": "う",
+    "unicode": "U+3046",
+    "index": 5,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぇ",
+    "unicode": "U+3047",
+    "index": 6,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 11
+  },
+  {
+    "char": "え",
+    "unicode": "U+3048",
+    "index": 7,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぉ",
+    "unicode": "U+3049",
+    "index": 8,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 11
+  },
+  {
+    "char": "お",
+    "unicode": "U+304A",
+    "index": 9,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "か",
+    "unicode": "U+304B",
+    "index": 10,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "が",
+    "unicode": "U+304C",
+    "index": 11,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 12
+  },
+  {
+    "char": "き",
+    "unicode": "U+304D",
+    "index": 12,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぎ",
+    "unicode": "U+304E",
+    "index": 13,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 12
+  },
+  {
+    "char": "く",
+    "unicode": "U+304F",
+    "index": 14,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぐ",
+    "unicode": "U+3050",
+    "index": 15,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 12
+  },
+  {
+    "char": "け",
+    "unicode": "U+3051",
+    "index": 16,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "げ",
+    "unicode": "U+3052",
+    "index": 17,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 12
+  },
+  {
+    "char": "こ",
+    "unicode": "U+3053",
+    "index": 18,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ご",
+    "unicode": "U+3054",
+    "index": 19,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 12
+  },
+  {
+    "char": "さ",
+    "unicode": "U+3055",
+    "index": 20,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ざ",
+    "unicode": "U+3056",
+    "index": 21,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 13
+  },
+  {
+    "char": "し",
+    "unicode": "U+3057",
+    "index": 22,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "じ",
+    "unicode": "U+3058",
+    "index": 23,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 13
+  },
+  {
+    "char": "す",
+    "unicode": "U+3059",
+    "index": 24,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ず",
+    "unicode": "U+305A",
+    "index": 25,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 13
+  },
+  {
+    "char": "せ",
+    "unicode": "U+305B",
+    "index": 26,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぜ",
+    "unicode": "U+305C",
+    "index": 27,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 13
+  },
+  {
+    "char": "そ",
+    "unicode": "U+305D",
+    "index": 28,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぞ",
+    "unicode": "U+305E",
+    "index": 29,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 13
+  },
+  {
+    "char": "た",
+    "unicode": "U+305F",
+    "index": 30,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "だ",
+    "unicode": "U+3060",
+    "index": 31,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 14
+  },
+  {
+    "char": "ち",
+    "unicode": "U+3061",
+    "index": 32,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぢ",
+    "unicode": "U+3062",
+    "index": 33,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 14
+  },
+  {
+    "char": "っ",
+    "unicode": "U+3063",
+    "index": 34,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "つ",
+    "unicode": "U+3064",
+    "index": 35,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "づ",
+    "unicode": "U+3065",
+    "index": 36,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 14
+  },
+  {
+    "char": "て",
+    "unicode": "U+3066",
+    "index": 37,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "で",
+    "unicode": "U+3067",
+    "index": 38,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 14
+  },
+  {
+    "char": "と",
+    "unicode": "U+3068",
+    "index": 39,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ど",
+    "unicode": "U+3069",
+    "index": 40,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 14
+  },
+  {
+    "char": "な",
+    "unicode": "U+306A",
+    "index": 41,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "に",
+    "unicode": "U+306B",
+    "index": 42,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぬ",
+    "unicode": "U+306C",
+    "index": 43,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ね",
+    "unicode": "U+306D",
+    "index": 44,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "の",
+    "unicode": "U+306E",
+    "index": 45,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "は",
+    "unicode": "U+306F",
+    "index": 46,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ば",
+    "unicode": "U+3070",
+    "index": 47,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 15
+  },
+  {
+    "char": "ぱ",
+    "unicode": "U+3071",
+    "index": 48,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 16
+  },
+  {
+    "char": "ひ",
+    "unicode": "U+3072",
+    "index": 49,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "び",
+    "unicode": "U+3073",
+    "index": 50,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 15
+  },
+  {
+    "char": "ぴ",
+    "unicode": "U+3074",
+    "index": 51,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 16
+  },
+  {
+    "char": "ふ",
+    "unicode": "U+3075",
+    "index": 52,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぶ",
+    "unicode": "U+3076",
+    "index": 53,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 15
+  },
+  {
+    "char": "ぷ",
+    "unicode": "U+3077",
+    "index": 54,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 16
+  },
+  {
+    "char": "へ",
+    "unicode": "U+3078",
+    "index": 55,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "べ",
+    "unicode": "U+3079",
+    "index": 56,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 15
+  },
+  {
+    "char": "ぺ",
+    "unicode": "U+307A",
+    "index": 57,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 16
+  },
+  {
+    "char": "ほ",
+    "unicode": "U+307B",
+    "index": 58,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ぼ",
+    "unicode": "U+307C",
+    "index": 59,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 15
+  },
+  {
+    "char": "ぽ",
+    "unicode": "U+307D",
+    "index": 60,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 16
+  },
+  {
+    "char": "ま",
+    "unicode": "U+307E",
+    "index": 61,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "み",
+    "unicode": "U+307F",
+    "index": 62,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "む",
+    "unicode": "U+3080",
+    "index": 63,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "め",
+    "unicode": "U+3081",
+    "index": 64,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "も",
+    "unicode": "U+3082",
+    "index": 65,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゃ",
+    "unicode": "U+3083",
+    "index": 66,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 17
+  },
+  {
+    "char": "や",
+    "unicode": "U+3084",
+    "index": 67,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ゅ",
+    "unicode": "U+3085",
+    "index": 68,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 17
+  },
+  {
+    "char": "ゆ",
+    "unicode": "U+3086",
+    "index": 69,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ょ",
+    "unicode": "U+3087",
+    "index": 70,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 17
+  },
+  {
+    "char": "よ",
+    "unicode": "U+3088",
+    "index": 71,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ら",
+    "unicode": "U+3089",
+    "index": 72,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "り",
+    "unicode": "U+308A",
+    "index": 73,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "る",
+    "unicode": "U+308B",
+    "index": 74,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "れ",
+    "unicode": "U+308C",
+    "index": 75,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ろ",
+    "unicode": "U+308D",
+    "index": 76,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゎ",
+    "unicode": "U+308E",
+    "index": 77,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "わ",
+    "unicode": "U+308F",
+    "index": 78,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ゐ",
+    "unicode": "U+3090",
+    "index": 79,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゑ",
+    "unicode": "U+3091",
+    "index": 80,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "を",
+    "unicode": "U+3092",
+    "index": 81,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ん",
+    "unicode": "U+3093",
+    "index": 82,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゔ",
+    "unicode": "U+3094",
+    "index": 83,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゕ",
+    "unicode": "U+3095",
+    "index": 84,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゖ",
+    "unicode": "U+3096",
+    "index": 85,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゗",
+    "unicode": "U+3097",
+    "index": 86,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゘",
+    "unicode": "U+3098",
+    "index": 87,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゙",
+    "unicode": "U+3099",
+    "index": 88,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゚",
+    "unicode": "U+309A",
+    "index": 89,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゛",
+    "unicode": "U+309B",
+    "index": 90,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゜",
+    "unicode": "U+309C",
+    "index": 91,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゝ",
+    "unicode": "U+309D",
+    "index": 92,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゞ",
+    "unicode": "U+309E",
+    "index": 93,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゟ",
+    "unicode": "U+309F",
+    "index": 94,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "゠",
+    "unicode": "U+30A0",
+    "index": 95,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ァ",
+    "unicode": "U+30A1",
+    "index": 96,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 18
+  },
+  {
+    "char": "ア",
+    "unicode": "U+30A2",
+    "index": 97,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 1
+  },
+  {
+    "char": "ィ",
+    "unicode": "U+30A3",
+    "index": 98,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 18
+  },
+  {
+    "char": "イ",
+    "unicode": "U+30A4",
+    "index": 99,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 1
+  },
+  {
+    "char": "ゥ",
+    "unicode": "U+30A5",
+    "index": 100,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 18
+  },
+  {
+    "char": "ウ",
+    "unicode": "U+30A6",
+    "index": 101,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 1
+  },
+  {
+    "char": "ェ",
+    "unicode": "U+30A7",
+    "index": 102,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 18
+  },
+  {
+    "char": "エ",
+    "unicode": "U+30A8",
+    "index": 103,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 1
+  },
+  {
+    "char": "ォ",
+    "unicode": "U+30A9",
+    "index": 104,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 18
+  },
+  {
+    "char": "オ",
+    "unicode": "U+30AA",
+    "index": 105,
+    "board_index": 0,
+    "board_row": "あ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 1
+  },
+  {
+    "char": "カ",
+    "unicode": "U+30AB",
+    "index": 106,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ガ",
+    "unicode": "U+30AC",
+    "index": 107,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 12
+  },
+  {
+    "char": "キ",
+    "unicode": "U+30AD",
+    "index": 108,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ギ",
+    "unicode": "U+30AE",
+    "index": 109,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 12
+  },
+  {
+    "char": "ク",
+    "unicode": "U+30AF",
+    "index": 110,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "グ",
+    "unicode": "U+30B0",
+    "index": 111,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 12
+  },
+  {
+    "char": "ケ",
+    "unicode": "U+30B1",
+    "index": 112,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゲ",
+    "unicode": "U+30B2",
+    "index": 113,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 12
+  },
+  {
+    "char": "コ",
+    "unicode": "U+30B3",
+    "index": 114,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゴ",
+    "unicode": "U+30B4",
+    "index": 115,
+    "board_index": 1,
+    "board_row": "か",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 12
+  },
+  {
+    "char": "サ",
+    "unicode": "U+30B5",
+    "index": 116,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ザ",
+    "unicode": "U+30B6",
+    "index": 117,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 13
+  },
+  {
+    "char": "シ",
+    "unicode": "U+30B7",
+    "index": 118,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ジ",
+    "unicode": "U+30B8",
+    "index": 119,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 13
+  },
+  {
+    "char": "ス",
+    "unicode": "U+30B9",
+    "index": 120,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ズ",
+    "unicode": "U+30BA",
+    "index": 121,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 13
+  },
+  {
+    "char": "セ",
+    "unicode": "U+30BB",
+    "index": 122,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゼ",
+    "unicode": "U+30BC",
+    "index": 123,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 13
+  },
+  {
+    "char": "ソ",
+    "unicode": "U+30BD",
+    "index": 124,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ゾ",
+    "unicode": "U+30BE",
+    "index": 125,
+    "board_index": 2,
+    "board_row": "さ",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 13
+  },
+  {
+    "char": "タ",
+    "unicode": "U+30BF",
+    "index": 126,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ダ",
+    "unicode": "U+30C0",
+    "index": 127,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 14
+  },
+  {
+    "char": "チ",
+    "unicode": "U+30C1",
+    "index": 128,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヂ",
+    "unicode": "U+30C2",
+    "index": 129,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 14
+  },
+  {
+    "char": "ッ",
+    "unicode": "U+30C3",
+    "index": 130,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ツ",
+    "unicode": "U+30C4",
+    "index": 131,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヅ",
+    "unicode": "U+30C5",
+    "index": 132,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 14
+  },
+  {
+    "char": "テ",
+    "unicode": "U+30C6",
+    "index": 133,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "デ",
+    "unicode": "U+30C7",
+    "index": 134,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 14
+  },
+  {
+    "char": "ト",
+    "unicode": "U+30C8",
+    "index": 135,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ド",
+    "unicode": "U+30C9",
+    "index": 136,
+    "board_index": 3,
+    "board_row": "た",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 14
+  },
+  {
+    "char": "ナ",
+    "unicode": "U+30CA",
+    "index": 137,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ニ",
+    "unicode": "U+30CB",
+    "index": 138,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヌ",
+    "unicode": "U+30CC",
+    "index": 139,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ネ",
+    "unicode": "U+30CD",
+    "index": 140,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ノ",
+    "unicode": "U+30CE",
+    "index": 141,
+    "board_index": 4,
+    "board_row": "な",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ハ",
+    "unicode": "U+30CF",
+    "index": 142,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "バ",
+    "unicode": "U+30D0",
+    "index": 143,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 15
+  },
+  {
+    "char": "パ",
+    "unicode": "U+30D1",
+    "index": 144,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 16
+  },
+  {
+    "char": "ヒ",
+    "unicode": "U+30D2",
+    "index": 145,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ビ",
+    "unicode": "U+30D3",
+    "index": 146,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 15
+  },
+  {
+    "char": "ピ",
+    "unicode": "U+30D4",
+    "index": 147,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 16
+  },
+  {
+    "char": "フ",
+    "unicode": "U+30D5",
+    "index": 148,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ブ",
+    "unicode": "U+30D6",
+    "index": 149,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 15
+  },
+  {
+    "char": "プ",
+    "unicode": "U+30D7",
+    "index": 150,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 16
+  },
+  {
+    "char": "ヘ",
+    "unicode": "U+30D8",
+    "index": 151,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ベ",
+    "unicode": "U+30D9",
+    "index": 152,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 15
+  },
+  {
+    "char": "ペ",
+    "unicode": "U+30DA",
+    "index": 153,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 16
+  },
+  {
+    "char": "ホ",
+    "unicode": "U+30DB",
+    "index": 154,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ボ",
+    "unicode": "U+30DC",
+    "index": 155,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 15
+  },
+  {
+    "char": "ポ",
+    "unicode": "U+30DD",
+    "index": 156,
+    "board_index": 5,
+    "board_row": "は",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 16
+  },
+  {
+    "char": "マ",
+    "unicode": "U+30DE",
+    "index": 157,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ミ",
+    "unicode": "U+30DF",
+    "index": 158,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ム",
+    "unicode": "U+30E0",
+    "index": 159,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "メ",
+    "unicode": "U+30E1",
+    "index": 160,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "モ",
+    "unicode": "U+30E2",
+    "index": 161,
+    "board_index": 6,
+    "board_row": "ま",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ャ",
+    "unicode": "U+30E3",
+    "index": 162,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 17
+  },
+  {
+    "char": "ヤ",
+    "unicode": "U+30E4",
+    "index": 163,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ュ",
+    "unicode": "U+30E5",
+    "index": 164,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 17
+  },
+  {
+    "char": "ユ",
+    "unicode": "U+30E6",
+    "index": 165,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ョ",
+    "unicode": "U+30E7",
+    "index": 166,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 17
+  },
+  {
+    "char": "ヨ",
+    "unicode": "U+30E8",
+    "index": 167,
+    "board_index": 7,
+    "board_row": "や",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ラ",
+    "unicode": "U+30E9",
+    "index": 168,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "リ",
+    "unicode": "U+30EA",
+    "index": 169,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ル",
+    "unicode": "U+30EB",
+    "index": 170,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "レ",
+    "unicode": "U+30EC",
+    "index": 171,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ロ",
+    "unicode": "U+30ED",
+    "index": 172,
+    "board_index": 8,
+    "board_row": "ら",
+    "direction": 3,
+    "direction_name": "下滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヮ",
+    "unicode": "U+30EE",
+    "index": 173,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ワ",
+    "unicode": "U+30EF",
+    "index": 174,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 0,
+    "direction_name": "点击",
+    "subtype": 0
+  },
+  {
+    "char": "ヰ",
+    "unicode": "U+30F0",
+    "index": 175,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヱ",
+    "unicode": "U+30F1",
+    "index": 176,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 2,
+    "direction_name": "右滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヲ",
+    "unicode": "U+30F2",
+    "index": 177,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 4,
+    "direction_name": "左滑",
+    "subtype": 0
+  },
+  {
+    "char": "ン",
+    "unicode": "U+30F3",
+    "index": 178,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヴ",
+    "unicode": "U+30F4",
+    "index": 179,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヵ",
+    "unicode": "U+30F5",
+    "index": 180,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヶ",
+    "unicode": "U+30F6",
+    "index": 181,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヷ",
+    "unicode": "U+30F7",
+    "index": 182,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヸ",
+    "unicode": "U+30F8",
+    "index": 183,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヹ",
+    "unicode": "U+30F9",
+    "index": 184,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヺ",
+    "unicode": "U+30FA",
+    "index": 185,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "・",
+    "unicode": "U+30FB",
+    "index": 186,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ー",
+    "unicode": "U+30FC",
+    "index": 187,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヽ",
+    "unicode": "U+30FD",
+    "index": 188,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  },
+  {
+    "char": "ヾ",
+    "unicode": "U+30FE",
+    "index": 189,
+    "board_index": 9,
+    "board_row": "わ",
+    "direction": 1,
+    "direction_name": "上滑",
+    "subtype": 0
+  }
+]

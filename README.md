@@ -8,7 +8,7 @@
 
 - [下载汉化文件](https://github.com/HachiMiku39/mikuflick_chinese_localization/releases/tag/MikuFlick-CN)
 - iOS 10 相关安装记录请查看 [`HachiMiku39-patch-iOS10`](https://github.com/HachiMiku39/mikuflick_chinese_localization/tree/HachiMiku39-patch-iOS10) 分支
-- 本仓库不提供原版 IPA、商业歌曲、MV 或其他受版权保护的游戏资源
+- 本仓库不提供原版 IPA、商业歌曲或 MV；研究目录附有按 plist 裁切的界面图片及用途说明
 
 ## 目录
 
@@ -230,38 +230,29 @@ hello_planet.usm
 - 实机 MV 模式打开歌词后，中文显示成功
 - 这不代表游玩模式的逐字输入目标已经汉化
 
-### 5.4 逐字谱面 token
+### 5.4 逐字谱面：样本编码与实际读取规则
 
-前缀 `0` 可按以下结构解释：
+`hello_planet.usm` 首句的五档输入动作已由维护者实机反馈核对；`11` / `2` / `3` / `4` / `5` 与点击 / 上 / 右 / 下 / 左的对应，是该样本的**编码观察**。
+
+2026-10-05 对 MikuFlick2 1.1.5 的代码追踪补充了运行时规则：
 
 ```text
-0 + 假名字符 + EASY / NORMAL / HARD / EXTREME / BTL 五项操作代码
+charIdx = parameter.characterAtIndex(1) - 0x3041
+selector = intValue(parameter.substringWithRange(difficulty + 2, 1))
+
+selector == 0   → 创建不可判定字符
+selector 1...5  → 同一个 TelopType_Enable 函数
+
+BoardType / FlickResult → 按 charIdx 查假名映射表
 ```
 
-当前已验证的操作代码：
+因此，当前版本固定读取一位字符；没有在此调用链中发现按可变长度 `11` token 跳过后缀、或把 `2/3/4/5` 直接当作输入方向的代码。**键位和方向由假名决定，数字选择是否启用该难度的音符。**
 
-| 代码 | 操作 |
-|---:|---|
-| `0` | 该难度不出现此音符 |
-| `11` | 点击 |
-| `2` | 上滑 |
-| `3` | 右滑 |
-| `4` | 下滑 |
-| `5` | 左滑 |
+这不否定原有实机观察：本地 4233 条能按 `11` 规则拆分的记录，两种解释得出的启用掩码恰好一致。仅核对“出现几个音符”不足以区分读取规则。额外重复 `1` 的制谱工具来源仍为 TODO；直接改数字来改方向也尚未实机验证。
 
-`11` 是一个完整 token，不能按两个独立的 `1` 拆开。
+内部键位编号从 0 开始对应 `あ/か/さ/た/な/は/ま/や/ら/わ`；玩家侧编号仍可写成 `1/2/3/4/5/6/7/8/9/0`。内部方向编号为 `0=点击、1=上、2=右、3=下、4=左`。
 
-键位按五十音行映射：
-
-| 键 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 行 | あ | か | さ | た | な | は | ま | や | ら | わ |
-
-首句实机测试与解析完全吻合。例如：
-
-- `0ル22222`：各难度都是 9 键上滑
-- `0め03333`：NORMAL 以上为 7 键右滑
-- `0た1111111111`：五档均为 4 键点击
+实例：`ル` 为ら行上滑，`め` 为ま行右滑，`た` 为た行点击。完整表、固定位置读取证据和区分两种假设的实验方案见[详细机制研究](research/mikuflick2-1.1.5/mechanics.md)。
 
 ### 5.5 EASY 单音符禁用实测
 
@@ -306,7 +297,7 @@ time = 6540
 | `501111` | NORMAL 及以上的普通点击候选 |
 | `500111` | HARD 及以上的普通点击候选 |
 | `500011` | EXTREME / BTL 的普通点击候选 |
-| `502222` | 非普通点击状态，具体语义未确认 |
+| `502222` | NORMAL及以上调用 `EndInterludeMode`，退出间奏；不生成额外点击音符 |
 
 这里的状态 `2` 不能直接套用逐字事件中的上滑含义。
 
@@ -316,11 +307,11 @@ time = 6540
 |---:|---:|---|
 | `0` | 376 | 逐字谱面，已部分实测 |
 | `3` | 26 | 整句歌词 / 音乐符号，中文显示已实测 |
-| `4` | 37 | 小假名、长音等，完整语义 TODO |
+| `4` | 37 | 创建不可判定补充字符；完整显示效果仍需逐例核对 |
 | `5` | 48 | Interlude 状态，第一段 NORMAL 数量已吻合 |
-| `6` | 10 | 特殊事件，UNKNOWN |
-| `1` / `2` | 各 3 | 区段 / 显示切换候选，TODO |
-| `7` / `8` | 各 1 | 时间 0 初始化参数候选，TODO |
+| `6` | 10 | 按难度标记最近可接受Crimax的音符；COOL且Combo≥100加200分 |
+| `1` / `2` | 各 3 | 分别调用UI淡入 / 淡出控制 |
+| `7` / `8` | 各 1 | 分别设置NoteDelay（毫秒）/ BPM |
 
 ### 5.8 自制 Mov_18 的当前状态
 
@@ -372,6 +363,10 @@ Get-FileHash "hello_planet.usm" -Algorithm SHA1
 
 ## 6. MikuFlick2 1.1.5 游戏机制逆向
 
+本节为摘要。完整的[机制、数据和证据索引](research/mikuflick2-1.1.5/README.md)包含计分与判定细节、11首歌的五档物量、195项文件用途、数值表、假名输入映射以及供另一轮Codex复核的步骤。
+
+本次新增结论属于**当前样本的静态分析确认**；原仓库的实机实验单独注明，不把此次整理写成新增实机测试。
+
 ### 6.1 二进制信息
 
 ```text
@@ -380,6 +375,7 @@ Mach-O: ARMv7
 Fat/Universal: no
 LC_ENCRYPTION_INFO cryptid: 0
 Ghidra: 12.1.4
+SHA-256: 869caa22613c5ebfbde6b4c9e1a93362a4f30519231b6dfc9ac3ff31d414b87f
 ```
 
 当前样本代码段已解密，可以直接进行静态分析。
@@ -445,9 +441,11 @@ m_Cnt   = PlayCnt - m_BaseTime
 | 0~3 | COOL |
 | 4~7 | FINE |
 | 8~9 | SAFE |
-| 10 | SAD |
+| 10~11 | SAD |
 
-原版对晚按多给约 1 tick 的宽容。
+原版对晚按多给约1 tick的宽容。表格是单个端点的查表范围；通常TouchDown和TouchUp取较差判定，并存在提前按住的SAFE兜底。超窗返回NONE，不等同于立即WORST。
+
+BTL的可判定对象在`JustFrame+10`已失活，因此共享Back表不代表BTL仍可现场使用全部晚端窗口。
 
 ### 6.6 TouchDown / TouchUp 与 Flick
 
@@ -592,7 +590,7 @@ Start = 128
 Max   = 256
 ```
 
-开局正好 50%。
+内部数值开局为上限的50%；屏幕呈现与实际触摸延迟应按设备另行核对。
 
 判定权重：
 
@@ -604,7 +602,7 @@ Max   = 256
 | SAD | -5 |
 | WORST | -10 |
 
-谱面长度归一化系数约为：
+谱面长度归一化系数为以下float32表达式：
 
 ```text
 64 / TotalNotes + 0.01
@@ -615,7 +613,9 @@ Game Over 条件包括：
 1. Gauge <= 0
 2. 即使之后所有剩余 Note 都至少 SAFE，理论 SAFE-or-better 成功率仍已经低于 50%
 
-Gauge 还会影响主音频音量：
+手动判定先调用Gauge再记录当前判定，所以失败比例检查使用该调用时已有计数；超时WORST先记录再调用Gauge。`50%`本身不触发比例失败，低于它才触发。
+
+Gauge还会影响主音频音量：
 
 ```text
 volumeFactor = min(1.0, Gauge / 128 + 0.35)
@@ -693,26 +693,43 @@ E            → Sound 0x0A
 
 另外，存档中的 `PerfectClear` 与 Perfect Rank 不是同一个概念。结果代码会在 `MaxCombo == TotalNotes` 时写入 `SetPerfectClear`，因此它更接近全连状态。
 
-`BreakClear` 是 `MusicData` 的持久化布尔字段，会被编码进存档，但不参与 Total Score 计算；其玩家侧具体语义仍可继续研究。
+`BreakClear`是持久化字段，不参与Total Score。当前结果函数在`difficulty==4 && rank>3`（C/D/E）时写入true；这个条件已静态复核，但玩家侧设计含义仍需实机确认，不将其解释为“BTL高等级通关”。
+
+### 6.14 延迟、BPM与总物量
+
+- `7`后缀解析为NoteDelay毫秒；例如`71900`表示1900ms。
+- `8`后缀解析为BPM；例如`8150`表示150 BPM。
+- 总普通物量加载时扫描CUE重算：前缀0、当前难度的固定位置数字非0；总间奏只数前缀5状态1。
+- CUE触发时间不等于已校准的输入时刻；对象还应用NoteDelay、30Hz时钟取整及输入校准。
+- 歌曲表BPM不一定是最终BPM：《多重未来のカルテット》表值195，但时间0的`8150`把运行时值设为150。
+- Ghidra 12.1.4把`0xe5c6`的NEON立即数2误显示为0。原始指令与Apple otool确认140—149 BPM的行进时间为2秒，详见[复核说明](research/mikuflick2-1.1.5/verification.md)。
+
+### 6.15 Shuffle与资源对应
+
+用户将提供的按钮截图指认为Shuffle、随机选曲；尚未唯一匹配该截图的具体sprite。本包PV控制器的RANDOM模式3明确使用`shuffle_off/on`，后续选曲从随机起点循环寻找可用条目。资源、音效、结尾版权及待确认文件见[资源与操作映射](research/mikuflick2-1.1.5/resources.md)。
 
 ---
 
 ## 7. 当前仍未确认的部分
 
-- `ClearCrimax` 的真实调用时机
-- 第二套 `s_tblNoteNormal_Front / Back` 的完整用途
-- Replay 对判定结果的具体回放方式
-- `NoteThrow` / `NoteArrow` / `NoteWait`
-- `NoteInterlude.exec` 的完整动画与生命周期
-- StageManager 完整状态机
-- WindowGameWindow HUD 细节
-- Telop / SmallTelop
-- Lyrics / FadeIn / FadeOut / SetBPM / SetDelay 的完整控制链
-- TouchManager 的完整 Flick 手势识别算法
-- CRI 音视频与谱面同步的外围校正逻辑
-- 自制新曲包的完整注册、持久化与新增事件流程
+已补足Telop启用、SmallTelop不可判定、Lyrics的PV限制、Fade、SetDelay/SetBPM、第二份间奏时间表和基本Flick识别。下面保留未完成部分：
+
+- `ClearCrimax`的真实调用时机，Rainbow呈现与完整动画
+- Replay存取、注入顺序和整体一致性（仅看到普通判定接收回放结果的分支）
+- `NoteThrow` / `NoteArrow` / `NoteWait`的完整行为
+- `NoteInterlude.exec`完整生命周期与动画
+- StageManager完整状态机、WindowGameWindow HUD细节
+- CRI外围同步、设备触摸/音频延迟及输入校准实测
+- 额外重复`1`的制谱工具来源、改方向实验、完整自制谱面
+- BTL的SAFE/低判定边界与`BreakClear`玩家侧语义
+- 动态商店配置缺失时无法唯一确认的封面/缩略图加载、若干编号音效的具体触发
+- 新曲包注册、重启持久化与新增事件流程
+- 中文逐字输入；现有假名查表不能直接推广为通用汉字输入
+
+逐项证据、优先级和验证步骤见[下一轮复核清单](research/mikuflick2-1.1.5/verification.md)。
 
 ---
+
 
 ## 8. 工具与参考资料
 

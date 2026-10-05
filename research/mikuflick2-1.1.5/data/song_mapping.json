@@ -1,0 +1,386 @@
+[
+  {
+    "index": 0,
+    "table_address": "0x14094c",
+    "title": "恋は戦争",
+    "artwork": "music_00_01",
+    "preview_audio": "pv_001_lp",
+    "video": "koi_wa_sensou",
+    "bpm": 175,
+    "difficulty_values": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "artwork_index": 0,
+    "cue_count": 313,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "1": 2,
+      "3": 14,
+      "0": 241,
+      "4": 5,
+      "2": 2,
+      "5": 38,
+      "6": 9
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 175,
+        "parameter": "8175"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "table_address": "0x140970",
+    "title": "ハジメテノオト",
+    "artwork": "music_00_01",
+    "preview_audio": "pv_065_lp",
+    "video": "hajimete_no_oto",
+    "bpm": 100,
+    "difficulty_values": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "artwork_index": 1,
+    "cue_count": 430,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 19,
+      "1": 3,
+      "3": 28,
+      "0": 357,
+      "4": 4,
+      "2": 3,
+      "6": 14
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 100,
+        "parameter": "8100"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "table_address": "0x140994",
+    "title": "炉心融解",
+    "artwork": "music_00_01",
+    "preview_audio": "pv_054_lp",
+    "video": "roshin_yuukai",
+    "bpm": 165,
+    "difficulty_values": [
+      1,
+      2,
+      4,
+      6
+    ],
+    "artwork_index": 2,
+    "cue_count": 546,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 25,
+      "1": 3,
+      "3": 30,
+      "0": 461,
+      "4": 16,
+      "2": 3,
+      "6": 6
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 165,
+        "parameter": "8165"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "table_address": "0x1409b8",
+    "title": "右肩の蝶",
+    "artwork": "music_00_02",
+    "preview_audio": "pv_056_lp",
+    "video": "migikata_no_tyou",
+    "bpm": 140,
+    "difficulty_values": [
+      1,
+      3,
+      5,
+      7
+    ],
+    "artwork_index": 0,
+    "cue_count": 660,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 21,
+      "1": 3,
+      "3": 32,
+      "0": 530,
+      "4": 48,
+      "2": 3,
+      "6": 21
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 140,
+        "parameter": "8140"
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "table_address": "0x1409dc",
+    "title": "Just Be Friends",
+    "artwork": "music_00_02",
+    "preview_audio": "pv_066_lp",
+    "video": "Just_be_friends",
+    "bpm": 128,
+    "difficulty_values": [
+      2,
+      3,
+      5,
+      7
+    ],
+    "artwork_index": 1,
+    "cue_count": 734,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "1": 3,
+      "3": 44,
+      "0": 589,
+      "4": 51,
+      "6": 26,
+      "2": 3,
+      "5": 16
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 128,
+        "parameter": "8128"
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "table_address": "0x140a00",
+    "title": "クローバー・クラブ",
+    "artwork": "music_00_02",
+    "preview_audio": "pv_061_lp",
+    "video": "cloverclub",
+    "bpm": 150,
+    "difficulty_values": [
+      2,
+      3,
+      5,
+      7
+    ],
+    "artwork_index": 2,
+    "cue_count": 624,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 26,
+      "1": 2,
+      "3": 40,
+      "0": 466,
+      "4": 55,
+      "6": 31,
+      "2": 2
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 150,
+        "parameter": "8150"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "table_address": "0x140a24",
+    "title": "magnet",
+    "artwork": "music_00_03",
+    "preview_audio": "pv_044_lp",
+    "video": "magnet",
+    "bpm": 108,
+    "difficulty_values": [
+      2,
+      4,
+      6,
+      7
+    ],
+    "artwork_index": 0,
+    "cue_count": 462,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 83,
+      "1": 2,
+      "3": 24,
+      "0": 333,
+      "4": 4,
+      "2": 2,
+      "6": 12
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 108,
+        "parameter": "8108"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "table_address": "0x140a48",
+    "title": "Promise",
+    "artwork": "music_00_03",
+    "preview_audio": "pv_062_lp",
+    "video": "promise",
+    "bpm": 138,
+    "difficulty_values": [
+      2,
+      4,
+      6,
+      7
+    ],
+    "artwork_index": 1,
+    "cue_count": 457,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 97,
+      "1": 2,
+      "3": 28,
+      "0": 312,
+      "4": 3,
+      "6": 11,
+      "2": 2
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 138,
+        "parameter": "8138"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "table_address": "0x140a6c",
+    "title": "裏表ラバーズ",
+    "artwork": "music_00_03",
+    "preview_audio": "pv_082_lp",
+    "video": "ura_omote_lovers",
+    "bpm": 159,
+    "difficulty_values": [
+      3,
+      4,
+      7,
+      8
+    ],
+    "artwork_index": 2,
+    "cue_count": 1296,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 54,
+      "1": 3,
+      "3": 52,
+      "0": 1021,
+      "4": 116,
+      "2": 3,
+      "6": 45
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 159,
+        "parameter": "8159"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "table_address": "0x140a90",
+    "title": "初音ミクの激唱",
+    "artwork": "music_00_04",
+    "preview_audio": "pv_042_lp",
+    "video": "hatsune_miku_no_gekisyou",
+    "bpm": 200,
+    "difficulty_values": [
+      3,
+      5,
+      8,
+      9
+    ],
+    "artwork_index": 0,
+    "cue_count": 824,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 26,
+      "1": 2,
+      "3": 54,
+      "0": 697,
+      "2": 2,
+      "4": 15,
+      "6": 26
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 200,
+        "parameter": "8200"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "table_address": "0x140ab4",
+    "title": "多重未来のカルテット",
+    "artwork": "music_00_04",
+    "preview_audio": "pv_102_lp",
+    "video": "tajyuumirai_no_quartet",
+    "bpm": 195,
+    "difficulty_values": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "artwork_index": 1,
+    "cue_count": 472,
+    "cue_commands": {
+      "7": 1,
+      "8": 1,
+      "5": 144,
+      "1": 2,
+      "0": 273,
+      "3": 20,
+      "4": 29,
+      "2": 2
+    },
+    "cue_bpm_events": [
+      {
+        "time_ms": 0,
+        "bpm": 150,
+        "parameter": "8150"
+      }
+    ]
+  }
+]

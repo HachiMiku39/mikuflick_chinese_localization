@@ -1,0 +1,3318 @@
+[
+  {
+    "file": "._BGM01.caf",
+    "bytes": 4096,
+    "category": "辅助元数据",
+    "role": "macOS AppleDouble 附属元数据；对应同名 CAF 文件",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "._BGM02.caf",
+    "bytes": 4096,
+    "category": "辅助元数据",
+    "role": "macOS AppleDouble 附属元数据；对应同名 CAF 文件",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "._BGM03.caf",
+    "bytes": 4096,
+    "category": "辅助元数据",
+    "role": "macOS AppleDouble 附属元数据；对应同名 CAF 文件",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "AppIcon29x29.png",
+    "bytes": 5149,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：AppIcon29x29~ipad.png, Appleicon_miku_29x29_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      29,
+      29
+    ],
+    "identical_files": [
+      "AppIcon29x29~ipad.png",
+      "Appleicon_miku_29x29_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon29x29@2x.png",
+    "bytes": 11278,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：AppIcon29x29@2x~ipad.png, Appleicon_miku_58x58_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      58,
+      58
+    ],
+    "identical_files": [
+      "AppIcon29x29@2x~ipad.png",
+      "Appleicon_miku_58x58_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon29x29@2x~ipad.png",
+    "bytes": 11278,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：AppIcon29x29@2x.png, Appleicon_miku_58x58_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      58,
+      58
+    ],
+    "identical_files": [
+      "AppIcon29x29@2x.png",
+      "Appleicon_miku_58x58_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon29x29~ipad.png",
+    "bytes": 5149,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：AppIcon29x29.png, Appleicon_miku_29x29_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      29,
+      29
+    ],
+    "identical_files": [
+      "AppIcon29x29.png",
+      "Appleicon_miku_29x29_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon40x40@2x.png",
+    "bytes": 17995,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：AppIcon40x40@2x~ipad.png, Appleicon_miku_80x80_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      80,
+      80
+    ],
+    "identical_files": [
+      "AppIcon40x40@2x~ipad.png",
+      "Appleicon_miku_80x80_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon40x40@2x~ipad.png",
+    "bytes": 17995,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：AppIcon40x40@2x.png, Appleicon_miku_80x80_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      80,
+      80
+    ],
+    "identical_files": [
+      "AppIcon40x40@2x.png",
+      "Appleicon_miku_80x80_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon40x40~ipad.png",
+    "bytes": 7078,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_40x40_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      40,
+      40
+    ],
+    "identical_files": [
+      "Appleicon_miku_40x40_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon50x50@2x~ipad.png",
+    "bytes": 25451,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_100x100_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      100,
+      100
+    ],
+    "identical_files": [
+      "Appleicon_miku_100x100_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon50x50~ipad.png",
+    "bytes": 9266,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_50x50_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      50,
+      50
+    ],
+    "identical_files": [
+      "Appleicon_miku_50x50_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon57x57.png",
+    "bytes": 8253,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_57x57_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      57,
+      57
+    ],
+    "identical_files": [
+      "Appleicon_miku_57x57_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon57x57@2x.png",
+    "bytes": 28345,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_114x114_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      114,
+      114
+    ],
+    "identical_files": [
+      "Appleicon_miku_114x114_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon60x60@2x.png",
+    "bytes": 30997,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_120x120_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      120,
+      120
+    ],
+    "identical_files": [
+      "Appleicon_miku_120x120_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon72x72@2x~ipad.png",
+    "bytes": 42602,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_144x144_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      144,
+      144
+    ],
+    "identical_files": [
+      "Appleicon_miku_144x144_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon72x72~ipad.png",
+    "bytes": 12595,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_72x72_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      72,
+      72
+    ],
+    "identical_files": [
+      "Appleicon_miku_72x72_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon76x76@2x~ipad.png",
+    "bytes": 46840,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_152x152_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      152,
+      152
+    ],
+    "identical_files": [
+      "Appleicon_miku_152x152_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "AppIcon76x76~ipad.png",
+    "bytes": 13874,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名",
+      "字节完全相同：Appleicon_miku_76x76_Flatdesign.png"
+    ],
+    "references": [],
+    "image_size": [
+      76,
+      76
+    ],
+    "identical_files": [
+      "Appleicon_miku_76x76_Flatdesign.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_100x100_Flatdesign.png",
+    "bytes": 25451,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon50x50@2x~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      100,
+      100
+    ],
+    "identical_files": [
+      "AppIcon50x50@2x~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_1024x1024_Flatdesign.png",
+    "bytes": 1293275,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Appleicon_miku_114x114_Flatdesign.png",
+    "bytes": 28345,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon57x57@2x.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      114,
+      114
+    ],
+    "identical_files": [
+      "AppIcon57x57@2x.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_120x120_Flatdesign.png",
+    "bytes": 30997,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon60x60@2x.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      120,
+      120
+    ],
+    "identical_files": [
+      "AppIcon60x60@2x.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_144x144_Flatdesign.png",
+    "bytes": 42602,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon72x72@2x~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      144,
+      144
+    ],
+    "identical_files": [
+      "AppIcon72x72@2x~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_152x152_Flatdesign.png",
+    "bytes": 46840,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon76x76@2x~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      152,
+      152
+    ],
+    "identical_files": [
+      "AppIcon76x76@2x~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_29x29_Flatdesign.png",
+    "bytes": 5149,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon29x29.png, AppIcon29x29~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      29,
+      29
+    ],
+    "identical_files": [
+      "AppIcon29x29.png",
+      "AppIcon29x29~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_40x40_Flatdesign.png",
+    "bytes": 7078,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon40x40~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      40,
+      40
+    ],
+    "identical_files": [
+      "AppIcon40x40~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_50x50_Flatdesign.png",
+    "bytes": 9266,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon50x50~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      50,
+      50
+    ],
+    "identical_files": [
+      "AppIcon50x50~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_512x512_Flatdesign.png",
+    "bytes": 380851,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      512,
+      512
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Appleicon_miku_57x57_Flatdesign.png",
+    "bytes": 8253,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon57x57.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      57,
+      57
+    ],
+    "identical_files": [
+      "AppIcon57x57.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_58x58_Flatdesign.png",
+    "bytes": 11278,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon29x29@2x.png, AppIcon29x29@2x~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      58,
+      58
+    ],
+    "identical_files": [
+      "AppIcon29x29@2x.png",
+      "AppIcon29x29@2x~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_60x60_Flatdesign.png",
+    "bytes": 9119,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      60,
+      60
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Appleicon_miku_72x72_Flatdesign.png",
+    "bytes": 12595,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon72x72~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      72,
+      72
+    ],
+    "identical_files": [
+      "AppIcon72x72~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_76x76_Flatdesign.png",
+    "bytes": 13874,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon76x76~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      76,
+      76
+    ],
+    "identical_files": [
+      "AppIcon76x76~ipad.png"
+    ]
+  },
+  {
+    "file": "Appleicon_miku_80x80_Flatdesign.png",
+    "bytes": 17995,
+    "category": "应用图标",
+    "role": "初音应用图标的设计导出尺寸版本",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "字节完全相同：AppIcon40x40@2x.png, AppIcon40x40@2x~ipad.png",
+      "不在Info.plist图标配置中；主程序中未找到Appleicon文件名前缀引用。可确认内容为图标，但不能证明会被系统或程序选中"
+    ],
+    "references": [],
+    "image_size": [
+      80,
+      80
+    ],
+    "identical_files": [
+      "AppIcon40x40@2x.png",
+      "AppIcon40x40@2x~ipad.png"
+    ]
+  },
+  {
+    "file": "BGM01.caf",
+    "bytes": 3724444,
+    "category": "音效/背景音乐",
+    "role": "标题页背景音乐",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[22]，loop=True",
+      "-[WindowTitle loadTexture] @ 0x50e74 → PlayBGM:(22)",
+      "-[WindowTitle exec] @ 0x510a8 → PlayBGM:(22)",
+      "时长 79.397755 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "BGM02.caf",
+    "bytes": 2285564,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[23]，loop=True",
+      "时长 48.689864 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "BGM03.caf",
+    "bytes": 2751092,
+    "category": "音效/背景音乐",
+    "role": "设置、成绩、记录、附加曲包界面的背景音乐",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[24]，loop=True",
+      "-[WindowAdditionalPackage loadTexture] @ 0x30c4e → PlayBGM:(24)",
+      "-[WindowOption loadTexture] @ 0x444ce → PlayBGM:(24)",
+      "-[WindowRecord loadTexture] @ 0x48568 → PlayBGM:(24)",
+      "-[WindowScore loadTexture] @ 0x5011c → PlayBGM:(24)",
+      "时长 58.625306 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "BGM04.caf",
+    "bytes": 3829368,
+    "category": "音效/背景音乐",
+    "role": "结尾滚动名单背景音乐",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[25]，loop=True",
+      "-[WindowEnding init] @ 0x38b8e → PlayBGM:(25)",
+      "时长 81.637687 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "BGM05.caf",
+    "bytes": 3002964,
+    "category": "音效/背景音乐",
+    "role": "游戏结算界面背景音乐",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[26]，loop=True",
+      "-[WindowResult loadTexture] @ 0x4bad8 → PlayBGM:(26)",
+      "时长 64.000091 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "DebugViewController.nib",
+    "bytes": 12032,
+    "category": "原生界面",
+    "role": "调试视图：跳过、输入模式、回放/录制/双人模式等按钮和开关；常规用户流程是否可进入待确认",
+    "confidence": "确认",
+    "evidence": [
+      "已解码 NSKeyedArchiver 对象图"
+    ],
+    "references": []
+  },
+  {
+    "file": "Icon-72.png",
+    "bytes": 16615,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名"
+    ],
+    "references": [],
+    "image_size": [
+      72,
+      72
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Icon-Small-50.png",
+    "bytes": 8387,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名"
+    ],
+    "references": [],
+    "image_size": [
+      50,
+      50
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Icon-Small.png",
+    "bytes": 3651,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名"
+    ],
+    "references": [],
+    "image_size": [
+      29,
+      29
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Icon-Small@2x.png",
+    "bytes": 10695,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名"
+    ],
+    "references": [],
+    "image_size": [
+      58,
+      58
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Icon.png",
+    "bytes": 11921,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名"
+    ],
+    "references": [],
+    "image_size": [
+      57,
+      57
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Icon@2x.png",
+    "bytes": 34008,
+    "category": "应用图标",
+    "role": "iOS桌面/设置/系统使用的应用图标变体",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 图标配置及尺寸命名"
+    ],
+    "references": [],
+    "image_size": [
+      114,
+      114
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "Info.plist",
+    "bytes": 2356,
+    "category": "应用配置",
+    "role": "应用启动入口、版本、Bundle ID、最低iOS、图标、启动图、设备与显示方向配置",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "J01_01.caf",
+    "bytes": 164780,
+    "category": "音效/背景音乐",
+    "role": "解锁通知执行时的提示音",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[16]，loop=False",
+      "-[WindowUnlock exec] @ 0x52576 → Play:(16)",
+      "时长 3.428594 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "Just_be_friends.usm",
+    "bytes": 97890720,
+    "category": "歌曲/PV",
+    "role": "《Just Be Friends》游戏/PV资源：一条视频、两条ADX音轨、734条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第4项，地址0x1409dc",
+      "完整扫描USM块；320×480，20fps，3897帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "LaunchImage-568h@2x.png",
+    "bytes": 541455,
+    "category": "启动",
+    "role": "iOS启动时显示的静态加载画面；对应不同分辨率/设备/iOS配置",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 的 UILaunchImageFile/UILaunchImages 配置",
+      "字节完全相同：LaunchImage-700-568h@2x.png"
+    ],
+    "references": [],
+    "image_size": [
+      640,
+      1136
+    ],
+    "identical_files": [
+      "LaunchImage-700-568h@2x.png"
+    ]
+  },
+  {
+    "file": "LaunchImage-700-568h@2x.png",
+    "bytes": 541455,
+    "category": "启动",
+    "role": "iOS启动时显示的静态加载画面；对应不同分辨率/设备/iOS配置",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 的 UILaunchImageFile/UILaunchImages 配置",
+      "字节完全相同：LaunchImage-568h@2x.png"
+    ],
+    "references": [],
+    "image_size": [
+      640,
+      1136
+    ],
+    "identical_files": [
+      "LaunchImage-568h@2x.png"
+    ]
+  },
+  {
+    "file": "LaunchImage-700-Portrait~ipad.png",
+    "bytes": 396565,
+    "category": "启动",
+    "role": "iOS启动时显示的静态加载画面；对应不同分辨率/设备/iOS配置",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 的 UILaunchImageFile/UILaunchImages 配置",
+      "字节完全相同：LaunchImage-Portrait~ipad.png, ipad_top.png"
+    ],
+    "references": [],
+    "image_size": [
+      768,
+      1024
+    ],
+    "identical_files": [
+      "LaunchImage-Portrait~ipad.png",
+      "ipad_top.png"
+    ]
+  },
+  {
+    "file": "LaunchImage-700@2x.png",
+    "bytes": 540294,
+    "category": "启动",
+    "role": "iOS启动时显示的静态加载画面；对应不同分辨率/设备/iOS配置",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 的 UILaunchImageFile/UILaunchImages 配置",
+      "字节完全相同：LaunchImage@2x.png"
+    ],
+    "references": [],
+    "image_size": [
+      640,
+      960
+    ],
+    "identical_files": [
+      "LaunchImage@2x.png"
+    ]
+  },
+  {
+    "file": "LaunchImage-Portrait~ipad.png",
+    "bytes": 396565,
+    "category": "启动",
+    "role": "iOS启动时显示的静态加载画面；对应不同分辨率/设备/iOS配置",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 的 UILaunchImageFile/UILaunchImages 配置",
+      "字节完全相同：LaunchImage-700-Portrait~ipad.png, ipad_top.png"
+    ],
+    "references": [],
+    "image_size": [
+      768,
+      1024
+    ],
+    "identical_files": [
+      "LaunchImage-700-Portrait~ipad.png",
+      "ipad_top.png"
+    ]
+  },
+  {
+    "file": "LaunchImage@2x.png",
+    "bytes": 540294,
+    "category": "启动",
+    "role": "iOS启动时显示的静态加载画面；对应不同分辨率/设备/iOS配置",
+    "confidence": "确认",
+    "evidence": [
+      "Info.plist 的 UILaunchImageFile/UILaunchImages 配置",
+      "字节完全相同：LaunchImage-700@2x.png"
+    ],
+    "references": [],
+    "image_size": [
+      640,
+      960
+    ],
+    "identical_files": [
+      "LaunchImage-700@2x.png"
+    ]
+  },
+  {
+    "file": "MikuFlick2",
+    "bytes": 2421392,
+    "category": "程序",
+    "role": "ARMv7 主程序：场景切换、按钮操作、音效、11首预装曲表、76项结尾名单、谱面指令处理",
+    "confidence": "确认",
+    "evidence": [
+      "Mach-O arm_v7；LC_ENCRYPTION_INFO cryptid=0；保留大量 Objective-C/C++ 符号"
+    ],
+    "references": []
+  },
+  {
+    "file": "MikuFlick2ViewController-4inch.nib",
+    "bytes": 2296,
+    "category": "原生界面",
+    "role": "4英寸iPhone主视图布局",
+    "confidence": "确认",
+    "evidence": [
+      "已解码 NSKeyedArchiver 对象图",
+      "-[MikuFlick2AppDelegate application:didFinishLaunchingWithOptions:] @ 0x183e4 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[MikuFlick2AppDelegate application:didFinishLaunchingWithOptions:]",
+        "address": "0x183e4"
+      }
+    ]
+  },
+  {
+    "file": "MikuFlick2ViewController-iPad.nib/objects-8.0+.nib",
+    "bytes": 3304,
+    "category": "原生界面",
+    "role": "iPad主视图布局，含EAGLView、topImage、topMask和ipad_top.png；objects/runtime为归档变体",
+    "confidence": "确认",
+    "evidence": [
+      "已解码 NSKeyedArchiver 对象图"
+    ],
+    "references": []
+  },
+  {
+    "file": "MikuFlick2ViewController-iPad.nib/objects.nib",
+    "bytes": 3304,
+    "category": "原生界面",
+    "role": "iPad主视图布局，含EAGLView、topImage、topMask和ipad_top.png；objects/runtime为归档变体",
+    "confidence": "确认",
+    "evidence": [
+      "已解码 NSKeyedArchiver 对象图"
+    ],
+    "references": []
+  },
+  {
+    "file": "MikuFlick2ViewController-iPad.nib/runtime.nib",
+    "bytes": 3304,
+    "category": "原生界面",
+    "role": "iPad主视图布局，含EAGLView、topImage、topMask和ipad_top.png；objects/runtime为归档变体",
+    "confidence": "确认",
+    "evidence": [
+      "已解码 NSKeyedArchiver 对象图"
+    ],
+    "references": []
+  },
+  {
+    "file": "MikuFlick2ViewController.nib",
+    "bytes": 2296,
+    "category": "原生界面",
+    "role": "原生 EAGLView 和加载指示器的界面布局",
+    "confidence": "确认",
+    "evidence": [
+      "已解码 NSKeyedArchiver 对象图",
+      "-[MikuFlick2AppDelegate application:didFinishLaunchingWithOptions:] @ 0x183f0 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[MikuFlick2AppDelegate application:didFinishLaunchingWithOptions:]",
+        "address": "0x183f0"
+      }
+    ]
+  },
+  {
+    "file": "MusicSelect.caf",
+    "bytes": 26672,
+    "category": "音效/背景音乐",
+    "role": "切换选曲标题、切换记录文字区域的反馈",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[15]，loop=False",
+      "-[WindowMusicSelect updateTitle::] @ 0x401da → Play:(15)",
+      "-[WindowRecord IsNextTextArea] @ 0x49582 → Play:(15)",
+      "时长 0.480363 秒",
+      "__GLOBAL__I_a @ 0x34a88 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "__GLOBAL__I_a",
+        "address": "0x34a88"
+      }
+    ]
+  },
+  {
+    "file": "Na_SEGA_09_keep.caf",
+    "bytes": 124184,
+    "category": "音效/背景音乐",
+    "role": "标题/启动流程中的 SEGA 语音资源",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[27]，loop=False",
+      "-[WindowTitle exec] @ 0x510de → PlayBGM:(27)",
+      "时长 2.562880 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "Na_Title_A_03_keep.caf",
+    "bytes": 116704,
+    "category": "音效/背景音乐",
+    "role": "标题/启动流程中的标题语音资源",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[28]，loop=False",
+      "-[WindowTitle exec] @ 0x51284 → Play:(28)",
+      "时长 2.402766 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "NoahSDK1.5.1.txt",
+    "bytes": 0,
+    "category": "SDK辅助",
+    "role": "空的Noah SDK版本/打包标记文件",
+    "confidence": "确认",
+    "evidence": [
+      "文件大小0字节"
+    ],
+    "references": []
+  },
+  {
+    "file": "PkgInfo",
+    "bytes": 8,
+    "category": "应用配置",
+    "role": "应用包类型APPL及签名标识",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "ResourceRules.plist",
+    "bytes": 168,
+    "category": "签名配置",
+    "role": "应用签名时的资源处理规则",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "SE01.caf",
+    "bytes": 50948,
+    "category": "音效/背景音乐",
+    "role": "高潮段 COOL 奖励反馈：CrimaxMode开启、combo≥100且判定为COOL时，增加200奖励分并播放",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[0]，loop=False",
+      "-[NoteNormal checkResult::::] @ 0x23282 → Play:(0)",
+      "时长 0.999819 秒",
+      "+[SoundManager Load1st] @ 0x18b10 引用资源名称",
+      "NoteNormal checkResult:::: @ 0x22e10；共享 Play 调用 @ 0x23282",
+      "分支编号与 _s_szSoundFile 的30项文件表交叉核对"
+    ],
+    "references": [
+      {
+        "method": "+[SoundManager Load1st]",
+        "address": "0x18b10"
+      }
+    ]
+  },
+  {
+    "file": "SE01_01.caf",
+    "bytes": 24632,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[17]，loop=False",
+      "时长 0.437551 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE01_03.caf",
+    "bytes": 37280,
+    "category": "音效/背景音乐",
+    "role": "SAFE 判定音效；结果编号3选择声音编号18",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[18]，loop=False",
+      "-[NoteNormal checkResult::::] @ 0x23282 → Play:(18)",
+      "时长 0.708163 秒",
+      "NoteNormal checkResult:::: @ 0x22e10；共享 Play 调用 @ 0x23282",
+      "分支编号与 _s_szSoundFile 的30项文件表交叉核对",
+      "s_tblResultEffect[3] → evaluation_02.png，实际图片文字 Safe"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE02.caf",
+    "bytes": 29188,
+    "category": "音效/背景音乐",
+    "role": "FINE 与普通 COOL 判定反馈；全部间奏输入成功时也用于39分奖励提示",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[1]，loop=False",
+      "-[NoteNormal checkResult::::] @ 0x23282 → Play:(1)",
+      "-[NoteInterlude checkResult::::] @ 0x30216 → Play:(1)",
+      "时长 0.534875 秒",
+      "NoteNormal checkResult:::: @ 0x22e10；共享 Play 调用 @ 0x23282",
+      "分支编号与 _s_szSoundFile 的30项文件表交叉核对",
+      "NoteInterlude checkResult @ 0x2ffdc：成功数达到当前难度的总间奏数时播放编号1"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE02_01.caf",
+    "bytes": 67200,
+    "category": "音效/背景音乐",
+    "role": "共用点击/确认音：开始、暂停、重试、返回菜单、难度、键盘、商店等大量按钮",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[19]，loop=False",
+      "-[TouchReinstall touchUp:] @ 0x23a16 → Play:(19)",
+      "-[WindowAdditionalPackage MovePackageToMusic:] @ 0x319aa → Play:(19)",
+      "-[WindowAdditionalPackage MoveMusicToShop] @ 0x31aa4 → Play:(19)",
+      "-[WindowAdditionalPackage CallBuyPackage:] @ 0x32180 → Play:(19)",
+      "-[WindowOption TouchButton::] @ 0x453ce → Play:(19)",
+      "-[WindowRecord UpdateDifficultButton:] @ 0x4a950 → Play:(19)",
+      "-[WindowRecord TouchButton::] @ 0x4b032 → Play:(19)",
+      "-[WindowTitle touchUp:] @ 0x51c7e → Play:(19)",
+      "-[TouchGotoScore touchUp:] @ 0x6378e → Play:(19)",
+      "-[TouchResultChange touchUp:] @ 0x63ea2 → Play:(19)",
+      "-[TouchCommonButton touchUp:] @ 0x64d6a → Play:(19)",
+      "-[TouchPopReplay touchUp:] @ 0x6767e → Play:(19)",
+      "-[TouchRetry touchUp:] @ 0x6a41a → Play:(19)",
+      "-[TouchTitleMenus touchUp:] @ 0x6b182 → Play:(19)",
+      "-[TouchGotoOption touchUp:] @ 0x6bffe → Play:(19)",
+      "-[TouchGotoShop touchUp:] @ 0x6c782 → Play:(19)",
+      "-[TouchHelpPage touchUp:] @ 0x6d126 → Play:(19)",
+      "-[TouchMusicSelect touchUp:] @ 0x6dad6 → Play:(19)",
+      "-[TouchDifficulty touchUp:] @ 0x70640 → Play:(19)",
+      "-[TouchFlowerType touchUp:] @ 0x70a3a → Play:(19)",
+      "-[TouchGotoPVView touchUp:] @ 0x7103a → Play:(19)",
+      "-[TouchModeChange touchUp:] @ 0x71316 → Play:(19)",
+      "-[TouchPanelSelect touchUp:] @ 0x716ba → Play:(19)",
+      "-[TouchPVLoopMode touchUp:] @ 0x71f02 → Play:(19)",
+      "-[TouchHelpScroll touchUp:] @ 0x7254e → Play:(19)",
+      "-[TouchPause touchUp:] @ 0x729c4 → Play:(19)",
+      "-[TouchReturn touchUp:] @ 0x72ef2 → Play:(19)",
+      "-[TouchHandSide touchUp:] @ 0x7330a → Play:(19)",
+      "-[TouchKeyBoardSelect touchUp:] @ 0x736ea → Play:(19)",
+      "-[TouchPVProgram touchUp:] @ 0x73b42 → Play:(19)",
+      "-[TouchGotoWeb touchUp:] @ 0x7412e → Play:(19)",
+      "-[TouchGotoReplay touchUp:] @ 0x7460e → Play:(19)",
+      "-[TouchShopExecution touchUp:] @ 0x74b52 → Play:(19)",
+      "-[TouchBuy touchUp:] @ 0x74fee → Play:(19)",
+      "-[TouchSelectStoreMusic touchUp:] @ 0x761d6 → Play:(19)",
+      "-[TouchRestore touchUp:] @ 0x7b8b2 → Play:(19)",
+      "-[TouchChangeAspect touchUp:] @ 0x7c278 → Play:(19)",
+      "-[TouchPauseEnable touchUp:] @ 0x7ca5a → Play:(19)",
+      "-[TouchFailSoundEnable touchUp:] @ 0x7d432 → Play:(19)",
+      "-[TouchGotoOffer touchUp:] @ 0x8940e → Play:(19)",
+      "时长 1.346009 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE03.caf",
+    "bytes": 63324,
+    "category": "音效/背景音乐",
+    "role": "SAD 判定/输入失败反馈；IsDisableFailSound 为真时跳过播放",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[2]，loop=False",
+      "-[NoteNormal checkResult::::] @ 0x23282 → Play:(2)",
+      "时长 1.263175 秒",
+      "NoteNormal checkResult:::: @ 0x22e10；共享 Play 调用 @ 0x23282",
+      "分支编号与 _s_szSoundFile 的30项文件表交叉核对"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE04.caf",
+    "bytes": 29460,
+    "category": "音效/背景音乐",
+    "role": "间奏输入成功音效：间奏判定结果>3时播放编号3",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[3]，loop=False",
+      "-[NoteInterlude checkResult::::] @ 0x30152 → Play:(3)",
+      "时长 0.540023 秒",
+      "NoteInterlude checkResult @ 0x2ffdc"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE04_01.caf",
+    "bytes": 7768,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[20]，loop=False",
+      "时长 0.077914 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE04v2.caf",
+    "bytes": 8108,
+    "category": "音效/背景音乐",
+    "role": "WindowCounter 计数显示激活时播放的循环音效",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[29]，loop=True",
+      "-[WindowCounter Active] @ 0x35db0 → Play:(29)",
+      "时长 0.085034 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE05.caf",
+    "bytes": 15792,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[4]，loop=False",
+      "时长 0.248662 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE05_01.caf",
+    "bytes": 63256,
+    "category": "音效/背景音乐",
+    "role": "结算切换到最高分/新纪录模式时的提示音",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[21]，loop=False",
+      "-[WindowResult setHighScoreMode] @ 0x4b85e → Play:(21)",
+      "时长 1.261134 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE06.caf",
+    "bytes": 63324,
+    "category": "音效/背景音乐",
+    "role": "弹出确认对话框的提示音",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[5]，loop=False",
+      "-[TouchBase CreateDialogTitle:Yes:No:Res:] @ 0x76b26 → Play:(5)",
+      "时长 1.263175 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE07.caf",
+    "bytes": 40612,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[6]，loop=False",
+      "时长 0.778413 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE08.caf",
+    "bytes": 66928,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[7]，loop=False",
+      "时长 1.340068 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE09.caf",
+    "bytes": 50948,
+    "category": "音效/背景音乐",
+    "role": "返回按钮、记录页面不可选/边界等反馈",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[8]，loop=False",
+      "-[WindowRecord UpdateDifficultButton:] @ 0x4a8aa → Play:(8)",
+      "-[WindowRecord UpdateDifficultButton:] @ 0x4a9d2 → Play:(8)",
+      "-[TouchBack touchUp:] @ 0x6ee74 → Play:(8)",
+      "时长 0.999819 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE10.caf",
+    "bytes": 15248,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[9]，loop=False",
+      "时长 0.237007 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE11.caf",
+    "bytes": 44148,
+    "category": "音效/背景音乐",
+    "role": "结算评级 E / Game Over 的音效：计分动画结束后播放",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[10]，loop=False",
+      "-[WindowResult exec] @ 0x4db36 → Play:(10)",
+      "时长 0.854626 秒",
+      "WindowResult exec @ 0x4d6ac：m_Rank=6 → SoundManager Play(10)",
+      "WindowResult Render @ 0x4e8a8：0使用 perfect.png，1～6使用 clearrank_00～05（S、A、B、C、D、E）",
+      "WindowResult loadTexture @ 0x4ba80：IsGameOver 时设置 m_Rank=6"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE12.caf",
+    "bytes": 37008,
+    "category": "音效/背景音乐",
+    "role": "结算评级 B / C / D 的音效：计分动画结束后播放",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[11]，loop=False",
+      "-[WindowResult exec] @ 0x4d77c → Play:(11)",
+      "时长 0.701905 秒",
+      "WindowResult exec @ 0x4d6ac：m_Rank=3 / 4 / 5 → SoundManager Play(11)",
+      "WindowResult Render @ 0x4e8a8：0使用 perfect.png，1～6使用 clearrank_00～05（S、A、B、C、D、E）",
+      "WindowResult loadTexture @ 0x4ba80：IsGameOver 时设置 m_Rank=6"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE13.caf",
+    "bytes": 81140,
+    "category": "音效/背景音乐",
+    "role": "结算评级 S / A 的音效：计分动画结束后播放",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[12]，loop=False",
+      "-[WindowResult exec] @ 0x4daf6 → Play:(12)",
+      "时长 1.642902 秒",
+      "WindowResult exec @ 0x4d6ac：m_Rank=1 / 2 → SoundManager Play(12)",
+      "WindowResult Render @ 0x4e8a8：0使用 perfect.png，1～6使用 clearrank_00～05（S、A、B、C、D、E）",
+      "WindowResult loadTexture @ 0x4ba80：IsGameOver 时设置 m_Rank=6"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE14.caf",
+    "bytes": 153356,
+    "category": "音效/背景音乐",
+    "role": "结算评级 Perfect 的音效：计分动画结束后播放",
+    "confidence": "确认",
+    "evidence": [
+      "_s_szSoundFile[13]，loop=False",
+      "-[WindowResult exec] @ 0x4db16 → Play:(13)",
+      "时长 3.184172 秒",
+      "WindowResult exec @ 0x4d6ac：m_Rank=0 → SoundManager Play(13)",
+      "WindowResult Render @ 0x4e8a8：0使用 perfect.png，1～6使用 clearrank_00～05（S、A、B、C、D、E）",
+      "WindowResult loadTexture @ 0x4ba80：IsGameOver 时设置 m_Rank=6"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE15.caf",
+    "bytes": 228836,
+    "category": "音效/背景音乐",
+    "role": "已注册的音频资源，当前未定位到明确的播放触发",
+    "confidence": "触发待确认",
+    "evidence": [
+      "_s_szSoundFile[14]，loop=False",
+      "时长 4.795306 秒",
+      "Ghidra已审查SoundManager播放函数和选择子可解析的全部调用者；尚未恢复到该编号的直接播放路径，仍不能据此断言从未使用"
+    ],
+    "references": []
+  },
+  {
+    "file": "SE16.caf",
+    "bytes": 22796,
+    "category": "音效/背景音乐",
+    "role": "包内音效；未出现在已恢复的30项 SoundManager 文件表中",
+    "confidence": "触发待确认",
+    "evidence": [
+      "时长 0.397664 秒",
+      "不在30项SoundManager文件表内；当前主程序字符串及已恢复的直接音效调用未出现该文件名，保留为残留资源候选"
+    ],
+    "references": []
+  },
+  {
+    "file": "UI_tex_01.plist",
+    "bytes": 9579,
+    "category": "图集索引",
+    "role": "UI_tex_01.png 的裁切索引，共101张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowPVSelect loadTexture] @ 0x45aba 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowPVSelect loadTexture]",
+        "address": "0x45aba"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_01.png",
+    "bytes": 401057,
+    "category": "界面图集",
+    "role": "标题、选曲、难度选择、PV播放设置等共用按钮和装饰",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_01.plist 索引 101 个sprite",
+      "-[WindowPVSelect loadTexture] @ 0x45aba 引用资源名称",
+      "补充：PV Shuffle随机选曲资源为shuffle_off/on，TouchPVLoopMode mode3使用帧86/87；GotoNextPV读取flag3并调用Rand。用户截图另已指认随机选曲，未唯一匹配具体sprite。"
+    ],
+    "references": [
+      {
+        "method": "-[WindowPVSelect loadTexture]",
+        "address": "0x45aba"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_02.plist",
+    "bytes": 6541,
+    "category": "图集索引",
+    "role": "UI_tex_02.png 的裁切索引，共69张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowRecord loadTexture] @ 0x4824a 引用资源名称",
+      "-[WindowResult loadTexture] @ 0x4d376 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowRecord loadTexture]",
+        "address": "0x4824a"
+      },
+      {
+        "method": "-[WindowResult loadTexture]",
+        "address": "0x4d376"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_02.png",
+    "bytes": 381339,
+    "category": "界面图集",
+    "role": "结算、评级、分数、回放、解锁通知等界面部件",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_02.plist 索引 69 个sprite",
+      "-[WindowRecord loadTexture] @ 0x4824a 引用资源名称",
+      "-[WindowResult loadTexture] @ 0x4d376 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowRecord loadTexture]",
+        "address": "0x4824a"
+      },
+      {
+        "method": "-[WindowResult loadTexture]",
+        "address": "0x4d376"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_03.plist",
+    "bytes": 1219,
+    "category": "图集索引",
+    "role": "UI_tex_03.png 的裁切索引，共13张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowOption loadTexture] @ 0x4446e 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption loadTexture]",
+        "address": "0x4446e"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_03.png",
+    "bytes": 249689,
+    "category": "界面图集",
+    "role": "音量调节与左右手操作设置",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_03.plist 索引 13 个sprite",
+      "-[WindowOption loadTexture] @ 0x4446e 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption loadTexture]",
+        "address": "0x4446e"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_04.plist",
+    "bytes": 1459,
+    "category": "图集索引",
+    "role": "UI_tex_04.png 的裁切索引，共16张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowOption loadTexture] @ 0x44496 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption loadTexture]",
+        "address": "0x44496"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_04.png",
+    "bytes": 544623,
+    "category": "界面图集",
+    "role": "键盘类型、输入面板引导和花朵效果设置",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_04.plist 索引 16 个sprite",
+      "-[WindowOption loadTexture] @ 0x44496 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption loadTexture]",
+        "address": "0x44496"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_05.plist",
+    "bytes": 1204,
+    "category": "图集索引",
+    "role": "UI_tex_05.png 的裁切索引，共12张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowTitle loadTexture] @ 0x50b2a 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50b2a"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_05.png",
+    "bytes": 763155,
+    "category": "界面图集",
+    "role": "标题页初音立绘、游戏标志、装饰及版权文字",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_05.plist 索引 12 个sprite",
+      "-[WindowTitle loadTexture] @ 0x50b2a 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50b2a"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_06.plist",
+    "bytes": 3146,
+    "category": "图集索引",
+    "role": "UI_tex_06.png 的裁切索引，共39张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowAdditionalPackage loadTexture] @ 0x30c6c 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowAdditionalPackage loadTexture]",
+        "address": "0x30c6c"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_06.png",
+    "bytes": 137942,
+    "category": "界面图集",
+    "role": "附加曲包商店、详情、安装/删除/重新安装、管理、曲包署名",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_06.plist 索引 39 个sprite",
+      "-[WindowAdditionalPackage loadTexture] @ 0x30c6c 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowAdditionalPackage loadTexture]",
+        "address": "0x30c6c"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_07.plist",
+    "bytes": 1120,
+    "category": "图集索引",
+    "role": "UI_tex_07.png 的裁切索引，共12张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowAdditionalPackage loadTexture] @ 0x30ca6 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowAdditionalPackage loadTexture]",
+        "address": "0x30ca6"
+      }
+    ]
+  },
+  {
+    "file": "UI_tex_07.png",
+    "bytes": 36781,
+    "category": "界面图集",
+    "role": "下载与恢复购买进度窗口",
+    "confidence": "确认",
+    "evidence": [
+      "UI_tex_07.plist 索引 12 个sprite",
+      "-[WindowAdditionalPackage loadTexture] @ 0x30ca6 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowAdditionalPackage loadTexture]",
+        "address": "0x30ca6"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_08.png",
+    "bytes": 168032,
+    "category": "界面图集",
+    "role": "BREAK THE LIMIT 解锁通知",
+    "confidence": "确认",
+    "evidence": [
+      "-[WindowUnlock setData::] @ 0x52d12 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowUnlock setData::]",
+        "address": "0x52d12"
+      }
+    ],
+    "image_size": [
+      512,
+      512
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "UI_tex_09.png",
+    "bytes": 285417,
+    "category": "界面图集",
+    "role": "显示比例/显示方式设置的设备示意图",
+    "confidence": "确认",
+    "evidence": [
+      "-[WindowOption setMode:] @ 0x42e9c 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption setMode:]",
+        "address": "0x42e9c"
+      }
+    ],
+    "image_size": [
+      512,
+      512
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "_CodeSignature/CodeResources",
+    "bytes": 32636,
+    "category": "签名配置",
+    "role": "代码签名的资源哈希清单",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "archived-expanded-entitlements.xcent",
+    "bytes": 378,
+    "category": "签名配置",
+    "role": "打包时展开的应用权限/entitlements配置",
+    "confidence": "确认",
+    "evidence": [],
+    "references": []
+  },
+  {
+    "file": "bg_tex_01.plist",
+    "bytes": 316,
+    "category": "图集索引",
+    "role": "bg_tex_01.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowTitle loadTexture] @ 0x50af2 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50af2"
+      }
+    ]
+  },
+  {
+    "file": "bg_tex_01.png",
+    "bytes": 321193,
+    "category": "场景背景",
+    "role": "标题界面背景",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_01.plist 索引 1 个sprite",
+      "-[WindowTitle loadTexture] @ 0x50af2 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50af2"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_02.plist",
+    "bytes": 429,
+    "category": "图集索引",
+    "role": "bg_tex_02.png 的裁切索引，共2张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowMusicSelect loadTexture] @ 0x40b9a 引用资源名称",
+      "-[WindowPVSelect loadTexture] @ 0x45a64 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowMusicSelect loadTexture]",
+        "address": "0x40b9a"
+      },
+      {
+        "method": "-[WindowPVSelect loadTexture]",
+        "address": "0x45a64"
+      }
+    ]
+  },
+  {
+    "file": "bg_tex_02.png",
+    "bytes": 530135,
+    "category": "场景背景",
+    "role": "选曲界面背景及封面加载占位图",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_02.plist 索引 2 个sprite",
+      "-[WindowMusicSelect loadTexture] @ 0x40b9a 引用资源名称",
+      "-[WindowPVSelect loadTexture] @ 0x45a64 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowMusicSelect loadTexture]",
+        "address": "0x40b9a"
+      },
+      {
+        "method": "-[WindowPVSelect loadTexture]",
+        "address": "0x45a64"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_03.plist",
+    "bytes": 346,
+    "category": "图集索引",
+    "role": "bg_tex_03.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowResult loadTexture] @ 0x4d340 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowResult loadTexture]",
+        "address": "0x4d340"
+      }
+    ]
+  },
+  {
+    "file": "bg_tex_03.png",
+    "bytes": 528720,
+    "category": "场景背景",
+    "role": "成绩/记录页的 RESULT 背景",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_03.plist 索引 1 个sprite",
+      "-[WindowResult loadTexture] @ 0x4d340 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowResult loadTexture]",
+        "address": "0x4d340"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_04.plist",
+    "bytes": 347,
+    "category": "图集索引",
+    "role": "bg_tex_04.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowOption loadTexture] @ 0x44436 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption loadTexture]",
+        "address": "0x44436"
+      }
+    ]
+  },
+  {
+    "file": "bg_tex_04.png",
+    "bytes": 544300,
+    "category": "场景背景",
+    "role": "OPTIONS 设置页背景",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_04.plist 索引 1 个sprite",
+      "-[WindowOption loadTexture] @ 0x44436 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption loadTexture]",
+        "address": "0x44436"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_05.plist",
+    "bytes": 347,
+    "category": "图集索引",
+    "role": "bg_tex_05.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowRecord loadTexture] @ 0x48216 引用资源名称",
+      "-[WindowScore loadTexture] @ 0x500dc 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowRecord loadTexture]",
+        "address": "0x48216"
+      },
+      {
+        "method": "-[WindowScore loadTexture]",
+        "address": "0x500dc"
+      }
+    ]
+  },
+  {
+    "file": "bg_tex_05.png",
+    "bytes": 529262,
+    "category": "场景背景",
+    "role": "游戏结算 RESULTS 背景",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_05.plist 索引 1 个sprite",
+      "-[WindowRecord loadTexture] @ 0x48216 引用资源名称",
+      "-[WindowScore loadTexture] @ 0x500dc 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowRecord loadTexture]",
+        "address": "0x48216"
+      },
+      {
+        "method": "-[WindowScore loadTexture]",
+        "address": "0x500dc"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_06.plist",
+    "bytes": 350,
+    "category": "图集索引",
+    "role": "bg_tex_06.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过"
+    ],
+    "references": []
+  },
+  {
+    "file": "bg_tex_06.png",
+    "bytes": 540493,
+    "category": "场景背景",
+    "role": "开始/加载阶段背景",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_06.plist 索引 1 个sprite"
+    ],
+    "references": [],
+    "image_size": [
+      640,
+      960
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_07.plist",
+    "bytes": 576,
+    "category": "图集索引",
+    "role": "bg_tex_07.png 的裁切索引，共4张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过"
+    ],
+    "references": []
+  },
+  {
+    "file": "bg_tex_07.png",
+    "bytes": 528332,
+    "category": "场景背景",
+    "role": "歌曲加载背景、初音角色和加载动画部件",
+    "confidence": "确认",
+    "evidence": [
+      "bg_tex_07.plist 索引 4 个sprite"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_08.png",
+    "bytes": 634753,
+    "category": "场景背景",
+    "role": "SceneBoot 使用的启动加载背景",
+    "confidence": "确认",
+    "evidence": [
+      "-[SceneBoot init] @ 0xfaa8 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[SceneBoot init]",
+        "address": "0xfaa8"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "bg_tex_09.png",
+    "bytes": 409548,
+    "category": "场景背景",
+    "role": "SceneBoot 使用的另一启动加载背景",
+    "confidence": "确认",
+    "evidence": [
+      "-[SceneBoot init] @ 0xfa9c 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[SceneBoot init]",
+        "address": "0xfa9c"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "cloverclub.usm",
+    "bytes": 92065312,
+    "category": "歌曲/PV",
+    "role": "《クローバー・クラブ》游戏/PV资源：一条视频、两条ADX音轨、624条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第5项，地址0x140a00",
+      "完整扫描USM块；320×480，20fps，3664帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "credits_en.png",
+    "bytes": 47879,
+    "category": "制作名单",
+    "role": "设置 → CREDITS 的英语/日语静态制作人员名单，包含SEGA/Crypton标志",
+    "confidence": "确认",
+    "evidence": [
+      "-[WindowOption setMode:] @ 0x43e12 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption setMode:]",
+        "address": "0x43e12"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "credits_ja.plist",
+    "bytes": 353,
+    "category": "图集索引",
+    "role": "credits_ja.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowOption setMode:] @ 0x43e06 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption setMode:]",
+        "address": "0x43e06"
+      }
+    ]
+  },
+  {
+    "file": "credits_ja.png",
+    "bytes": 47413,
+    "category": "制作名单",
+    "role": "设置 → CREDITS 的英语/日语静态制作人员名单，包含SEGA/Crypton标志",
+    "confidence": "确认",
+    "evidence": [
+      "credits_ja.plist 索引 1 个sprite",
+      "-[WindowOption setMode:] @ 0x43e06 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowOption setMode:]",
+        "address": "0x43e06"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "en.lproj/InfoPlist.strings",
+    "bytes": 80,
+    "category": "本地化",
+    "role": "英语本地化界面文字：帮助、设置、购买/安装提示、分享和错误消息",
+    "confidence": "确认",
+    "evidence": [
+      "Apple binary plist 解码"
+    ],
+    "references": []
+  },
+  {
+    "file": "en.lproj/Localizable.strings",
+    "bytes": 41111,
+    "category": "本地化",
+    "role": "英语本地化界面文字：帮助、设置、购买/安装提示、分享和错误消息",
+    "confidence": "确认",
+    "evidence": [
+      "Apple binary plist 解码"
+    ],
+    "references": []
+  },
+  {
+    "file": "ending.plist",
+    "bytes": 314,
+    "category": "图集索引",
+    "role": "ending.png 的裁切索引，共1张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowEnding loadTexture] @ 0x38c08 引用资源名称",
+      "-[WindowPreEnding init] @ 0x79dda 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowEnding loadTexture]",
+        "address": "0x38c08"
+      },
+      {
+        "method": "-[WindowPreEnding init]",
+        "address": "0x79dda"
+      }
+    ]
+  },
+  {
+    "file": "ending.png",
+    "bytes": 642856,
+    "category": "结尾",
+    "role": "滚动结尾名单的背景；实际名单文字由主程序动态绘制",
+    "confidence": "确认",
+    "evidence": [
+      "ending.plist 索引 1 个sprite",
+      "-[WindowEnding loadTexture] @ 0x38c08 引用资源名称",
+      "-[WindowPreEnding init] @ 0x79dda 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowEnding loadTexture]",
+        "address": "0x38c08"
+      },
+      {
+        "method": "-[WindowPreEnding init]",
+        "address": "0x79dda"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "ending.usm",
+    "bytes": 3043648,
+    "category": "结尾",
+    "role": "结尾前的演出剪辑视频及一条音轨；WindowPreEnding 调用 ReLoad:ending",
+    "confidence": "确认",
+    "evidence": [
+      "完整扫描USM块；320×480，20fps，162帧；1条音轨",
+      "-[WindowEnding loadTexture] @ 0x38c08 引用资源名称",
+      "-[WindowPreEnding init] @ 0x79dda 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowEnding loadTexture]",
+        "address": "0x38c08"
+      },
+      {
+        "method": "-[WindowPreEnding init]",
+        "address": "0x79dda"
+      }
+    ]
+  },
+  {
+    "file": "game_effect_01.plist",
+    "bytes": 1232,
+    "category": "图集索引",
+    "role": "game_effect_01.png 的裁切索引，共13张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "-[WindowGameWindow loadTexture] @ 0x39afa 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowGameWindow loadTexture]",
+        "address": "0x39afa"
+      }
+    ]
+  },
+  {
+    "file": "game_effect_01.png",
+    "bytes": 445744,
+    "category": "游戏输入效果",
+    "role": "输入判定效果：音符面板、箭头、烟花、涟漪等；编号为配色变体",
+    "confidence": "确认",
+    "evidence": [
+      "game_effect_01.plist 索引 13 个sprite",
+      "-[WindowGameWindow loadTexture] @ 0x39afa 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowGameWindow loadTexture]",
+        "address": "0x39afa"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_effect_02.png",
+    "bytes": 419312,
+    "category": "游戏输入效果",
+    "role": "输入判定效果：音符面板、箭头、烟花、涟漪等；编号为配色变体",
+    "confidence": "确认",
+    "evidence": [
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_effect_03.png",
+    "bytes": 423849,
+    "category": "游戏输入效果",
+    "role": "输入判定效果：音符面板、箭头、烟花、涟漪等；编号为配色变体",
+    "confidence": "确认",
+    "evidence": [
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_effect_04.png",
+    "bytes": 440216,
+    "category": "游戏输入效果",
+    "role": "输入判定效果：音符面板、箭头、烟花、涟漪等；编号为配色变体",
+    "confidence": "确认",
+    "evidence": [
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_effect_05.png",
+    "bytes": 446071,
+    "category": "游戏输入效果",
+    "role": "输入判定效果：音符面板、箭头、烟花、涟漪等；编号为配色变体",
+    "confidence": "确认",
+    "evidence": [
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_tex_01.plist",
+    "bytes": 7800,
+    "category": "图集索引",
+    "role": "game_tex_01.png 的裁切索引，共84张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过"
+    ],
+    "references": []
+  },
+  {
+    "file": "game_tex_01.png",
+    "bytes": 416420,
+    "category": "游戏HUD",
+    "role": "游戏HUD：得分、连击、判定、暂停、音符、轨道、输入方向等",
+    "confidence": "确认",
+    "evidence": [
+      "game_tex_01.plist 索引 84 个sprite"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_tex_02.plist",
+    "bytes": 6278,
+    "category": "图集索引",
+    "role": "game_tex_02.png 的裁切索引，共66张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "+[SystemTexture UpdateTelopTex] @ 0x206a0 引用资源名称",
+      "+[SystemTexture LoadBoardTex] @ 0x208a4 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x206a0"
+      },
+      {
+        "method": "+[SystemTexture LoadBoardTex]",
+        "address": "0x208a4"
+      }
+    ]
+  },
+  {
+    "file": "game_tex_02.png",
+    "bytes": 362758,
+    "category": "游戏键盘",
+    "role": "滑动键盘/输入字符图集；original、romanhira、fullroman对应键盘显示类型",
+    "confidence": "确认",
+    "evidence": [
+      "game_tex_02.plist 索引 66 个sprite",
+      "+[SystemTexture UpdateTelopTex] @ 0x206a0 引用资源名称",
+      "+[SystemTexture LoadBoardTex] @ 0x208a4 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x206a0"
+      },
+      {
+        "method": "+[SystemTexture LoadBoardTex]",
+        "address": "0x208a4"
+      }
+    ],
+    "image_size": [
+      512,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_tex_02_fullroman.png",
+    "bytes": 450099,
+    "category": "游戏键盘",
+    "role": "滑动键盘/输入字符图集；original、romanhira、fullroman对应键盘显示类型",
+    "confidence": "确认",
+    "evidence": [
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成",
+      "+[SystemTexture UpdateTelopTex] @ 0x205de 引用资源名称",
+      "+[SystemTexture LoadBoardTex] @ 0x20896 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x205de"
+      },
+      {
+        "method": "+[SystemTexture LoadBoardTex]",
+        "address": "0x20896"
+      }
+    ],
+    "image_size": [
+      512,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "game_tex_02_romanhira.png",
+    "bytes": 509769,
+    "category": "游戏键盘",
+    "role": "滑动键盘/输入字符图集；original、romanhira、fullroman对应键盘显示类型",
+    "confidence": "确认",
+    "evidence": [
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成",
+      "+[SystemTexture UpdateTelopTex] @ 0x20540 引用资源名称",
+      "+[SystemTexture LoadBoardTex] @ 0x2088a 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x20540"
+      },
+      {
+        "method": "+[SystemTexture LoadBoardTex]",
+        "address": "0x2088a"
+      }
+    ],
+    "image_size": [
+      512,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "hajimete_no_oto.usm",
+    "bytes": 79107040,
+    "category": "歌曲/PV",
+    "role": "《ハジメテノオト》游戏/PV资源：一条视频、两条ADX音轨、430条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第1项，地址0x140970",
+      "完整扫描USM块；320×480，20fps，3633帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "hatsune_miku_no_gekisyou.usm",
+    "bytes": 81362624,
+    "category": "歌曲/PV",
+    "role": "《初音ミクの激唱》游戏/PV资源：一条视频、两条ADX音轨、824条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第9项，地址0x140a90",
+      "完整扫描USM块；320×480，20fps，3217帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "help_01.png",
+    "bytes": 1560198,
+    "category": "帮助",
+    "role": "帮助页的操作示意截图图集，配合本地化帮助文字",
+    "confidence": "确认",
+    "evidence": [
+      "-[WindowHelpText init] @ 0x3beba 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowHelpText init]",
+        "address": "0x3beba"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "help_02.png",
+    "bytes": 1000787,
+    "category": "帮助",
+    "role": "帮助页的操作示意截图图集，配合本地化帮助文字",
+    "confidence": "确认",
+    "evidence": [
+      "-[WindowHelpText init] @ 0x3beec 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowHelpText init]",
+        "address": "0x3beec"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "ipad_top.png",
+    "bytes": 396565,
+    "category": "启动",
+    "role": "iPad 原生视图的初始加载背景",
+    "confidence": "确认",
+    "evidence": [
+      "三个iPad NIB对象图的 UIResourceName = ipad_top.png",
+      "字节完全相同：LaunchImage-700-Portrait~ipad.png, LaunchImage-Portrait~ipad.png"
+    ],
+    "references": [],
+    "image_size": [
+      768,
+      1024
+    ],
+    "identical_files": [
+      "LaunchImage-700-Portrait~ipad.png",
+      "LaunchImage-Portrait~ipad.png"
+    ]
+  },
+  {
+    "file": "jQueryInject.txt",
+    "bytes": 1952,
+    "category": "分享",
+    "role": "嵌入式Twitter OAuth登录页的排版调整JavaScript，包含登录框、allow/deny按钮布局；横屏版本命名",
+    "confidence": "确认",
+    "evidence": [
+      "只读取脚本内容，未执行"
+    ],
+    "references": []
+  },
+  {
+    "file": "jQueryInjectLandscape.txt",
+    "bytes": 1952,
+    "category": "分享",
+    "role": "嵌入式Twitter OAuth登录页的排版调整JavaScript，包含登录框、allow/deny按钮布局；横屏版本命名",
+    "confidence": "确认",
+    "evidence": [
+      "只读取脚本内容，未执行"
+    ],
+    "references": []
+  },
+  {
+    "file": "ja.lproj/InfoPlist.strings",
+    "bytes": 80,
+    "category": "本地化",
+    "role": "日语本地化界面文字：帮助、设置、购买/安装提示、分享和错误消息",
+    "confidence": "确认",
+    "evidence": [
+      "Apple binary plist 解码"
+    ],
+    "references": []
+  },
+  {
+    "file": "ja.lproj/Localizable.strings",
+    "bytes": 42372,
+    "category": "本地化",
+    "role": "日语本地化界面文字：帮助、设置、购买/安装提示、分享和错误消息",
+    "confidence": "确认",
+    "evidence": [
+      "Apple binary plist 解码"
+    ],
+    "references": []
+  },
+  {
+    "file": "koi_wa_sensou.usm",
+    "bytes": 72206624,
+    "category": "歌曲/PV",
+    "role": "《恋は戦争》游戏/PV资源：一条视频、两条ADX音轨、313条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第0项，地址0x14094c",
+      "完整扫描USM块；320×480，20fps，3140帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "logo_cri.png",
+    "bytes": 29247,
+    "category": "启动标志",
+    "role": "CRIWARE启动标志",
+    "confidence": "确认",
+    "evidence": [
+      "WindowTitle loadTexture 直接加载",
+      "-[WindowTitle loadTexture] @ 0x50de4 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50de4"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "logo_crypton.png",
+    "bytes": 12202,
+    "category": "启动标志",
+    "role": "Crypton启动标志",
+    "confidence": "确认",
+    "evidence": [
+      "WindowTitle loadTexture 直接加载",
+      "-[WindowTitle loadTexture] @ 0x50dbe 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50dbe"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "logo_sega.png",
+    "bytes": 14159,
+    "category": "启动标志",
+    "role": "SEGA启动标志",
+    "confidence": "确认",
+    "evidence": [
+      "WindowTitle loadTexture 直接加载",
+      "-[WindowTitle loadTexture] @ 0x50d98 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "-[WindowTitle loadTexture]",
+        "address": "0x50d98"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "magnet.usm",
+    "bytes": 91051968,
+    "category": "歌曲/PV",
+    "role": "《magnet》游戏/PV资源：一条视频、两条ADX音轨、462条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第6项，地址0x140a24",
+      "完整扫描USM块；320×480，20fps，3590帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "mf_hiragana_blank.png",
+    "bytes": 243972,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x206cc 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x206cc"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_hiragana_blank_fullroman.png",
+    "bytes": 199205,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x2060e 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x2060e"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_hiragana_blank_romanhira.png",
+    "bytes": 252058,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x2056c 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x2056c"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_hiragana_telop.png",
+    "bytes": 241049,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x206f0 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x206f0"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_hiragana_telop_fullroman.png",
+    "bytes": 202790,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x20638 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x20638"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_hiragana_telop_romanhira.png",
+    "bytes": 258277,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x20592 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x20592"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_katakana_blank.png",
+    "bytes": 211143,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x20714 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x20714"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "mf_katakana_telop.png",
+    "bytes": 209960,
+    "category": "游戏字符",
+    "role": "游戏输入字符字形位图；平假名/片假名及罗马字显示版本，blank/telop为绘制状态变体",
+    "confidence": "确认",
+    "evidence": [
+      "+[SystemTexture UpdateTelopTex] @ 0x20736 引用资源名称"
+    ],
+    "references": [
+      {
+        "method": "+[SystemTexture UpdateTelopTex]",
+        "address": "0x20736"
+      }
+    ],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "migikata_no_tyou.usm",
+    "bytes": 92521600,
+    "category": "歌曲/PV",
+    "role": "《右肩の蝶》游戏/PV资源：一条视频、两条ADX音轨、660条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第3项，地址0x1409b8",
+      "完整扫描USM块；320×480，20fps，3570帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "music_00_01.plist",
+    "bytes": 703,
+    "category": "图集索引",
+    "role": "music_00_01.png 的裁切索引，共6张sprite",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过"
+    ],
+    "references": []
+  },
+  {
+    "file": "music_00_01.png",
+    "bytes": 849829,
+    "category": "选曲封面",
+    "role": "11首预装歌曲的封面插画、曲名与作者标识图集",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x14094c：恋は戦争，图集内索引0",
+      "歌曲表 0x140970：ハジメテノオト，图集内索引1",
+      "歌曲表 0x140994：炉心融解，图集内索引2",
+      "music_00_01.plist 索引 6 个sprite"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "music_00_02.png",
+    "bytes": 763734,
+    "category": "选曲封面",
+    "role": "11首预装歌曲的封面插画、曲名与作者标识图集",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x1409b8：右肩の蝶，图集内索引0",
+      "歌曲表 0x1409dc：Just Be Friends，图集内索引1",
+      "歌曲表 0x140a00：クローバー・クラブ，图集内索引2",
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "music_00_03.png",
+    "bytes": 778646,
+    "category": "选曲封面",
+    "role": "11首预装歌曲的封面插画、曲名与作者标识图集",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a24：magnet，图集内索引0",
+      "歌曲表 0x140a48：Promise，图集内索引1",
+      "歌曲表 0x140a6c：裏表ラバーズ，图集内索引2",
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "music_00_04.png",
+    "bytes": 792076,
+    "category": "选曲封面",
+    "role": "11首预装歌曲的封面插画、曲名与作者标识图集",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a90：初音ミクの激唱，图集内索引0",
+      "歌曲表 0x140ab4：多重未来のカルテット，图集内索引1",
+      "无独立plist；其布局与同系列基础图集对应，具体纹理切换由程序完成"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "music_01_01.png",
+    "bytes": 951247,
+    "category": "附加曲包",
+    "role": "附加曲包封面和曲名图集，画面包含：カラフル×セクシィ、ジェミニ（Gemini）、カンタレラ。封面用途明确；该具体文件是否被当前商店配置选中仍待确认",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "ExPackManager Load @ 0x60fa8：从 ShopList_enc.txt 的 %03d_%03d_ArtWorkFileName 读取文件名",
+      "选曲封面通过 CoverTexUnit fncLoadTexture @ 0x3f668 按 m_TexName 动态加载",
+      "商店元数据不在当前.app包内，因此不能仅按包内文件名认定实际曲包编号/触发"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "music_02_01.png",
+    "bytes": 708909,
+    "category": "附加曲包",
+    "role": "附加曲包封面和曲名图集，画面包含：カラフル×メロディ、Yellow、こっち向いて Baby。封面用途明确；该具体文件是否被当前商店配置选中仍待确认",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "ExPackManager Load @ 0x60fa8：从 ShopList_enc.txt 的 %03d_%03d_ArtWorkFileName 读取文件名",
+      "选曲封面通过 CoverTexUnit fncLoadTexture @ 0x3f668 按 m_TexName 动态加载",
+      "商店元数据不在当前.app包内，因此不能仅按包内文件名认定实际曲包编号/触发"
+    ],
+    "references": [],
+    "image_size": [
+      1024,
+      1024
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "promise.usm",
+    "bytes": 88010592,
+    "category": "歌曲/PV",
+    "role": "《Promise》游戏/PV资源：一条视频、两条ADX音轨、457条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第7项，地址0x140a48",
+      "完整扫描USM块；320×480，20fps，3498帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_001_lp.adx",
+    "bytes": 1310720,
+    "category": "选曲试听",
+    "role": "选曲时《恋は戦争》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x14094c 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 26.414875 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_042_lp.adx",
+    "bytes": 1284096,
+    "category": "选曲试听",
+    "role": "选曲时《初音ミクの激唱》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a90 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 25.851066 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_044_lp.adx",
+    "bytes": 1265664,
+    "category": "选曲试听",
+    "role": "选曲时《magnet》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a24 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 25.506395 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_054_lp.adx",
+    "bytes": 1210368,
+    "category": "选曲试听",
+    "role": "选曲时《炉心融解》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140994 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 24.380952 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_056_lp.adx",
+    "bytes": 768000,
+    "category": "选曲试听",
+    "role": "选曲时《右肩の蝶》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x1409b8 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 15.450703 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_061_lp.adx",
+    "bytes": 1452032,
+    "category": "选曲试听",
+    "role": "选曲时《クローバー・クラブ》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a00 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 29.256417 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_062_lp.adx",
+    "bytes": 1632256,
+    "category": "选曲试听",
+    "role": "选曲时《Promise》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a48 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 32.869297 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_065_lp.adx",
+    "bytes": 2179072,
+    "category": "选曲试听",
+    "role": "选曲时《ハジメテノオト》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140970 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 43.919093 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_066_lp.adx",
+    "bytes": 931840,
+    "category": "选曲试听",
+    "role": "选曲时《Just Be Friends》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x1409dc 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 18.750113 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_082_lp.adx",
+    "bytes": 704512,
+    "category": "选曲试听",
+    "role": "选曲时《裏表ラバーズ》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140a6c 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 14.171429 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "pv_102_lp.adx",
+    "bytes": 1458176,
+    "category": "选曲试听",
+    "role": "选曲时《多重未来のカルテット》的循环试听音频",
+    "confidence": "确认",
+    "evidence": [
+      "歌曲表 0x140ab4 的 SetPreSoundFileName 字段；WindowMusicSelect updateSound 读取此字段",
+      "时长 29.361633 秒"
+    ],
+    "references": []
+  },
+  {
+    "file": "roshin_yuukai.usm",
+    "bytes": 105980512,
+    "category": "歌曲/PV",
+    "role": "《炉心融解》游戏/PV资源：一条视频、两条ADX音轨、546条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第2项，地址0x140994",
+      "完整扫描USM块；320×480，20fps，4220帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "saisei.png",
+    "bytes": 5694,
+    "category": "界面图像",
+    "role": "灰色播放按钮图像；具体加载调用未定位",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "当前主程序中未找到 saisei/saisei.png 字面量，也不在450项sprite表中；未恢复具体加载路径，保留为残留资源候选"
+    ],
+    "references": [],
+    "image_size": [
+      128,
+      128
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "tajyuumirai_no_quartet.usm",
+    "bytes": 85945760,
+    "category": "歌曲/PV",
+    "role": "《多重未来のカルテット》游戏/PV资源：一条视频、两条ADX音轨、472条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第10项，地址0x140ab4",
+      "完整扫描USM块；320×480，20fps，3448帧；2条音轨"
+    ],
+    "references": []
+  },
+  {
+    "file": "thum_01_01.plist",
+    "bytes": 737,
+    "category": "图集索引",
+    "role": "商店缩略图的裁切坐标模板；包含3张PV截图和3张歌曲缩略图，供同布局的曲包纹理复用",
+    "confidence": "确认",
+    "evidence": [
+      "二进制plist已解码；全部裁切矩形边界检查通过",
+      "TPManager Initialize @ 0x3051c 遍历21项plist并解析450个frame坐标",
+      "WindowPackage RenderInfo @ 0x16580 使用frame445～447，WindowPackMusic/WindowPackManage使用同布局的曲包纹理",
+      "plist对应布局被使用，不代表同名PNG必然被加载"
+    ],
+    "references": []
+  },
+  {
+    "file": "thum_01_01.png",
+    "bytes": 293175,
+    "category": "附加曲包",
+    "role": "与附加曲包商店缩略图布局相符的图集，内容对应 カラフル×セクシィ、ジェミニ、カンタレラ。目前实际加载链使用缓存文件，尚不能确认本包PNG被直接使用",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "thum_01_01.plist 索引 6 个sprite",
+      "WindowPackage RenderInfo @ 0x16580 使用 GetPackage(index)→GetThumTex，绘制frame445～447",
+      "frame445～447裁切坐标来自 thum_01_01.plist，而实际纹理来自 ExPackInfo.m_ThumTex",
+      "ExPackManager GetThumFilePath @ 0x62518 生成 GetInstallPath()/Thum_<PackID>/thum_<PackID>.png",
+      "ExPackInfo LoadThumTex @ 0x60c78 检查缓存、缺失时下载、随后 LoadFullPath；此路径不同于包内PNG名"
+    ],
+    "references": [],
+    "image_size": [
+      512,
+      512
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "thum_02_01.png",
+    "bytes": 260132,
+    "category": "附加曲包",
+    "role": "与附加曲包商店缩略图布局相符的图集，内容对应 カラフル×メロディ、Yellow、こっち向いて Baby。目前实际加载链使用缓存文件，尚不能确认本包PNG被直接使用",
+    "confidence": "内容确认，触发待确认",
+    "evidence": [
+      "WindowPackage RenderInfo @ 0x16580 使用 GetPackage(index)→GetThumTex，绘制frame445～447",
+      "frame445～447裁切坐标来自 thum_01_01.plist，而实际纹理来自 ExPackInfo.m_ThumTex",
+      "ExPackManager GetThumFilePath @ 0x62518 生成 GetInstallPath()/Thum_<PackID>/thum_<PackID>.png",
+      "ExPackInfo LoadThumTex @ 0x60c78 检查缓存、缺失时下载、随后 LoadFullPath；此路径不同于包内PNG名"
+    ],
+    "references": [],
+    "image_size": [
+      512,
+      512
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "twitter_load.png",
+    "bytes": 37205,
+    "category": "分享",
+    "role": "Twitter OAuth 登录页背景：SA_OAuthTwitterController loadView 用 UIImage imageNamed 加载并创建 UIImageView",
+    "confidence": "确认",
+    "evidence": [
+      "-[SA_OAuthTwitterController loadView] @ 0x86c64 引用资源名称",
+      "loadView @ 0x86bf4，imageNamed: 调用 @ 0x86c66，存入 _backgroundView"
+    ],
+    "references": [
+      {
+        "method": "-[SA_OAuthTwitterController loadView]",
+        "address": "0x86c64"
+      }
+    ],
+    "image_size": [
+      320,
+      416
+    ],
+    "identical_files": []
+  },
+  {
+    "file": "ura_omote_lovers.usm",
+    "bytes": 76117856,
+    "category": "歌曲/PV",
+    "role": "《裏表ラバーズ》游戏/PV资源：一条视频、两条ADX音轨、1296条谱面/歌词事件",
+    "confidence": "确认",
+    "evidence": [
+      "_sTblDefaultMusicPackData 第8项，地址0x140a6c",
+      "完整扫描USM块；320×480，20fps，3720帧；2条音轨"
+    ],
+    "references": []
+  }
+]
